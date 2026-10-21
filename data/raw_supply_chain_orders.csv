@@ -1,0 +1,1001 @@
+order_id,order_date,sku_id,product_name,category,supplier_name,warehouse_id,units_ordered,unit_price,discount_percent,shipping_mode,promised_lead_time_days,actual_lead_time_days,delivery_date,order_status,current_stock_level,reorder_batch_size,customer_region
+ORD-0078303,2026-02-15 04:00:29,SKU-HOME-0021,Sure Collection 0021,home & kitchen,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,14,453.09,0.2,Sea Freight,16,19.0,2026-03-06 04:00:29,Delivered,452,1295,Middle East
+ORD-0066465,2026-10-07 06:00:56,SKU-ELEC-0006,Require Sit 0006, electronics  ,Domestic NextDay LLC,WH-SOUTH-03,4,408.7,0.25,Overnight,3,,,Pending,83,250,APAC
+ORD-0093228,2026-06-22 18:20:30,SKU-APPA-0015,Rate Science 0015,  Apparel ,Apex Logistics Hub,WH-SOUTH-03,5,348.12,,Air Freight,7,8.0,2026-06-30 18:20:30,Returned,676,672,Europe
+ORD-0001748,2026-04-06 22:02:52,SKU-BEAU-0040,Sea Available 0040, beauty & health  ,nordic fulfillment ab,WH-SOUTH-03,6,47.74,0.05,Standard Express,10,9.0,2026-04-15 22:02:52,Delivered,445,1030,Middle East
+ORD-0080005,2025-11-10 18:58:41,SKU-ELEC-0010,All Better 0010,electronics,EURODIRECT DISTRIBUTION,WH-WEST-02,5,190.21,0.2,Road Freight,9,,,Pending,394,532,LATAM
+ORD-0019261,2026-03-04 00:27:55,SKU-BEAU-0038,Training High 0038,  Beauty & Health , shenzhen global tech ltd  ,WH-EAST-01,6,386.78,0.3,Sea Freight,18,22.0,2026-03-26 00:27:55,Delivered,69,515,APAC
+ORD-0026830,2026-04-14 23:01:24,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS,Domestic NextDay LLC,WH-WEST-02,4,408.7,0.1,Overnight,3,2.0,2026-04-16 23:01:24,Delivered,83,250,Middle East
+ORD-0080313,2025-12-29 03:45:34,SKU-APPA-0014,Decide Sense 0014,Apparel,Shenzhen Global Tech Ltd,WH-WEST-02,1,200.04,0.2,Sea Freight,18,,,Cancelled,644,861,Middle East
+ORD-0018568,2026-05-22 12:36:15,SKU-ELEC-0008,Begin Performance 0008, electronics  ,fasttrack freight corp,WH-SOUTH-03,3,301.66,0.0,Air Freight,12,,,In Transit,268,518,APAC
+ORD-0031083,2026-08-18 17:21:04,SKU-SPOR-0041,Answer Recently 0041, sports & outdoors  ,APEX LOGISTICS HUB,WH-SOUTH-03,2,19.4,0.25,Air Freight,7,,,Pending,262,343,Middle East
+ORD-0024142,2026-06-11 15:19:22,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,apex logistics hub,WH-CENTRAL-01,7,19.4,0.0,Air Freight,7,,,Pending,262,343,Middle East
+ORD-0095216,2026-02-02 09:17:18,SKU-HOME-0025,Source Great 0025,  Home & Kitchen , eurodirect distribution  ,WH-CENTRAL-01,10,368.97,0.05,Road Freight,9,,,Pending,899,783,North America
+ORD-0018847,2026-03-15 15:35:32,SKU-SPOR-0043,Figure Base 0043,SPORTS & OUTDOORS,FASTTRACK FREIGHT CORP,WH-SOUTH-03,4,195.02,0.15,Air Freight,12,,,In Transit,90,165,North America
+ORD-0002350,2026-03-15 13:05:42,SKU-BEAU-0033,Capital Win 0033,beauty & health,pacific coastal cargo,WH-SOUTH-03,12,307.54,0.05,Sea Freight,21,34.0,2026-04-18 13:05:42,Delivered,452,770,Europe
+ORD-0020197,2025-11-08 08:23:53,SKU-SPOR-0042,Drive Spring 0042,sports & outdoors,Apex Logistics Hub,WH-EAST-01,7,112.43,,Air Freight,7,,,Cancelled,191,680,LATAM
+ORD-0043192,2026-03-01 17:48:59,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,shenzhen global tech ltd,WH-EAST-01,5,256.9,0.15,Sea Freight,18,18.0,2026-03-19 17:48:59,Delivered,213,422,Middle East
+ORD-0065288,2026-01-09 09:03:00,SKU-HOME-0023,Grow Fall 0023,Home & Kitchen,EuroDirect Distribution,WH-EAST-01,7,350.08,0.1,Road Freight,9,8.0,2026-01-17 09:03:00,Returned,282,528,North America
+ORD-0007733,2026-07-08 07:13:57,SKU-BEAU-0033,Capital Win 0033,beauty & health,PACIFIC COASTAL CARGO,WH-SOUTH-03,12,307.54,0.0,Sea Freight,21,,,Cancelled,452,770,Middle East
+ORD-0079604,2025-10-26 18:35:31,SKU-APPA-0018,Perform Fall 0018,APPAREL,fasttrack freight corp,WH-CENTRAL-01,13,478.85,0.15,Air Freight,12,,,In Transit,710,971,Middle East
+ORD-0015207,2026-07-08 00:29:24,SKU-BEAU-0031,Animal Show 0031,beauty & health,  EuroDirect Distribution ,WH-SOUTH-03,19,217.31,0.1,Road Freight,9,,,Cancelled,1149,1138,
+ORD-0034431,2026-03-16 12:18:12,SKU-ELEC-0004,Dog Chair 0004, electronics  , fasttrack freight corp  ,WH-SOUTH-03,11,418.9,0.1,Air Freight,12,18.0,2026-04-03 12:18:12,Delivered,382,513,Middle East
+ORD-0058555,2026-04-01 08:09:05,SKU-SPOR-0041,Answer Recently 0041,  Sports & Outdoors ,apex logistics hub,WH-CENTRAL-01,2,19.4,,Air Freight,7,,,Cancelled,262,343,Middle East
+ORD-0096688,2026-08-05 21:33:34,SKU-BEAU-0035,Old Finally 0035, beauty & health  ,  Pacific Coastal Cargo ,WH-EAST-01,4,74.36,0.3,Sea Freight,21,,,Pending,610,535,LATAM
+ORD-0029888,2025-12-21 00:04:05,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,  Pacific Coastal Cargo ,WH-SOUTH-03,4,45.63,0.25,Sea Freight,21,15.0,2026-01-05 00:04:05,Delivered,383,489,LATAM
+ORD-0058030,2026-04-11 22:31:47,SKU-HOME-0023,Grow Fall 0023,home & kitchen,EuroDirect Distribution,WH-EAST-01,9,350.08,0.1,Road Freight,9,12.0,2026-04-23 22:31:47,Delivered,282,528,Middle East
+ORD-0061209,2026-06-14 00:24:23,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,apex logistics hub,WH-SOUTH-03,3,19.4,0.05,Air Freight,7,,,Pending,262,343,Europe
+ORD-0082881,2026-06-30 11:48:35,SKU-ELEC-0007,Wait Offer 0007,ELECTRONICS,EURODIRECT DISTRIBUTION,WH-EAST-01,3,467.43,0.25,Road Freight,9,8.0,2026-07-08 11:48:35,Delivered,263,310,APAC
+ORD-0028641,2026-03-16 04:04:39,SKU-HOME-0021,Sure Collection 0021, home & kitchen  ,  Andes Supply Chain SA ,WH-SOUTH-03,9,453.09,0.05,Sea Freight,16,,,Pending,452,1295,Europe
+ORD-0013365,2026-04-01 10:22:54,SKU-BEAU-0035,Old Finally 0035,beauty & health,Pacific Coastal Cargo,WH-WEST-02,11,74.36,0.15,Sea Freight,21,,,In Transit,610,535,North America
+ORD-0007738,2026-08-21 06:03:20,SKU-APPA-0014,Decide Sense 0014,APPAREL,SHENZHEN GLOBAL TECH LTD,WH-SOUTH-03,6,200.04,0.25,Sea Freight,18,31.0,2026-09-21 06:03:20,Delivered,644,861,Middle East
+ORD-0057851,2026-06-21 11:28:07,SKU-BEAU-0037,Present Value 0037, beauty & health  ,apex logistics hub,WH-SOUTH-03,9,416.34,0.25,Air Freight,7,,,Pending,501,956,Europe
+ORD-0065788,2026-05-09 06:54:44,SKU-SPOR-0044,Top Early 0044,Sports & Outdoors,Andes Supply Chain SA,WH-WEST-02,5,477.86,0.05,Sea Freight,16,16.0,2026-05-25 06:54:44,Delivered,429,1136,Europe
+ORD-0073348,2026-06-21 00:13:29,SKU-HOME-0023,Grow Fall 0023,  Home & Kitchen , eurodirect distribution  ,WH-WEST-02,11,350.08,0.15,Road Freight,9,7.0,2026-06-28 00:13:29,Delivered,282,528,LATAM
+ORD-0085131,2026-10-04 13:08:19,SKU-BEAU-0040,Sea Available 0040,  Beauty & Health ,  Nordic Fulfillment AB ,WH-EAST-01,5,47.74,0.25,Standard Express,10,13.0,2026-10-17 13:08:19,Delivered,445,1030,APAC
+ORD-0040629,2026-10-21 06:28:42,SKU-ELEC-0008,Begin Performance 0008,Electronics,  FastTrack Freight Corp ,WH-CENTRAL-01,4,301.66,0.3,Air Freight,12,,,In Transit,268,518,LATAM
+ORD-0046566,2026-10-20 05:49:50,SKU-ELEC-0005,Since Blue 0005,Electronics,Nordic Fulfillment AB,WH-CENTRAL-01,6,460.0,0.0,Standard Express,10,,,In Transit,486,688,Europe
+ORD-0033787,2025-10-25 01:12:09,SKU-ELEC-0005,Since Blue 0005, electronics  ,Nordic Fulfillment AB,WH-WEST-02,14,460.0,0.3,Standard Express,10,4.0,2025-10-29 01:12:09,Delivered,486,688,APAC
+ORD-0021398,2026-03-16 11:42:38,SKU-ELEC-0004,Dog Chair 0004,  Electronics ,fasttrack freight corp,WH-SOUTH-03,8,418.9,0.05,Air Freight,12,12.0,2026-03-28 11:42:38,Delivered,382,513,APAC
+ORD-0030919,2025-11-01 00:36:21,SKU-SPOR-0045,Trial Blood 0045,sports & outdoors,ANDES SUPPLY CHAIN SA,WH-WEST-02,7,39.84,0.05,Sea Freight,16,19.0,2025-11-20 00:36:21,Delivered,154,366,
+ORD-0097902,2026-03-26 16:56:01,SKU-ELEC-0005,Since Blue 0005,  Electronics ,nordic fulfillment ab,WH-WEST-02,10,460.0,0.1,Standard Express,10,9.0,2026-04-04 16:56:01,Delivered,486,688,APAC
+ORD-0055980,2026-06-09 19:36:37,SKU-HOME-0023,Grow Fall 0023,HOME & KITCHEN,EuroDirect Distribution,WH-EAST-01,8,350.08,0.05,Road Freight,9,6.0,2026-06-15 19:36:37,Returned,282,528,LATAM
+ORD-0024116,2026-01-23 01:43:18,SKU-APPA-0013,Agreement Option 0013,apparel,EuroDirect Distribution,WH-CENTRAL-01,11,371.69,0.05,Road Freight,9,,,Pending,431,1063,APAC
+ORD-0056253,2026-08-18 15:20:17,SKU-APPA-0013,Agreement Option 0013, apparel  ,eurodirect distribution,WH-SOUTH-03,7,371.69,0.0,Road Freight,9,9.0,2026-08-27 15:20:17,Returned,431,1063,LATAM
+ORD-0097573,2025-12-13 19:52:39,SKU-SPOR-0042,Drive Spring 0042, sports & outdoors  ,  Apex Logistics Hub ,WH-CENTRAL-01,6,112.43,0.25,Air Freight,7,9.0,2025-12-22 19:52:39,Returned,191,680,APAC
+ORD-0058979,2026-09-22 10:41:52,SKU-BEAU-0036,Themselves Production 0036,beauty & health,andes supply chain sa,WH-EAST-01,13,101.52,0.3,Sea Freight,16,2.0,2026-09-24 10:41:52,Delivered,646,902,Middle East
+ORD-0074611,2025-11-28 10:13:49,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors,Shenzhen Global Tech Ltd,WH-SOUTH-03,4,256.9,0.0,Sea Freight,18,19.0,2025-12-17 10:13:49,Delivered,213,422,North America
+ORD-0009549,2026-02-09 23:35:00,SKU-APPA-0013,Agreement Option 0013,apparel,eurodirect distribution,WH-EAST-01,11,371.69,,Road Freight,9,9.0,2026-02-18 23:35:00,Delivered,431,1063,Middle East
+ORD-0049853,2026-04-11 17:28:20,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-EAST-01,11,62.25,0.0,Road Freight,9,,,Cancelled,1095,1209,Europe
+ORD-0095576,2026-07-18 14:33:02,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,  Andes Supply Chain SA ,WH-CENTRAL-01,5,39.84,0.0,Sea Freight,16,28.0,2026-08-15 14:33:02,Delivered,154,366,North America
+ORD-0079937,2026-02-11 14:45:32,SKU-SPOR-0049,Commercial Hospital 0049,SPORTS & OUTDOORS,SHENZHEN GLOBAL TECH LTD,WH-WEST-02,5,256.9,0.3,Sea Freight,18,,,Cancelled,213,422,LATAM
+ORD-0015544,2026-05-21 06:39:04,SKU-HOME-0021,Sure Collection 0021,  Home & Kitchen ,andes supply chain sa,WH-EAST-01,9,453.09,0.05,Sea Freight,16,,,In Transit,452,1295,APAC
+ORD-0067038,2025-12-22 05:22:14,SKU-SPOR-0048,They His 0048,  Sports & Outdoors , apex logistics hub  ,WH-EAST-01,8,278.82,0.25,Air Freight,7,6.0,2025-12-28 05:22:14,Returned,366,994,Europe
+ORD-0006905,2026-08-11 01:53:56,SKU-ELEC-0005,Since Blue 0005,Electronics, nordic fulfillment ab  ,WH-SOUTH-03,7,460.0,0.0,Standard Express,10,9.0,2026-08-20 01:53:56,Delivered,486,688,Middle East
+ORD-0056538,2026-08-10 02:15:44,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS,Domestic NextDay LLC,WH-EAST-01,6,408.7,,Overnight,3,,,Pending,83,250,North America
+ORD-0003320,2026-01-26 00:34:44,SKU-BEAU-0040,Sea Available 0040,beauty & health, nordic fulfillment ab  ,WH-CENTRAL-01,8,47.74,0.05,Standard Express,10,8.0,2026-02-03 00:34:44,Delivered,445,1030,LATAM
+ORD-0049330,2025-11-14 01:08:43,SKU-BEAU-0034,Human Bar 0034,BEAUTY & HEALTH,pacific coastal cargo,WH-WEST-02,6,45.63,0.1,Sea Freight,21,,,Cancelled,383,489,North America
+ORD-0015426,2025-11-02 17:40:18,SKU-HOME-0029,Guy Pm 0029,home & kitchen,Nordic Fulfillment AB,WH-EAST-01,4,89.7,0.2,Standard Express,10,12.0,2025-11-14 17:40:18,Delivered,385,694,LATAM
+ORD-0061027,2025-12-04 18:40:57,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,ANDES SUPPLY CHAIN SA,WH-SOUTH-03,6,39.84,0.05,Sea Freight,16,,,Cancelled,154,366,North America
+ORD-0088391,2026-02-08 17:59:11,SKU-BEAU-0035,Old Finally 0035,  Beauty & Health ,PACIFIC COASTAL CARGO,WH-CENTRAL-01,13,74.36,0.0,Sea Freight,21,21.0,2026-03-01 17:59:11,Delivered,610,535,LATAM
+ORD-0063851,2025-11-19 00:50:44,SKU-HOME-0023,Grow Fall 0023,HOME & KITCHEN,EuroDirect Distribution,WH-SOUTH-03,11,350.08,0.0,Road Freight,9,,,Cancelled,282,528,North America
+ORD-0039661,2026-01-05 12:38:10,SKU-HOME-0021,Sure Collection 0021, home & kitchen  ,Andes Supply Chain SA,WH-SOUTH-03,16,453.09,0.3,Sea Freight,16,,,Cancelled,452,1295,LATAM
+ORD-0099502,2026-06-10 14:35:44,SKU-SPOR-0050,Hear Determine 0050, sports & outdoors  ,eurodirect distribution,WH-SOUTH-03,8,136.67,0.15,Road Freight,9,10.0,2026-06-20 14:35:44,Delivered,513,512,Middle East
+ORD-0033427,2025-12-08 21:01:14,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen,andes supply chain sa,WH-SOUTH-03,7,453.09,0.15,Sea Freight,16,23.0,2025-12-31 21:01:14,Returned,452,1295,APAC
+ORD-0048497,2026-07-16 11:44:34,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS,APEX LOGISTICS HUB,WH-CENTRAL-01,5,19.4,0.25,Air Freight,7,9.0,2026-07-25 11:44:34,Delivered,262,343,Europe
+ORD-0004294,2026-01-16 07:04:28,SKU-SPOR-0047,Long Prove 0047,sports & outdoors, nordic fulfillment ab  ,WH-CENTRAL-01,1,99.37,0.2,Standard Express,10,10.0,2026-01-26 07:04:28,Delivered,371,191,APAC
+ORD-0075179,2026-07-27 21:41:35,SKU-SPOR-0049,Commercial Hospital 0049,SPORTS & OUTDOORS,SHENZHEN GLOBAL TECH LTD,WH-CENTRAL-01,5,256.9,0.0,Sea Freight,18,21.0,2026-08-17 21:41:35,Delivered,213,422,LATAM
+ORD-0016535,2026-03-27 19:27:04,SKU-APPA-0019,Table True 0019,apparel,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,5,83.95,0.3,Sea Freight,16,,,In Transit,353,530,Europe
+ORD-0037246,2026-06-11 20:07:46,SKU-ELEC-0001,Purpose Brother 0001,ELECTRONICS, apex logistics hub  ,WH-EAST-01,3,77.73,,Air Freight,7,,,Cancelled,240,201,Middle East
+ORD-0047659,2026-09-24 23:45:31,SKU-APPA-0013,Agreement Option 0013,apparel,EuroDirect Distribution,WH-SOUTH-03,9,371.69,0.3,Road Freight,9,,,Pending,431,1063,LATAM
+ORD-0002788,2026-09-09 19:46:44,SKU-ELEC-0006,Require Sit 0006,  Electronics ,domestic nextday llc,WH-CENTRAL-01,3,408.7,0.3,Overnight,3,,,Cancelled,83,250,Europe
+ORD-0091435,2026-05-03 13:15:15,SKU-BEAU-0033,Capital Win 0033,Beauty & Health,  Pacific Coastal Cargo ,WH-WEST-02,16,307.54,0.1,Sea Freight,21,,,Cancelled,452,770,APAC
+ORD-0012828,2026-07-04 21:46:13,SKU-APPA-0013,Agreement Option 0013,APPAREL,  EuroDirect Distribution ,WH-EAST-01,6,371.69,0.05,Road Freight,9,,,Cancelled,431,1063,APAC
+ORD-0051473,2026-08-22 11:07:33,SKU-HOME-0029,Guy Pm 0029,  Home & Kitchen ,Nordic Fulfillment AB,WH-SOUTH-03,6,89.7,0.2,Standard Express,10,13.0,2026-09-04 11:07:33,Returned,385,694,LATAM
+ORD-0005563,2026-04-21 15:24:05,SKU-ELEC-0002,Ago Site 0002,Electronics,apex logistics hub,WH-CENTRAL-01,9,26.43,0.05,Air Freight,7,5.0,2026-04-26 15:24:05,Delivered,242,1161,Middle East
+ORD-0069139,2026-06-05 10:57:42,SKU-APPA-0013,Agreement Option 0013, apparel  ,EURODIRECT DISTRIBUTION,WH-SOUTH-03,13,371.69,,Road Freight,9,,,In Transit,431,1063,APAC
+ORD-0068291,2025-12-04 17:00:59,SKU-BEAU-0033,Capital Win 0033, beauty & health  ,pacific coastal cargo,WH-CENTRAL-01,11,307.54,0.25,Sea Freight,21,,,Pending,452,770,Europe
+ORD-0066150,2026-10-07 22:39:32,SKU-HOME-0029,Guy Pm 0029,Home & Kitchen, nordic fulfillment ab  ,WH-SOUTH-03,4,89.7,0.0,Standard Express,10,,,Pending,385,694,Europe
+ORD-0074836,2026-01-25 05:07:24,SKU-SPOR-0047,Long Prove 0047,  Sports & Outdoors ,Nordic Fulfillment AB,WH-CENTRAL-01,4,99.37,0.2,Standard Express,10,,,In Transit,371,191,Middle East
+ORD-0093435,2025-11-16 09:49:44,SKU-BEAU-0034,Human Bar 0034,  Beauty & Health ,pacific coastal cargo,WH-WEST-02,6,45.63,0.05,Sea Freight,21,31.0,2025-12-17 09:49:44,Delivered,383,489,Europe
+ORD-0097409,2026-09-24 08:39:53,SKU-HOME-0025,Source Great 0025,home & kitchen,EuroDirect Distribution,WH-WEST-02,13,368.97,0.25,Road Freight,9,,,In Transit,899,783,LATAM
+ORD-0089629,2025-11-13 03:55:00,SKU-SPOR-0044,Top Early 0044,Sports & Outdoors,Andes Supply Chain SA,WH-CENTRAL-01,7,477.86,0.0,Sea Freight,16,,,In Transit,429,1136,APAC
+ORD-0054494,2026-10-04 13:38:23,SKU-ELEC-0009,Knowledge Almost 0009, electronics  ,DOMESTIC NEXTDAY LLC,WH-EAST-01,10,321.64,0.0,Overnight,3,,,Pending,402,751,LATAM
+ORD-0042568,2025-12-04 10:37:17,SKU-ELEC-0009,Knowledge Almost 0009,  Electronics ,  Domestic NextDay LLC ,WH-WEST-02,13,321.64,0.0,Overnight,3,3.0,2025-12-07 10:37:17,Returned,402,751,North America
+ORD-0057417,2026-09-22 04:43:04,SKU-HOME-0029,Guy Pm 0029,home & kitchen,NORDIC FULFILLMENT AB,WH-EAST-01,1,89.7,,Standard Express,10,,,Cancelled,385,694,Middle East
+ORD-0033632,2025-11-05 03:58:06,SKU-SPOR-0047,Long Prove 0047,SPORTS & OUTDOORS,Nordic Fulfillment AB,WH-WEST-02,2,99.37,0.05,Standard Express,10,12.0,2025-11-17 03:58:06,Returned,371,191,Europe
+ORD-0049420,2026-07-12 21:15:42,SKU-ELEC-0001,Purpose Brother 0001,  Electronics ,apex logistics hub,WH-SOUTH-03,2,77.73,0.2,Air Freight,7,,,Cancelled,240,201,Europe
+ORD-0001431,2026-05-23 16:26:11,SKU-APPA-0013,Agreement Option 0013,Apparel,  EuroDirect Distribution ,WH-SOUTH-03,9,371.69,0.15,Road Freight,9,,,In Transit,431,1063,APAC
+ORD-0070469,2026-09-15 03:23:41,SKU-ELEC-0006,Require Sit 0006, electronics  ,Domestic NextDay LLC,WH-SOUTH-03,3,408.7,0.3,Overnight,3,,,Cancelled,83,250,North America
+ORD-0014431,2025-11-25 07:26:21,SKU-APPA-0013,Agreement Option 0013,APPAREL,EuroDirect Distribution,WH-CENTRAL-01,13,371.69,0.2,Road Freight,9,,,Pending,431,1063,North America
+ORD-0094488,2026-10-03 10:27:02,SKU-BEAU-0037,Present Value 0037,Beauty & Health,apex logistics hub,WH-SOUTH-03,10,416.34,,Air Freight,7,,,Pending,501,956,APAC
+ORD-0041125,2026-01-02 13:00:53,SKU-HOME-0024,Clearly Dinner 0024,  Home & Kitchen , eurodirect distribution  ,WH-WEST-02,15,62.25,0.2,Road Freight,9,9.0,2026-01-11 13:00:53,Delivered,1095,1209,LATAM
+ORD-0013548,2026-01-27 06:21:24,SKU-BEAU-0040,Sea Available 0040,beauty & health,  Nordic Fulfillment AB ,WH-WEST-02,10,47.74,,Standard Express,10,,,Pending,445,1030,North America
+ORD-0091365,2026-03-30 12:33:42,SKU-BEAU-0037,Present Value 0037,BEAUTY & HEALTH,Apex Logistics Hub,WH-SOUTH-03,9,416.34,0.1,Air Freight,7,,,In Transit,501,956,APAC
+ORD-0030040,2026-04-17 15:16:35,SKU-SPOR-0042,Drive Spring 0042,sports & outdoors,Apex Logistics Hub,WH-CENTRAL-01,13,112.43,0.0,Air Freight,7,,,Pending,191,680,Middle East
+ORD-0069939,2026-08-22 02:22:41,SKU-HOME-0029,Guy Pm 0029,home & kitchen,NORDIC FULFILLMENT AB,WH-WEST-02,7,89.7,0.1,Standard Express,10,13.0,2026-09-04 02:22:41,Delivered,385,694,Middle East
+ORD-0088058,2026-01-13 19:44:17,SKU-HOME-0030,Everything Surface 0030,HOME & KITCHEN,fasttrack freight corp,WH-CENTRAL-01,9,335.01,0.3,Air Freight,12,13.0,2026-01-26 19:44:17,Delivered,687,790,North America
+ORD-0033178,2026-06-14 13:44:03,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,Andes Supply Chain SA,WH-SOUTH-03,3,39.84,0.0,Sea Freight,16,19.0,2026-07-03 13:44:03,Returned,154,366,Europe
+ORD-0005155,2026-03-13 04:31:06,SKU-HOME-0025,Source Great 0025, home & kitchen  ,EuroDirect Distribution,WH-WEST-02,11,368.97,0.3,Road Freight,9,5.0,2026-03-18 04:31:06,Delivered,899,783,Middle East
+ORD-0096768,2025-11-17 05:48:18,SKU-HOME-0027,Husband Bill 0027,home & kitchen,  EuroDirect Distribution ,WH-SOUTH-03,11,455.2,0.05,Road Freight,9,7.0,2025-11-24 05:48:18,Returned,111,950,Middle East
+ORD-0084367,2026-06-30 08:19:08,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors,Shenzhen Global Tech Ltd,WH-EAST-01,6,256.9,0.15,Sea Freight,18,23.0,2026-07-23 08:19:08,Delivered,213,422,APAC
+ORD-0077645,2025-12-21 23:18:53,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,Nordic Fulfillment AB,WH-CENTRAL-01,11,460.0,0.0,Standard Express,10,14.0,2026-01-04 23:18:53,Delivered,486,688,APAC
+ORD-0047870,2026-07-01 09:28:14,SKU-ELEC-0007,Wait Offer 0007,Electronics,eurodirect distribution,WH-SOUTH-03,1,467.43,0.1,Road Freight,9,6.0,2026-07-07 09:28:14,Delivered,263,310,Middle East
+ORD-0008691,2026-06-28 06:44:23,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors, shenzhen global tech ltd  ,WH-EAST-01,4,256.9,0.2,Sea Freight,18,,,Cancelled,213,422,APAC
+ORD-0062926,2026-04-29 14:35:22,SKU-ELEC-0004,Dog Chair 0004,Electronics,FastTrack Freight Corp,WH-SOUTH-03,10,418.9,0.2,Air Freight,12,8.0,2026-05-07 14:35:22,Delivered,382,513,LATAM
+ORD-0057470,2026-05-23 04:03:42,SKU-ELEC-0002,Ago Site 0002,electronics,apex logistics hub,WH-WEST-02,11,26.43,0.3,Air Freight,7,,,Pending,242,1161,APAC
+ORD-0079963,2026-05-12 07:10:53,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,NORDIC FULFILLMENT AB,WH-SOUTH-03,10,460.0,0.05,Standard Express,10,14.0,2026-05-26 07:10:53,Delivered,486,688,Europe
+ORD-0021261,2026-04-25 08:43:44,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,nordic fulfillment ab,WH-WEST-02,10,460.0,0.05,Standard Express,10,,,In Transit,486,688,North America
+ORD-0066623,2026-07-14 04:42:05,SKU-APPA-0012,Mouth Play 0012,apparel,Apex Logistics Hub,WH-WEST-02,8,228.61,0.05,Air Freight,7,6.0,2026-07-20 04:42:05,Delivered,361,402,North America
+ORD-0077894,2026-01-29 04:17:26,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,APEX LOGISTICS HUB,WH-CENTRAL-01,3,19.4,0.1,Air Freight,7,,,In Transit,262,343,North America
+ORD-0020822,2026-03-06 14:30:07,SKU-ELEC-0001,Purpose Brother 0001,Electronics,apex logistics hub,WH-WEST-02,3,77.73,0.1,Air Freight,7,8.0,2026-03-14 14:30:07,Delivered,240,201,LATAM
+ORD-0013155,2026-05-22 09:11:46,SKU-BEAU-0039,Participant Dark 0039,Beauty & Health,Apex Logistics Hub,WH-CENTRAL-01,7,78.04,,Air Freight,7,10.0,2026-06-01 09:11:46,Delivered,210,715,North America
+ORD-0022286,2025-11-05 11:00:38,SKU-SPOR-0049,Commercial Hospital 0049, sports & outdoors  ,Shenzhen Global Tech Ltd,WH-SOUTH-03,2,256.9,0.1,Sea Freight,18,21.0,2025-11-26 11:00:38,Delivered,213,422,Europe
+ORD-0023193,2026-02-09 14:55:34,SKU-HOME-0023,Grow Fall 0023,  Home & Kitchen ,EuroDirect Distribution,WH-EAST-01,6,350.08,0.05,Road Freight,9,8.0,2026-02-17 14:55:34,Delivered,282,528,North America
+ORD-0081506,2026-10-04 08:50:39,SKU-SPOR-0047,Long Prove 0047,Sports & Outdoors,nordic fulfillment ab,WH-SOUTH-03,3,99.37,0.1,Standard Express,10,,,Cancelled,371,191,North America
+ORD-0047181,2026-06-07 10:52:13,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EuroDirect Distribution,WH-EAST-01,9,62.25,0.1,Road Freight,9,,,Pending,1095,1209,Middle East
+ORD-0060010,2026-08-17 22:04:55,SKU-APPA-0018,Perform Fall 0018, apparel  ,FASTTRACK FREIGHT CORP,WH-WEST-02,17,478.85,0.25,Air Freight,12,9.0,2026-08-26 22:04:55,Delivered,710,971,Middle East
+ORD-0097523,2026-08-03 11:39:45,SKU-SPOR-0047,Long Prove 0047,Sports & Outdoors,  Nordic Fulfillment AB ,WH-EAST-01,4,99.37,0.0,Standard Express,10,,,Pending,371,191,LATAM
+ORD-0040166,2026-04-27 19:49:56,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,Andes Supply Chain SA,WH-SOUTH-03,4,39.84,0.3,Sea Freight,16,17.0,2026-05-14 19:49:56,Delivered,154,366,North America
+ORD-0012433,2026-01-16 09:58:59,SKU-ELEC-0005,Since Blue 0005,Electronics,  Nordic Fulfillment AB ,WH-EAST-01,7,460.0,0.2,Standard Express,10,8.0,2026-01-24 09:58:59,Returned,486,688,North America
+ORD-0095948,2026-04-13 09:15:05,SKU-HOME-0023,Grow Fall 0023,HOME & KITCHEN, eurodirect distribution  ,WH-SOUTH-03,6,350.08,0.15,Road Freight,9,3.0,2026-04-16 09:15:05,Delivered,282,528,Middle East
+ORD-0030819,2026-06-06 18:32:52,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-SOUTH-03,11,62.25,,Road Freight,9,,,In Transit,1095,1209,
+ORD-0099849,2026-03-11 14:03:11,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS,Apex Logistics Hub,WH-EAST-01,6,19.4,0.0,Air Freight,7,8.0,2026-03-19 14:03:11,Delivered,262,343,APAC
+ORD-0082889,2026-08-08 17:11:22,SKU-APPA-0018,Perform Fall 0018, apparel  ,fasttrack freight corp,WH-WEST-02,10,478.85,0.1,Air Freight,12,11.0,2026-08-19 17:11:22,Delivered,710,971,APAC
+ORD-0043250,2026-03-24 02:55:38,SKU-HOME-0022,Save Knowledge 0022,HOME & KITCHEN,Apex Logistics Hub,WH-EAST-01,11,171.53,0.2,Air Freight,7,3.0,2026-03-27 02:55:38,Delivered,1135,1598,APAC
+ORD-0056591,2026-06-17 20:35:08,SKU-ELEC-0008,Begin Performance 0008,Electronics,FASTTRACK FREIGHT CORP,WH-WEST-02,5,301.66,,Air Freight,12,11.0,2026-06-28 20:35:08,Delivered,268,518,North America
+ORD-0035463,2026-02-04 01:25:04,SKU-HOME-0024,Clearly Dinner 0024, home & kitchen  ,eurodirect distribution,WH-EAST-01,11,62.25,0.15,Road Freight,9,7.0,2026-02-11 01:25:04,Delivered,1095,1209,Middle East
+ORD-0019697,2026-06-14 23:03:36,SKU-HOME-0026,Blue Best 0026, home & kitchen  ,shenzhen global tech ltd,WH-CENTRAL-01,2,182.19,,Sea Freight,18,31.0,2026-07-15 23:03:36,Delivered,521,513,APAC
+ORD-0062374,2026-06-08 01:14:34,SKU-ELEC-0005,Since Blue 0005,Electronics,nordic fulfillment ab,WH-SOUTH-03,7,460.0,0.15,Standard Express,10,,,Cancelled,486,688,Middle East
+ORD-0055084,2026-01-15 07:09:01,SKU-HOME-0025,Source Great 0025,home & kitchen,eurodirect distribution,WH-SOUTH-03,11,368.97,0.15,Road Freight,9,11.0,2026-01-26 07:09:01,Delivered,899,783,APAC
+ORD-0042721,2025-12-03 06:09:57,SKU-ELEC-0006,Require Sit 0006,Electronics,Domestic NextDay LLC,WH-WEST-02,6,408.7,0.15,Overnight,3,,,Cancelled,83,250,APAC
+ORD-0006822,2025-12-08 08:21:21,SKU-SPOR-0047,Long Prove 0047,SPORTS & OUTDOORS,  Nordic Fulfillment AB ,WH-EAST-01,3,99.37,0.25,Standard Express,10,7.0,2025-12-15 08:21:21,Delivered,371,191,APAC
+ORD-0078705,2026-10-09 21:04:52,SKU-HOME-0028,Her Throw 0028,home & kitchen,  Apex Logistics Hub ,WH-CENTRAL-01,14,261.54,0.0,Air Freight,7,4.0,2026-10-13 21:04:52,Delivered,1135,1729,LATAM
+ORD-0075466,2026-02-16 00:58:38,SKU-ELEC-0002,Ago Site 0002,electronics,APEX LOGISTICS HUB,WH-WEST-02,10,26.43,0.2,Air Freight,7,6.0,2026-02-22 00:58:38,Delivered,242,1161,Middle East
+ORD-0044183,2026-06-09 22:20:04,SKU-ELEC-0006,Require Sit 0006,Electronics,  Domestic NextDay LLC ,WH-SOUTH-03,6,408.7,0.05,Overnight,3,4.0,2026-06-13 22:20:04,Returned,83,250,APAC
+ORD-0026517,2026-06-19 17:15:52,SKU-ELEC-0001,Purpose Brother 0001,electronics,  Apex Logistics Hub ,WH-WEST-02,2,77.73,0.1,Air Freight,7,,,Cancelled,240,201,Middle East
+ORD-0000586,2026-08-23 20:56:31,SKU-ELEC-0007,Wait Offer 0007,Electronics,eurodirect distribution,WH-CENTRAL-01,4,467.43,0.25,Road Freight,9,,,Pending,263,310,APAC
+ORD-0005767,2026-03-15 23:23:25,SKU-HOME-0026,Blue Best 0026,  Home & Kitchen ,Shenzhen Global Tech Ltd,WH-CENTRAL-01,11,182.19,0.25,Sea Freight,18,,,Pending,521,513,North America
+ORD-0082624,2026-01-18 07:22:51,SKU-ELEC-0007,Wait Offer 0007,Electronics,EuroDirect Distribution,WH-SOUTH-03,2,467.43,0.15,Road Freight,9,5.0,2026-01-23 07:22:51,Delivered,263,310,Europe
+ORD-0036795,2026-10-20 10:38:46,SKU-BEAU-0033,Capital Win 0033,beauty & health,Pacific Coastal Cargo,WH-WEST-02,12,307.54,0.25,Sea Freight,21,27.0,2026-11-16 10:38:46,Delivered,452,770,Europe
+ORD-0040647,2026-06-12 23:33:16,SKU-HOME-0029,Guy Pm 0029,  Home & Kitchen ,NORDIC FULFILLMENT AB,WH-EAST-01,3,89.7,0.15,Standard Express,10,12.0,2026-06-24 23:33:16,Delivered,385,694,APAC
+ORD-0004149,2026-04-21 10:41:34,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,  Andes Supply Chain SA ,WH-SOUTH-03,5,39.84,0.15,Sea Freight,16,,,In Transit,154,366,APAC
+ORD-0055521,2026-01-07 22:39:04,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,  Pacific Coastal Cargo ,WH-EAST-01,2,45.63,0.0,Sea Freight,21,,,Cancelled,383,489,LATAM
+ORD-0033113,2026-08-03 09:25:20,SKU-BEAU-0038,Training High 0038, beauty & health  ,shenzhen global tech ltd,WH-CENTRAL-01,4,386.78,0.05,Sea Freight,18,20.0,2026-08-23 09:25:20,Delivered,69,515,APAC
+ORD-0031007,2026-07-27 07:30:37,SKU-APPA-0013,Agreement Option 0013,APPAREL,  EuroDirect Distribution ,WH-SOUTH-03,11,371.69,,Road Freight,9,12.0,2026-08-08 07:30:37,Delivered,431,1063,APAC
+ORD-0037798,2026-10-04 12:48:11,SKU-HOME-0022,Save Knowledge 0022, home & kitchen  ,APEX LOGISTICS HUB,WH-CENTRAL-01,13,171.53,0.3,Air Freight,7,7.0,2026-10-11 12:48:11,Returned,1135,1598,North America
+ORD-0003394,2026-08-21 10:56:47,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,Shenzhen Global Tech Ltd,WH-WEST-02,6,256.9,0.0,Sea Freight,18,39.0,2026-09-29 10:56:47,Delivered,213,422,Middle East
+ORD-0061765,2026-09-03 03:20:27,SKU-BEAU-0036,Themselves Production 0036,Beauty & Health,  Andes Supply Chain SA ,WH-CENTRAL-01,7,101.52,0.1,Sea Freight,16,,,Pending,646,902,APAC
+ORD-0093091,2026-04-18 09:32:41,SKU-ELEC-0005,Since Blue 0005,  Electronics ,nordic fulfillment ab,WH-EAST-01,9,460.0,0.1,Standard Express,10,12.0,2026-04-30 09:32:41,Returned,486,688,Europe
+ORD-0014442,2026-07-29 09:56:44,SKU-APPA-0013,Agreement Option 0013,  Apparel ,eurodirect distribution,WH-CENTRAL-01,11,371.69,0.3,Road Freight,9,9.0,2026-08-07 09:56:44,Delivered,431,1063,Europe
+ORD-0010677,2026-09-25 10:52:08,SKU-APPA-0018,Perform Fall 0018,apparel,FASTTRACK FREIGHT CORP,WH-SOUTH-03,10,478.85,,Air Freight,12,15.0,2026-10-10 10:52:08,Delivered,710,971,
+ORD-0083875,2026-08-03 15:06:19,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,Nordic Fulfillment AB,WH-SOUTH-03,4,460.0,0.25,Standard Express,10,11.0,2026-08-14 15:06:19,Delivered,486,688,Middle East
+ORD-0045081,2025-10-26 11:25:20,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors, apex logistics hub  ,WH-SOUTH-03,4,19.4,0.15,Air Freight,7,4.0,2025-10-30 11:25:20,Delivered,262,343,APAC
+ORD-0002798,2025-12-09 20:30:31,SKU-APPA-0012,Mouth Play 0012,apparel,Apex Logistics Hub,WH-CENTRAL-01,5,228.61,0.0,Air Freight,7,,,Pending,361,402,Europe
+ORD-0097203,2026-09-03 18:05:02,SKU-APPA-0011,Discover Early 0011,APPAREL,  Andes Supply Chain SA ,WH-WEST-02,8,325.81,0.15,Sea Freight,16,,,In Transit,254,795,
+ORD-0026385,2026-02-22 18:33:38,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS,Domestic NextDay LLC,WH-EAST-01,4,408.7,0.3,Overnight,3,3.0,2026-02-25 18:33:38,Delivered,83,250,North America
+ORD-0040334,2026-01-10 02:26:53,SKU-BEAU-0034,Human Bar 0034, beauty & health  ,  Pacific Coastal Cargo ,WH-SOUTH-03,3,45.63,0.25,Sea Freight,21,,,Pending,383,489,LATAM
+ORD-0047933,2026-08-11 01:42:59,SKU-ELEC-0007,Wait Offer 0007,Electronics, eurodirect distribution  ,WH-EAST-01,4,467.43,0.05,Road Freight,9,,,Pending,263,310,Middle East
+ORD-0017191,2026-02-11 15:28:26,SKU-ELEC-0005,Since Blue 0005,  Electronics , nordic fulfillment ab  ,WH-CENTRAL-01,12,460.0,0.15,Standard Express,10,8.0,2026-02-19 15:28:26,Delivered,486,688,APAC
+ORD-0080737,2026-06-29 22:47:19,SKU-BEAU-0036,Themselves Production 0036,BEAUTY & HEALTH,Andes Supply Chain SA,WH-WEST-02,10,101.52,,Sea Freight,16,,,Pending,646,902,North America
+ORD-0028956,2026-04-02 19:29:24,SKU-HOME-0030,Everything Surface 0030, home & kitchen  ,FASTTRACK FREIGHT CORP,WH-SOUTH-03,8,335.01,0.0,Air Freight,12,13.0,2026-04-15 19:29:24,Delivered,687,790,LATAM
+ORD-0088363,2026-09-25 20:10:01,SKU-SPOR-0046,Husband Fall 0046,Sports & Outdoors,SHENZHEN GLOBAL TECH LTD,WH-SOUTH-03,8,247.58,,Sea Freight,18,17.0,2026-10-12 20:10:01,Delivered,135,910,Middle East
+ORD-0003657,2026-10-07 20:43:55,SKU-ELEC-0005,Since Blue 0005,  Electronics ,  Nordic Fulfillment AB ,WH-SOUTH-03,17,460.0,0.1,Standard Express,10,9.0,2026-10-16 20:43:55,Returned,486,688,LATAM
+ORD-0085624,2026-07-02 16:44:29,SKU-APPA-0013,Agreement Option 0013,Apparel,eurodirect distribution,WH-WEST-02,10,371.69,0.05,Road Freight,9,9.0,2026-07-11 16:44:29,Delivered,431,1063,APAC
+ORD-0098922,2026-04-30 08:47:33,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors, shenzhen global tech ltd  ,WH-CENTRAL-01,5,256.9,0.05,Sea Freight,18,,,Cancelled,213,422,LATAM
+ORD-0078809,2026-05-04 20:36:56,SKU-ELEC-0009,Knowledge Almost 0009,Electronics,DOMESTIC NEXTDAY LLC,WH-WEST-02,16,321.64,0.25,Overnight,3,3.0,2026-05-07 20:36:56,Returned,402,751,
+ORD-0012257,2026-08-08 19:45:38,SKU-SPOR-0042,Drive Spring 0042,sports & outdoors,Apex Logistics Hub,WH-SOUTH-03,7,112.43,0.15,Air Freight,7,,,Cancelled,191,680,LATAM
+ORD-0036695,2026-06-18 04:08:07,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,Pacific Coastal Cargo,WH-SOUTH-03,3,45.63,0.0,Sea Freight,21,11.0,2026-06-29 04:08:07,Returned,383,489,Middle East
+ORD-0042732,2026-02-09 04:41:30,SKU-HOME-0024,Clearly Dinner 0024,home & kitchen,eurodirect distribution,WH-SOUTH-03,11,62.25,,Road Freight,9,,,Pending,1095,1209,Middle East
+ORD-0019316,2026-07-16 15:42:17,SKU-APPA-0019,Table True 0019,Apparel,andes supply chain sa,WH-WEST-02,6,83.95,0.1,Sea Freight,16,10.0,2026-07-26 15:42:17,Delivered,353,530,APAC
+ORD-0006932,2026-06-18 08:17:37,SKU-SPOR-0046,Husband Fall 0046, sports & outdoors  ,shenzhen global tech ltd,WH-CENTRAL-01,11,247.58,0.0,Sea Freight,18,,,In Transit,135,910,APAC
+ORD-0063133,2026-04-09 19:49:00,SKU-HOME-0024,Clearly Dinner 0024, home & kitchen  ,EuroDirect Distribution,WH-WEST-02,18,62.25,0.0,Road Freight,9,8.0,2026-04-17 19:49:00,Delivered,1095,1209,North America
+ORD-0039376,2026-03-08 01:36:50,SKU-BEAU-0036,Themselves Production 0036,  Beauty & Health ,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,8,101.52,0.3,Sea Freight,16,17.0,2026-03-25 01:36:50,Delivered,646,902,Europe
+ORD-0041119,2025-10-25 12:07:50,SKU-APPA-0020,According Song 0020,Apparel,Nordic Fulfillment AB,WH-SOUTH-03,12,291.08,,Standard Express,10,7.0,2025-11-01 12:07:50,Delivered,772,929,APAC
+ORD-0069938,2026-05-26 09:37:46,SKU-APPA-0012,Mouth Play 0012,Apparel, apex logistics hub  ,WH-SOUTH-03,9,228.61,0.15,Air Freight,7,,,Cancelled,361,402,LATAM
+ORD-0058157,2025-12-01 22:26:07,SKU-HOME-0029,Guy Pm 0029,Home & Kitchen,Nordic Fulfillment AB,WH-CENTRAL-01,5,89.7,0.3,Standard Express,10,8.0,2025-12-09 22:26:07,Delivered,385,694,North America
+ORD-0041426,2025-11-01 11:01:59,SKU-APPA-0014,Decide Sense 0014,  Apparel , shenzhen global tech ltd  ,WH-CENTRAL-01,6,200.04,0.1,Sea Freight,18,,,In Transit,644,861,APAC
+ORD-0032343,2026-04-09 15:50:57,SKU-ELEC-0001,Purpose Brother 0001,electronics, apex logistics hub  ,WH-CENTRAL-01,4,77.73,0.3,Air Freight,7,7.0,2026-04-16 15:50:57,Delivered,240,201,APAC
+ORD-0064492,2026-10-10 23:54:48,SKU-APPA-0012,Mouth Play 0012,apparel,apex logistics hub,WH-EAST-01,5,228.61,0.2,Air Freight,7,,,Cancelled,361,402,Europe
+ORD-0082053,2026-01-31 10:18:43,SKU-BEAU-0039,Participant Dark 0039,Beauty & Health,apex logistics hub,WH-SOUTH-03,7,78.04,0.15,Air Freight,7,3.0,2026-02-03 10:18:43,Returned,210,715,APAC
+ORD-0078322,2026-08-16 02:02:42,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,Pacific Coastal Cargo,WH-SOUTH-03,10,74.36,0.3,Sea Freight,21,,,Cancelled,610,535,North America
+ORD-0076834,2026-07-24 06:35:41,SKU-SPOR-0044,Top Early 0044,SPORTS & OUTDOORS,  Andes Supply Chain SA ,WH-SOUTH-03,6,477.86,,Sea Freight,16,,,In Transit,429,1136,North America
+ORD-0038055,2025-12-03 04:19:03,SKU-HOME-0029,Guy Pm 0029,Home & Kitchen,  Nordic Fulfillment AB ,WH-SOUTH-03,6,89.7,0.0,Standard Express,10,,,In Transit,385,694,APAC
+ORD-0012703,2026-02-17 08:29:57,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-CENTRAL-01,10,460.0,0.0,Standard Express,10,7.0,2026-02-24 08:29:57,Delivered,486,688,North America
+ORD-0046325,2026-07-03 03:26:57,SKU-SPOR-0044,Top Early 0044, sports & outdoors  ,Andes Supply Chain SA,WH-SOUTH-03,6,477.86,0.25,Sea Freight,16,,,Cancelled,429,1136,North America
+ORD-0005448,2025-11-02 01:52:22,SKU-APPA-0018,Perform Fall 0018,apparel,fasttrack freight corp,WH-CENTRAL-01,11,478.85,0.0,Air Freight,12,6.0,2025-11-08 01:52:22,Delivered,710,971,North America
+ORD-0081821,2026-06-29 16:49:03,SKU-HOME-0026,Blue Best 0026, home & kitchen  ,SHENZHEN GLOBAL TECH LTD,WH-SOUTH-03,5,182.19,0.0,Sea Freight,18,,,Pending,521,513,Middle East
+ORD-0024469,2026-02-06 01:29:33,SKU-ELEC-0004,Dog Chair 0004,electronics,  FastTrack Freight Corp ,WH-EAST-01,5,418.9,,Air Freight,12,,,Cancelled,382,513,Europe
+ORD-0059267,2026-02-24 06:52:01,SKU-BEAU-0037,Present Value 0037,beauty & health,  Apex Logistics Hub ,WH-CENTRAL-01,9,416.34,0.3,Air Freight,7,8.0,2026-03-04 06:52:01,Delivered,501,956,APAC
+ORD-0081588,2025-11-14 02:31:00,SKU-SPOR-0047,Long Prove 0047,Sports & Outdoors,nordic fulfillment ab,WH-WEST-02,6,99.37,0.3,Standard Express,10,18.0,2025-12-02 02:31:00,Delivered,371,191,LATAM
+ORD-0089846,2026-04-07 08:19:39,SKU-BEAU-0034,Human Bar 0034,BEAUTY & HEALTH,  Pacific Coastal Cargo ,WH-CENTRAL-01,5,45.63,0.1,Sea Freight,21,17.0,2026-04-24 08:19:39,Delivered,383,489,Middle East
+ORD-0037216,2026-01-19 10:45:26,SKU-ELEC-0005,Since Blue 0005,  Electronics ,Nordic Fulfillment AB,WH-SOUTH-03,7,460.0,0.05,Standard Express,10,,,Cancelled,486,688,LATAM
+ORD-0004912,2026-06-30 14:22:57,SKU-SPOR-0046,Husband Fall 0046,SPORTS & OUTDOORS,  Shenzhen Global Tech Ltd ,WH-WEST-02,9,247.58,0.3,Sea Freight,18,,,Cancelled,135,910,Europe
+ORD-0008914,2026-04-08 12:19:49,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,FASTTRACK FREIGHT CORP,WH-WEST-02,9,335.01,0.2,Air Freight,12,,,Cancelled,687,790,LATAM
+ORD-0071794,2026-07-08 07:24:31,SKU-BEAU-0033,Capital Win 0033,  Beauty & Health ,PACIFIC COASTAL CARGO,WH-WEST-02,13,307.54,0.0,Sea Freight,21,,,Pending,452,770,LATAM
+ORD-0035853,2026-10-16 16:51:55,SKU-ELEC-0002,Ago Site 0002,electronics,apex logistics hub,WH-SOUTH-03,7,26.43,0.2,Air Freight,7,,,Pending,242,1161,Europe
+ORD-0023229,2025-12-03 01:41:14,SKU-HOME-0030,Everything Surface 0030,HOME & KITCHEN,FastTrack Freight Corp,WH-CENTRAL-01,7,335.01,0.25,Air Freight,12,15.0,2025-12-18 01:41:14,Delivered,687,790,APAC
+ORD-0013619,2025-11-06 01:02:16,SKU-APPA-0016,Offer Kind 0016,  Apparel ,Pacific Coastal Cargo,WH-SOUTH-03,10,227.01,0.2,Sea Freight,21,,,In Transit,610,1655,LATAM
+ORD-0006484,2026-05-29 18:49:18,SKU-ELEC-0005,Since Blue 0005,electronics,nordic fulfillment ab,WH-CENTRAL-01,11,460.0,0.1,Standard Express,10,8.0,2026-06-06 18:49:18,Delivered,486,688,Middle East
+ORD-0042275,2025-11-24 10:39:29,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,Apex Logistics Hub,WH-CENTRAL-01,4,19.4,0.3,Air Freight,7,,,Pending,262,343,Europe
+ORD-0026695,2026-03-29 04:13:42,SKU-HOME-0025,Source Great 0025,  Home & Kitchen ,EURODIRECT DISTRIBUTION,WH-EAST-01,11,368.97,0.1,Road Freight,9,,,Pending,899,783,LATAM
+ORD-0082657,2026-08-23 13:04:08,SKU-APPA-0014,Decide Sense 0014,  Apparel ,SHENZHEN GLOBAL TECH LTD,WH-WEST-02,8,200.04,0.3,Sea Freight,18,11.0,2026-09-03 13:04:08,Returned,644,861,LATAM
+ORD-0063341,2026-02-14 13:14:15,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,  Apex Logistics Hub ,WH-CENTRAL-01,6,19.4,,Air Freight,7,,,Cancelled,262,343,APAC
+ORD-0047844,2026-07-15 10:51:22,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,Pacific Coastal Cargo,WH-SOUTH-03,7,74.36,0.05,Sea Freight,21,,,Pending,610,535,
+ORD-0031079,2026-07-12 13:27:41,SKU-ELEC-0001,Purpose Brother 0001,ELECTRONICS,Apex Logistics Hub,WH-WEST-02,3,77.73,0.0,Air Freight,7,19.0,2026-07-31 13:27:41,Delivered,240,201,Middle East
+ORD-0044543,2026-07-09 03:11:00,SKU-SPOR-0043,Figure Base 0043,Sports & Outdoors,  FastTrack Freight Corp ,WH-EAST-01,1,195.02,0.3,Air Freight,12,12.0,2026-07-21 03:11:00,Returned,90,165,Europe
+ORD-0031736,2025-11-28 00:25:20,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-SOUTH-03,7,460.0,0.0,Standard Express,10,10.0,2025-12-08 00:25:20,Returned,486,688,LATAM
+ORD-0068792,2026-03-04 10:14:01,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,pacific coastal cargo,WH-CENTRAL-01,3,45.63,0.0,Sea Freight,21,,,In Transit,383,489,Europe
+ORD-0081034,2026-07-23 18:13:11,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors,shenzhen global tech ltd,WH-WEST-02,2,256.9,0.15,Sea Freight,18,31.0,2026-08-23 18:13:11,Delivered,213,422,Europe
+ORD-0093552,2025-10-23 11:31:35,SKU-HOME-0029,Guy Pm 0029,  Home & Kitchen ,Nordic Fulfillment AB,WH-CENTRAL-01,5,89.7,0.2,Standard Express,10,12.0,2025-11-04 11:31:35,Returned,385,694,Middle East
+ORD-0026405,2025-11-24 07:38:26,SKU-SPOR-0049,Commercial Hospital 0049,SPORTS & OUTDOORS,SHENZHEN GLOBAL TECH LTD,WH-CENTRAL-01,2,256.9,0.25,Sea Freight,18,26.0,2025-12-20 07:38:26,Delivered,213,422,APAC
+ORD-0001046,2026-07-01 08:42:15,SKU-SPOR-0044,Top Early 0044,SPORTS & OUTDOORS,Andes Supply Chain SA,WH-EAST-01,10,477.86,,Sea Freight,16,18.0,2026-07-19 08:42:15,Delivered,429,1136,Middle East
+ORD-0002105,2025-12-22 04:11:48,SKU-APPA-0013,Agreement Option 0013,  Apparel ,eurodirect distribution,WH-WEST-02,14,371.69,0.1,Road Freight,9,,,Pending,431,1063,Middle East
+ORD-0033599,2025-11-19 10:40:00,SKU-BEAU-0039,Participant Dark 0039,Beauty & Health,Apex Logistics Hub,WH-SOUTH-03,9,78.04,0.25,Air Freight,7,,,Cancelled,210,715,APAC
+ORD-0004907,2026-08-15 03:29:41,SKU-SPOR-0044,Top Early 0044,sports & outdoors,andes supply chain sa,WH-CENTRAL-01,6,477.86,0.2,Sea Freight,16,,,Cancelled,429,1136,Middle East
+ORD-0033220,2025-10-31 15:03:44,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors, apex logistics hub  ,WH-SOUTH-03,5,19.4,0.1,Air Freight,7,7.0,2025-11-07 15:03:44,Delivered,262,343,LATAM
+ORD-0028423,2026-08-31 12:18:06,SKU-HOME-0028,Her Throw 0028,Home & Kitchen,apex logistics hub,WH-CENTRAL-01,10,261.54,0.3,Air Freight,7,,,Pending,1135,1729,APAC
+ORD-0099771,2025-12-04 09:49:27,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,FASTTRACK FREIGHT CORP,WH-EAST-01,8,335.01,0.1,Air Freight,12,13.0,2025-12-17 09:49:27,Delivered,687,790,Europe
+ORD-0090923,2026-10-19 21:54:20,SKU-BEAU-0037,Present Value 0037,Beauty & Health,Apex Logistics Hub,WH-CENTRAL-01,14,416.34,0.15,Air Freight,7,,,Cancelled,501,956,Europe
+ORD-0008214,2026-03-16 18:46:26,SKU-ELEC-0006,Require Sit 0006,  Electronics , domestic nextday llc  ,WH-EAST-01,6,408.7,0.1,Overnight,3,3.0,2026-03-19 18:46:26,Delivered,83,250,LATAM
+ORD-0064849,2026-06-16 14:25:22,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,Apex Logistics Hub,WH-WEST-02,6,19.4,,Air Freight,7,8.0,2026-06-24 14:25:22,Delivered,262,343,North America
+ORD-0008035,2026-09-27 05:07:55,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS,Andes Supply Chain SA,WH-SOUTH-03,5,39.84,0.0,Sea Freight,16,,,Cancelled,154,366,Europe
+ORD-0051168,2026-06-17 07:59:02,SKU-SPOR-0045,Trial Blood 0045,sports & outdoors,Andes Supply Chain SA,WH-CENTRAL-01,5,39.84,,Sea Freight,16,,,Cancelled,154,366,Europe
+ORD-0023316,2026-01-19 11:00:48,SKU-ELEC-0005,Since Blue 0005, electronics  , nordic fulfillment ab  ,WH-CENTRAL-01,13,460.0,0.25,Standard Express,10,13.0,2026-02-01 11:00:48,Delivered,486,688,LATAM
+ORD-0053347,2026-05-29 18:49:41,SKU-APPA-0016,Offer Kind 0016, apparel  ,pacific coastal cargo,WH-SOUTH-03,14,227.01,0.15,Sea Freight,21,,,In Transit,610,1655,Middle East
+ORD-0032942,2026-07-04 17:31:27,SKU-BEAU-0040,Sea Available 0040,  Beauty & Health ,nordic fulfillment ab,WH-EAST-01,7,47.74,,Standard Express,10,,,Pending,445,1030,APAC
+ORD-0069018,2025-12-15 15:01:23,SKU-ELEC-0004,Dog Chair 0004, electronics  ,FastTrack Freight Corp,WH-CENTRAL-01,9,418.9,0.15,Air Freight,12,,,Cancelled,382,513,LATAM
+ORD-0048885,2026-03-20 02:57:14,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen,andes supply chain sa,WH-CENTRAL-01,10,453.09,0.0,Sea Freight,16,43.0,2026-05-02 02:57:14,Delivered,452,1295,LATAM
+ORD-0074826,2026-07-04 19:08:20,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,SHENZHEN GLOBAL TECH LTD,WH-WEST-02,5,256.9,0.05,Sea Freight,18,13.0,2026-07-17 19:08:20,Delivered,213,422,
+ORD-0028511,2026-01-30 14:49:17,SKU-HOME-0023,Grow Fall 0023,Home & Kitchen, eurodirect distribution  ,WH-SOUTH-03,8,350.08,0.05,Road Freight,9,,,In Transit,282,528,LATAM
+ORD-0028212,2025-10-24 21:22:29,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,shenzhen global tech ltd,WH-EAST-01,3,256.9,0.0,Sea Freight,18,13.0,2025-11-06 21:22:29,Delivered,213,422,APAC
+ORD-0040117,2025-12-19 14:44:38,SKU-ELEC-0003,Face Election 0003,ELECTRONICS,  Pacific Coastal Cargo ,WH-CENTRAL-01,5,105.46,0.05,Sea Freight,21,9.0,2025-12-28 14:44:38,Delivered,421,347,Middle East
+ORD-0011048,2026-05-26 18:35:42,SKU-APPA-0013,Agreement Option 0013,APPAREL,eurodirect distribution,WH-WEST-02,11,371.69,0.1,Road Freight,9,,,In Transit,431,1063,APAC
+ORD-0042244,2026-07-11 08:30:13,SKU-ELEC-0005,Since Blue 0005, electronics  ,NORDIC FULFILLMENT AB,WH-WEST-02,12,460.0,0.3,Standard Express,10,6.0,2026-07-17 08:30:13,Returned,486,688,Middle East
+ORD-0001573,2026-05-31 21:57:12,SKU-SPOR-0044,Top Early 0044,sports & outdoors,  Andes Supply Chain SA ,WH-CENTRAL-01,7,477.86,0.3,Sea Freight,16,23.0,2026-06-23 21:57:12,Returned,429,1136,Middle East
+ORD-0045999,2025-11-06 06:21:58,SKU-APPA-0013,Agreement Option 0013,  Apparel , eurodirect distribution  ,WH-SOUTH-03,10,371.69,0.3,Road Freight,9,,,Pending,431,1063,Middle East
+ORD-0059325,2025-11-29 09:14:52,SKU-BEAU-0037,Present Value 0037,Beauty & Health,Apex Logistics Hub,WH-WEST-02,6,416.34,0.2,Air Freight,7,7.0,2025-12-06 09:14:52,Delivered,501,956,Europe
+ORD-0044510,2026-02-05 23:12:20,SKU-HOME-0026,Blue Best 0026, home & kitchen  ,shenzhen global tech ltd,WH-CENTRAL-01,7,182.19,0.0,Sea Freight,18,13.0,2026-02-18 23:12:20,Delivered,521,513,Middle East
+ORD-0002484,2025-11-23 01:09:32,SKU-APPA-0013,Agreement Option 0013,Apparel,EuroDirect Distribution,WH-SOUTH-03,13,371.69,,Road Freight,9,9.0,2025-12-02 01:09:32,Delivered,431,1063,LATAM
+ORD-0015645,2026-05-14 16:43:05,SKU-APPA-0013,Agreement Option 0013,Apparel,eurodirect distribution,WH-CENTRAL-01,10,371.69,,Road Freight,9,5.0,2026-05-19 16:43:05,Delivered,431,1063,LATAM
+ORD-0098023,2026-10-17 07:46:50,SKU-HOME-0026,Blue Best 0026,home & kitchen,  Shenzhen Global Tech Ltd ,WH-WEST-02,7,182.19,0.0,Sea Freight,18,12.0,2026-10-29 07:46:50,Delivered,521,513,Europe
+ORD-0089607,2026-08-12 13:11:43,SKU-APPA-0013,Agreement Option 0013,Apparel,EURODIRECT DISTRIBUTION,WH-WEST-02,9,371.69,0.1,Road Freight,9,9.0,2026-08-21 13:11:43,Delivered,431,1063,APAC
+ORD-0097074,2026-06-10 01:22:32,SKU-SPOR-0048,They His 0048,sports & outdoors,apex logistics hub,WH-CENTRAL-01,6,278.82,0.15,Air Freight,7,7.0,2026-06-17 01:22:32,Delivered,366,994,APAC
+ORD-0003290,2025-11-10 22:44:34,SKU-SPOR-0050,Hear Determine 0050, sports & outdoors  ,EURODIRECT DISTRIBUTION,WH-SOUTH-03,5,136.67,0.2,Road Freight,9,8.0,2025-11-18 22:44:34,Returned,513,512,APAC
+ORD-0045809,2026-07-09 13:01:58,SKU-BEAU-0035,Old Finally 0035,  Beauty & Health ,Pacific Coastal Cargo,WH-CENTRAL-01,4,74.36,0.15,Sea Freight,21,,,In Transit,610,535,Middle East
+ORD-0078002,2026-05-09 11:38:40,SKU-ELEC-0009,Knowledge Almost 0009,electronics,Domestic NextDay LLC,WH-WEST-02,10,321.64,0.25,Overnight,3,,,In Transit,402,751,Middle East
+ORD-0031755,2026-10-16 14:40:17,SKU-HOME-0026,Blue Best 0026, home & kitchen  ,shenzhen global tech ltd,WH-WEST-02,6,182.19,0.05,Sea Freight,18,,,Pending,521,513,APAC
+ORD-0060420,2026-06-19 05:28:31,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS,ANDES SUPPLY CHAIN SA,WH-EAST-01,7,39.84,0.1,Sea Freight,16,,,Pending,154,366,North America
+ORD-0025893,2026-04-11 23:39:41,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,Apex Logistics Hub,WH-SOUTH-03,4,19.4,0.15,Air Freight,7,8.0,2026-04-19 23:39:41,Delivered,262,343,Middle East
+ORD-0016766,2025-12-06 09:22:59,SKU-APPA-0012,Mouth Play 0012,Apparel,APEX LOGISTICS HUB,WH-EAST-01,5,228.61,0.2,Air Freight,7,11.0,2025-12-17 09:22:59,Delivered,361,402,APAC
+ORD-0007697,2026-10-10 02:16:49,SKU-ELEC-0001,Purpose Brother 0001,ELECTRONICS,APEX LOGISTICS HUB,WH-SOUTH-03,1,77.73,0.25,Air Freight,7,9.0,2026-10-19 02:16:49,Delivered,240,201,Europe
+ORD-0061650,2026-06-17 01:43:55,SKU-BEAU-0036,Themselves Production 0036,Beauty & Health,ANDES SUPPLY CHAIN SA,WH-EAST-01,7,101.52,0.0,Sea Freight,16,22.0,2026-07-09 01:43:55,Delivered,646,902,Europe
+ORD-0091502,2026-08-27 01:25:51,SKU-BEAU-0034,Human Bar 0034,beauty & health,Pacific Coastal Cargo,WH-EAST-01,5,45.63,0.3,Sea Freight,21,,,Cancelled,383,489,North America
+ORD-0020139,2025-12-03 00:57:29,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen, andes supply chain sa  ,WH-WEST-02,13,453.09,0.0,Sea Freight,16,8.0,2025-12-11 00:57:29,Delivered,452,1295,APAC
+ORD-0020198,2026-02-15 18:05:59,SKU-APPA-0016,Offer Kind 0016,Apparel,PACIFIC COASTAL CARGO,WH-WEST-02,12,227.01,0.05,Sea Freight,21,14.0,2026-03-01 18:05:59,Returned,610,1655,LATAM
+ORD-0004609,2026-06-28 04:04:04,SKU-ELEC-0004,Dog Chair 0004,Electronics, fasttrack freight corp  ,WH-EAST-01,3,418.9,0.1,Air Freight,12,,,Cancelled,382,513,Europe
+ORD-0067847,2025-11-26 14:11:23,SKU-APPA-0019,Table True 0019,apparel,Andes Supply Chain SA,WH-EAST-01,3,83.95,0.05,Sea Freight,16,,,Cancelled,353,530,North America
+ORD-0047246,2026-05-24 07:25:07,SKU-SPOR-0042,Drive Spring 0042,SPORTS & OUTDOORS,apex logistics hub,WH-SOUTH-03,5,112.43,0.3,Air Freight,7,8.0,2026-06-01 07:25:07,Returned,191,680,North America
+ORD-0085581,2026-05-16 21:19:35,SKU-HOME-0026,Blue Best 0026,  Home & Kitchen ,Shenzhen Global Tech Ltd,WH-WEST-02,9,182.19,0.05,Sea Freight,18,,,Pending,521,513,LATAM
+ORD-0045071,2026-02-12 13:37:17,SKU-HOME-0027,Husband Bill 0027,HOME & KITCHEN,EURODIRECT DISTRIBUTION,WH-WEST-02,10,455.2,0.25,Road Freight,9,,,Pending,111,950,APAC
+ORD-0084384,2026-08-17 06:58:10,SKU-SPOR-0044,Top Early 0044, sports & outdoors  ,Andes Supply Chain SA,WH-SOUTH-03,7,477.86,0.1,Sea Freight,16,10.0,2026-08-27 06:58:10,Delivered,429,1136,LATAM
+ORD-0001333,2026-03-30 02:06:16,SKU-ELEC-0008,Begin Performance 0008,Electronics,  FastTrack Freight Corp ,WH-WEST-02,4,301.66,0.3,Air Freight,12,,,In Transit,268,518,LATAM
+ORD-0040449,2026-07-31 19:29:28,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EuroDirect Distribution,WH-SOUTH-03,6,62.25,,Road Freight,9,,,Cancelled,1095,1209,Middle East
+ORD-0073316,2026-01-20 13:13:07,SKU-BEAU-0038,Training High 0038,Beauty & Health,  Shenzhen Global Tech Ltd ,WH-SOUTH-03,4,386.78,0.2,Sea Freight,18,,,Pending,69,515,North America
+ORD-0038758,2026-01-27 17:25:13,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,andes supply chain sa,WH-WEST-02,8,39.84,0.3,Sea Freight,16,17.0,2026-02-13 17:25:13,Returned,154,366,Middle East
+ORD-0067032,2026-07-21 04:53:41,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-WEST-02,9,460.0,0.0,Standard Express,10,8.0,2026-07-29 04:53:41,Delivered,486,688,APAC
+ORD-0037268,2026-08-13 23:32:57,SKU-ELEC-0001,Purpose Brother 0001,Electronics,APEX LOGISTICS HUB,WH-SOUTH-03,2,77.73,0.1,Air Freight,7,,,Cancelled,240,201,
+ORD-0024802,2026-08-18 20:11:30,SKU-BEAU-0035,Old Finally 0035,BEAUTY & HEALTH,pacific coastal cargo,WH-WEST-02,7,74.36,0.05,Sea Freight,21,17.0,2026-09-04 20:11:30,Delivered,610,535,APAC
+ORD-0037120,2026-04-18 17:31:51,SKU-APPA-0015,Rate Science 0015,APPAREL,  Apex Logistics Hub ,WH-CENTRAL-01,5,348.12,0.1,Air Freight,7,,,In Transit,676,672,North America
+ORD-0065665,2026-07-29 05:04:43,SKU-ELEC-0005,Since Blue 0005,electronics,  Nordic Fulfillment AB ,WH-SOUTH-03,11,460.0,0.25,Standard Express,10,11.0,2026-08-09 05:04:43,Delivered,486,688,
+ORD-0080745,2025-11-23 02:26:43,SKU-HOME-0029,Guy Pm 0029,  Home & Kitchen ,  Nordic Fulfillment AB ,WH-EAST-01,2,89.7,0.25,Standard Express,10,23.0,2025-12-16 02:26:43,Delivered,385,694,LATAM
+ORD-0043193,2026-01-28 06:09:31,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,nordic fulfillment ab,WH-CENTRAL-01,11,460.0,0.15,Standard Express,10,,,Pending,486,688,APAC
+ORD-0030893,2026-04-03 19:09:45,SKU-ELEC-0005,Since Blue 0005, electronics  ,nordic fulfillment ab,WH-CENTRAL-01,6,460.0,0.0,Standard Express,10,,,In Transit,486,688,LATAM
+ORD-0041996,2025-11-15 15:46:20,SKU-ELEC-0009,Knowledge Almost 0009, electronics  ,Domestic NextDay LLC,WH-EAST-01,10,321.64,0.15,Overnight,3,1.0,2025-11-16 15:46:20,Delivered,402,751,LATAM
+ORD-0092175,2026-03-11 21:06:38,SKU-HOME-0030,Everything Surface 0030,home & kitchen,FastTrack Freight Corp,WH-EAST-01,3,335.01,0.3,Air Freight,12,8.0,2026-03-19 21:06:38,Delivered,687,790,North America
+ORD-0020902,2026-06-07 12:15:09,SKU-ELEC-0009,Knowledge Almost 0009,ELECTRONICS,Domestic NextDay LLC,WH-WEST-02,13,321.64,0.25,Overnight,3,4.0,2026-06-11 12:15:09,Returned,402,751,LATAM
+ORD-0009275,2025-10-24 14:36:09,SKU-APPA-0013,Agreement Option 0013,APPAREL,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,17,371.69,0.0,Road Freight,9,,,In Transit,431,1063,Europe
+ORD-0099741,2025-10-30 02:46:29,SKU-APPA-0014,Decide Sense 0014,Apparel,SHENZHEN GLOBAL TECH LTD,WH-EAST-01,5,200.04,0.2,Sea Freight,18,17.0,2025-11-16 02:46:29,Delivered,644,861,LATAM
+ORD-0052707,2026-03-03 06:07:52,SKU-ELEC-0008,Begin Performance 0008,electronics,FastTrack Freight Corp,WH-WEST-02,3,301.66,0.3,Air Freight,12,,,In Transit,268,518,APAC
+ORD-0041352,2026-09-12 01:46:53,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,13,62.25,0.0,Road Freight,9,12.0,2026-09-24 01:46:53,Returned,1095,1209,Europe
+ORD-0043295,2026-06-08 23:18:11,SKU-BEAU-0038,Training High 0038,beauty & health,  Shenzhen Global Tech Ltd ,WH-WEST-02,4,386.78,0.15,Sea Freight,18,7.0,2026-06-15 23:18:11,Returned,69,515,APAC
+ORD-0033737,2025-11-06 11:05:40,SKU-SPOR-0048,They His 0048,Sports & Outdoors,APEX LOGISTICS HUB,WH-CENTRAL-01,3,278.82,0.25,Air Freight,7,5.0,2025-11-11 11:05:40,Delivered,366,994,LATAM
+ORD-0054259,2025-10-26 07:07:46,SKU-HOME-0026,Blue Best 0026,home & kitchen,Shenzhen Global Tech Ltd,WH-EAST-01,5,182.19,0.3,Sea Freight,18,18.0,2025-11-13 07:07:46,Delivered,521,513,North America
+ORD-0004493,2026-06-06 22:32:11,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,7,39.84,0.2,Sea Freight,16,13.0,2026-06-19 22:32:11,Delivered,154,366,Middle East
+ORD-0019688,2025-12-03 01:18:45,SKU-SPOR-0047,Long Prove 0047, sports & outdoors  ,nordic fulfillment ab,WH-WEST-02,3,99.37,0.15,Standard Express,10,15.0,2025-12-18 01:18:45,Delivered,371,191,Europe
+ORD-0021514,2026-06-20 01:58:11,SKU-SPOR-0042,Drive Spring 0042,Sports & Outdoors,  Apex Logistics Hub ,WH-EAST-01,10,112.43,0.1,Air Freight,7,9.0,2026-06-29 01:58:11,Delivered,191,680,Middle East
+ORD-0049092,2025-12-23 18:30:56,SKU-BEAU-0040,Sea Available 0040,Beauty & Health,Nordic Fulfillment AB,WH-CENTRAL-01,1,47.74,0.2,Standard Express,10,,,In Transit,445,1030,
+ORD-0084711,2026-02-24 22:37:56,SKU-BEAU-0034,Human Bar 0034,  Beauty & Health , pacific coastal cargo  ,WH-WEST-02,4,45.63,0.0,Sea Freight,21,,,In Transit,383,489,Europe
+ORD-0097046,2025-11-06 03:12:08,SKU-HOME-0027,Husband Bill 0027,Home & Kitchen,EuroDirect Distribution,WH-CENTRAL-01,6,455.2,0.0,Road Freight,9,7.0,2025-11-13 03:12:08,Delivered,111,950,North America
+ORD-0029314,2025-11-10 14:22:51,SKU-ELEC-0003,Face Election 0003,electronics,Pacific Coastal Cargo,WH-EAST-01,-4,105.46,0.15,Sea Freight,21,23.0,2025-12-03 14:22:51,Returned,421,347,Middle East
+ORD-0095770,2026-07-26 15:48:22,SKU-BEAU-0035,Old Finally 0035,  Beauty & Health ,Pacific Coastal Cargo,WH-CENTRAL-01,8,74.36,0.3,Sea Freight,21,,,Pending,610,535,Middle East
+ORD-0066895,2025-12-12 15:51:35,SKU-ELEC-0005,Since Blue 0005,Electronics,Nordic Fulfillment AB,WH-SOUTH-03,17,460.0,0.05,Standard Express,10,8.0,2025-12-20 15:51:35,Delivered,486,688,APAC
+ORD-0004882,2025-12-17 02:26:21,SKU-ELEC-0005,Since Blue 0005,Electronics, nordic fulfillment ab  ,WH-EAST-01,11,460.0,0.15,Standard Express,10,,,In Transit,486,688,LATAM
+ORD-0097633,2026-10-13 01:59:03,SKU-APPA-0013,Agreement Option 0013,  Apparel ,eurodirect distribution,WH-EAST-01,15,371.69,0.2,Road Freight,9,14.0,2026-10-27 01:59:03,Delivered,431,1063,North America
+ORD-0012758,2026-04-06 01:01:18,SKU-BEAU-0037,Present Value 0037,Beauty & Health,apex logistics hub,WH-WEST-02,11,416.34,0.0,Air Freight,7,,,In Transit,501,956,Europe
+ORD-0084366,2026-05-11 04:33:31,SKU-ELEC-0008,Begin Performance 0008,Electronics,fasttrack freight corp,WH-SOUTH-03,6,301.66,0.0,Air Freight,12,30.0,2026-06-10 04:33:31,Delivered,268,518,
+ORD-0042821,2026-07-09 05:12:27,SKU-ELEC-0009,Knowledge Almost 0009, electronics  ,Domestic NextDay LLC,WH-SOUTH-03,15,321.64,0.0,Overnight,3,,,Pending,402,751,Europe
+ORD-0022622,2026-01-07 23:29:24,SKU-BEAU-0039,Participant Dark 0039,BEAUTY & HEALTH,apex logistics hub,WH-SOUTH-03,6,78.04,0.2,Air Freight,7,,,In Transit,210,715,North America
+ORD-0081046,2026-08-16 08:46:49,SKU-HOME-0024,Clearly Dinner 0024,  Home & Kitchen ,eurodirect distribution,WH-WEST-02,13,62.25,0.05,Road Freight,9,,,Pending,1095,1209,LATAM
+ORD-0072189,2026-01-13 12:07:31,SKU-SPOR-0048,They His 0048,  Sports & Outdoors ,Apex Logistics Hub,WH-WEST-02,9,278.82,0.3,Air Freight,7,,,Pending,366,994,APAC
+ORD-0048725,2026-03-24 21:57:49,SKU-HOME-0025,Source Great 0025, home & kitchen  ,EURODIRECT DISTRIBUTION,WH-SOUTH-03,14,368.97,0.1,Road Freight,9,11.0,2026-04-04 21:57:49,Delivered,899,783,North America
+ORD-0091122,2026-01-01 05:36:02,SKU-APPA-0015,Rate Science 0015,APPAREL,apex logistics hub,WH-WEST-02,5,348.12,0.05,Air Freight,7,,,In Transit,676,672,APAC
+ORD-0039796,2026-03-08 15:24:32,SKU-BEAU-0035,Old Finally 0035,BEAUTY & HEALTH,PACIFIC COASTAL CARGO,WH-EAST-01,5,74.36,0.2,Sea Freight,21,17.0,2026-03-25 15:24:32,Delivered,610,535,LATAM
+ORD-0001880,2025-11-29 16:56:34,SKU-BEAU-0033,Capital Win 0033,beauty & health,  Pacific Coastal Cargo ,WH-EAST-01,13,307.54,0.3,Sea Freight,21,18.0,2025-12-17 16:56:34,Delivered,452,770,Europe
+ORD-0016432,2026-01-28 11:32:06,SKU-BEAU-0034,Human Bar 0034,BEAUTY & HEALTH,pacific coastal cargo,WH-EAST-01,4,45.63,0.0,Sea Freight,21,8.0,2026-02-05 11:32:06,Delivered,383,489,APAC
+ORD-0002340,2025-11-01 04:29:46,SKU-HOME-0029,Guy Pm 0029,home & kitchen,Nordic Fulfillment AB,WH-CENTRAL-01,8,89.7,0.3,Standard Express,10,11.0,2025-11-12 04:29:46,Returned,385,694,
+ORD-0022108,2026-05-05 02:10:27,SKU-APPA-0013,Agreement Option 0013,apparel, eurodirect distribution  ,WH-CENTRAL-01,10,371.69,0.0,Road Freight,9,,,Cancelled,431,1063,Europe
+ORD-0088411,2026-03-31 06:15:00,SKU-HOME-0025,Source Great 0025,HOME & KITCHEN,  EuroDirect Distribution ,WH-WEST-02,8,368.97,0.2,Road Freight,9,7.0,2026-04-07 06:15:00,Delivered,899,783,Middle East
+ORD-0021375,2026-02-13 01:21:37,SKU-ELEC-0003,Face Election 0003,electronics,PACIFIC COASTAL CARGO,WH-EAST-01,10,105.46,0.25,Sea Freight,21,43.0,2026-03-28 01:21:37,Delivered,421,347,APAC
+ORD-0061114,2026-09-29 18:48:35,SKU-SPOR-0048,They His 0048,SPORTS & OUTDOORS,apex logistics hub,WH-EAST-01,6,278.82,0.05,Air Freight,7,,,Cancelled,366,994,Middle East
+ORD-0088702,2026-09-28 15:02:24,SKU-ELEC-0002,Ago Site 0002,electronics,apex logistics hub,WH-WEST-02,9,26.43,0.05,Air Freight,7,,,In Transit,242,1161,Middle East
+ORD-0011200,2026-07-21 14:23:55,SKU-HOME-0025,Source Great 0025,home & kitchen,EURODIRECT DISTRIBUTION,WH-SOUTH-03,9,368.97,0.3,Road Freight,9,,,In Transit,899,783,APAC
+ORD-0036805,2026-09-11 12:16:05,SKU-HOME-0021,Sure Collection 0021, home & kitchen  ,andes supply chain sa,WH-SOUTH-03,10,453.09,0.15,Sea Freight,16,20.0,2026-10-01 12:16:05,Delivered,452,1295,APAC
+ORD-0047307,2026-02-05 08:37:37,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,pacific coastal cargo,WH-EAST-01,6,45.63,0.15,Sea Freight,21,23.0,2026-02-28 08:37:37,Returned,383,489,APAC
+ORD-0040868,2026-07-02 21:51:53,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-EAST-01,12,460.0,,Standard Express,10,6.0,2026-07-08 21:51:53,Delivered,486,688,North America
+ORD-0096132,2026-03-09 06:02:39,SKU-ELEC-0001,Purpose Brother 0001, electronics  ,  Apex Logistics Hub ,WH-CENTRAL-01,7,77.73,0.15,Air Freight,7,,,In Transit,240,201,LATAM
+ORD-0007078,2026-01-09 18:59:52,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,fasttrack freight corp,WH-SOUTH-03,9,335.01,0.25,Air Freight,12,12.0,2026-01-21 18:59:52,Delivered,687,790,North America
+ORD-0005760,2026-10-17 15:15:17,SKU-BEAU-0034,Human Bar 0034,beauty & health,pacific coastal cargo,WH-SOUTH-03,4,45.63,0.0,Sea Freight,21,27.0,2026-11-13 15:15:17,Delivered,383,489,APAC
+ORD-0066103,2026-03-07 06:09:51,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,3,39.84,0.3,Sea Freight,16,9.0,2026-03-16 06:09:51,Delivered,154,366,Europe
+ORD-0048581,2026-03-12 14:38:03,SKU-HOME-0026,Blue Best 0026,  Home & Kitchen ,SHENZHEN GLOBAL TECH LTD,WH-EAST-01,7,182.19,0.05,Sea Freight,18,13.0,2026-03-25 14:38:03,Returned,521,513,APAC
+ORD-0034979,2026-07-19 19:18:23,SKU-ELEC-0003,Face Election 0003,ELECTRONICS,  Pacific Coastal Cargo ,WH-SOUTH-03,11,105.46,0.25,Sea Freight,21,,,In Transit,421,347,LATAM
+ORD-0003916,2025-11-24 08:36:42,SKU-BEAU-0039,Participant Dark 0039,Beauty & Health,APEX LOGISTICS HUB,WH-CENTRAL-01,4,78.04,0.15,Air Freight,7,7.0,2025-12-01 08:36:42,Delivered,210,715,North America
+ORD-0037886,2026-04-07 06:42:25,SKU-BEAU-0037,Present Value 0037, beauty & health  , apex logistics hub  ,WH-SOUTH-03,17,416.34,,Air Freight,7,7.0,2026-04-14 06:42:25,Returned,501,956,Europe
+ORD-0047829,2026-06-19 11:35:10,SKU-ELEC-0002,Ago Site 0002,ELECTRONICS,  Apex Logistics Hub ,WH-SOUTH-03,19,26.43,0.25,Air Freight,7,,,In Transit,242,1161,LATAM
+ORD-0001058,2025-12-04 22:03:35,SKU-BEAU-0033,Capital Win 0033,beauty & health,PACIFIC COASTAL CARGO,WH-CENTRAL-01,8,307.54,0.2,Sea Freight,21,20.0,2025-12-24 22:03:35,Delivered,452,770,LATAM
+ORD-0027805,2025-11-21 04:50:20,SKU-BEAU-0035,Old Finally 0035,  Beauty & Health ,PACIFIC COASTAL CARGO,WH-WEST-02,11,74.36,0.15,Sea Freight,21,,,Pending,610,535,Europe
+ORD-0014002,2026-08-29 01:14:51,SKU-APPA-0013,Agreement Option 0013,Apparel,eurodirect distribution,WH-SOUTH-03,16,371.69,0.05,Road Freight,9,,,In Transit,431,1063,Europe
+ORD-0089808,2025-12-16 15:34:42,SKU-HOME-0024,Clearly Dinner 0024,home & kitchen,EuroDirect Distribution,WH-SOUTH-03,13,62.25,0.15,Road Freight,9,,,Cancelled,1095,1209,North America
+ORD-0072297,2025-11-10 16:35:55,SKU-BEAU-0038,Training High 0038,Beauty & Health,shenzhen global tech ltd,WH-EAST-01,4,386.78,0.05,Sea Freight,18,19.0,2025-11-29 16:35:55,Delivered,69,515,Europe
+ORD-0069868,2026-04-11 14:11:04,SKU-ELEC-0002,Ago Site 0002,Electronics,  Apex Logistics Hub ,WH-SOUTH-03,7,26.43,0.3,Air Freight,7,,,Cancelled,242,1161,North America
+ORD-0061983,2026-01-13 20:36:25,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,nordic fulfillment ab,WH-CENTRAL-01,10,460.0,0.05,Standard Express,10,,,Cancelled,486,688,LATAM
+ORD-0021867,2026-06-04 11:39:16,SKU-ELEC-0006,Require Sit 0006,electronics,  Domestic NextDay LLC ,WH-EAST-01,5,408.7,0.3,Overnight,3,3.0,2026-06-07 11:39:16,Delivered,83,250,APAC
+ORD-0009732,2026-02-14 01:53:12,SKU-ELEC-0005,Since Blue 0005,  Electronics ,Nordic Fulfillment AB,WH-CENTRAL-01,8,460.0,0.05,Standard Express,10,9.0,2026-02-23 01:53:12,Returned,486,688,APAC
+ORD-0083366,2026-03-09 09:47:25,SKU-SPOR-0042,Drive Spring 0042,SPORTS & OUTDOORS,APEX LOGISTICS HUB,WH-CENTRAL-01,6,112.43,,Air Freight,7,4.0,2026-03-13 09:47:25,Delivered,191,680,North America
+ORD-0051634,2026-04-10 11:45:16,SKU-APPA-0014,Decide Sense 0014,Apparel,  Shenzhen Global Tech Ltd ,WH-WEST-02,7,200.04,0.25,Sea Freight,18,,,In Transit,644,861,Middle East
+ORD-0096109,2026-05-14 03:21:06,SKU-SPOR-0044,Top Early 0044,Sports & Outdoors,Andes Supply Chain SA,WH-SOUTH-03,4,477.86,,Sea Freight,16,12.0,2026-05-26 03:21:06,Delivered,429,1136,APAC
+ORD-0020574,2026-08-06 10:32:12,SKU-HOME-0028,Her Throw 0028,home & kitchen,Apex Logistics Hub,WH-SOUTH-03,8,261.54,0.2,Air Freight,7,8.0,2026-08-14 10:32:12,Delivered,1135,1729,APAC
+ORD-0099559,2026-04-07 06:00:33,SKU-ELEC-0008,Begin Performance 0008,electronics,FastTrack Freight Corp,WH-WEST-02,4,301.66,0.05,Air Freight,12,9.0,2026-04-16 06:00:33,Delivered,268,518,Europe
+ORD-0016368,2026-04-23 07:30:00,SKU-APPA-0020,According Song 0020,apparel,NORDIC FULFILLMENT AB,WH-EAST-01,10,291.08,,Standard Express,10,8.0,2026-05-01 07:30:00,Delivered,772,929,Middle East
+ORD-0063433,2026-06-03 12:29:37,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,ANDES SUPPLY CHAIN SA,WH-EAST-01,7,39.84,0.3,Sea Freight,16,,,Pending,154,366,North America
+ORD-0079636,2026-08-17 08:01:13,SKU-ELEC-0001,Purpose Brother 0001, electronics  ,APEX LOGISTICS HUB,WH-CENTRAL-01,3,77.73,0.15,Air Freight,7,,,Pending,240,201,Europe
+ORD-0023194,2026-06-08 23:30:28,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors,shenzhen global tech ltd,WH-CENTRAL-01,3,256.9,0.3,Sea Freight,18,,,In Transit,213,422,Middle East
+ORD-0032943,2026-03-01 23:07:19,SKU-BEAU-0040,Sea Available 0040,BEAUTY & HEALTH,NORDIC FULFILLMENT AB,WH-EAST-01,11,47.74,0.1,Standard Express,10,9.0,2026-03-10 23:07:19,Delivered,445,1030,LATAM
+ORD-0071773,2026-05-20 00:32:05,SKU-BEAU-0035,Old Finally 0035,BEAUTY & HEALTH,pacific coastal cargo,WH-CENTRAL-01,7,74.36,0.2,Sea Freight,21,21.0,2026-06-10 00:32:05,Delivered,610,535,North America
+ORD-0002743,2026-02-06 15:29:03,SKU-HOME-0027,Husband Bill 0027,Home & Kitchen,EuroDirect Distribution,WH-CENTRAL-01,6,455.2,0.0,Road Freight,9,7.0,2026-02-13 15:29:03,Delivered,111,950,LATAM
+ORD-0015303,2026-03-17 18:34:16,SKU-BEAU-0040,Sea Available 0040,BEAUTY & HEALTH,NORDIC FULFILLMENT AB,WH-CENTRAL-01,7,47.74,0.0,Standard Express,10,12.0,2026-03-29 18:34:16,Delivered,445,1030,North America
+ORD-0050044,2025-12-01 16:25:56,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,Nordic Fulfillment AB,WH-WEST-02,10,460.0,0.3,Standard Express,10,11.0,2025-12-12 16:25:56,Returned,486,688,Europe
+ORD-0036316,2026-03-26 12:37:17,SKU-ELEC-0001,Purpose Brother 0001,Electronics,Apex Logistics Hub,WH-EAST-01,4,77.73,0.25,Air Freight,7,,,Cancelled,240,201,LATAM
+ORD-0086620,2026-03-09 12:52:47,SKU-BEAU-0038,Training High 0038,BEAUTY & HEALTH,Shenzhen Global Tech Ltd,WH-EAST-01,5,386.78,0.05,Sea Freight,18,,,Pending,69,515,Europe
+ORD-0093159,2026-04-01 21:34:22,SKU-HOME-0028,Her Throw 0028,HOME & KITCHEN,Apex Logistics Hub,WH-WEST-02,12,261.54,0.05,Air Freight,7,,,Cancelled,1135,1729,APAC
+ORD-0009264,2025-12-05 01:40:48,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,pacific coastal cargo,WH-CENTRAL-01,6,74.36,0.2,Sea Freight,21,,,Cancelled,610,535,APAC
+ORD-0029139,2026-02-18 21:04:58,SKU-SPOR-0045,Trial Blood 0045, sports & outdoors  ,andes supply chain sa,WH-SOUTH-03,4,39.84,0.15,Sea Freight,16,,,In Transit,154,366,Middle East
+ORD-0063745,2025-11-08 20:48:32,SKU-SPOR-0045,Trial Blood 0045, sports & outdoors  ,ANDES SUPPLY CHAIN SA,WH-EAST-01,5,39.84,0.05,Sea Freight,16,13.0,2025-11-21 20:48:32,Returned,154,366,LATAM
+ORD-0037810,2026-01-12 18:07:07,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,apex logistics hub,WH-SOUTH-03,5,19.4,0.05,Air Freight,7,,,Pending,262,343,LATAM
+ORD-0079443,2025-11-21 10:01:37,SKU-HOME-0024,Clearly Dinner 0024,  Home & Kitchen ,EURODIRECT DISTRIBUTION,WH-EAST-01,12,62.25,0.0,Road Freight,9,,,In Transit,1095,1209,LATAM
+ORD-0030800,2026-04-01 04:07:11,SKU-BEAU-0033,Capital Win 0033,Beauty & Health,Pacific Coastal Cargo,WH-EAST-01,13,307.54,,Sea Freight,21,22.0,2026-04-23 04:07:11,Delivered,452,770,
+ORD-0061703,2026-03-15 20:45:53,SKU-SPOR-0046,Husband Fall 0046,  Sports & Outdoors ,  Shenzhen Global Tech Ltd ,WH-EAST-01,5,247.58,0.0,Sea Freight,18,18.0,2026-04-02 20:45:53,Delivered,135,910,APAC
+ORD-0089503,2026-10-18 04:02:47,SKU-SPOR-0049,Commercial Hospital 0049,SPORTS & OUTDOORS,shenzhen global tech ltd,WH-SOUTH-03,4,256.9,0.2,Sea Freight,18,,,In Transit,213,422,North America
+ORD-0035003,2025-12-28 22:39:21,SKU-ELEC-0006,Require Sit 0006,  Electronics ,domestic nextday llc,WH-WEST-02,3,408.7,0.05,Overnight,3,3.0,2025-12-31 22:39:21,Delivered,83,250,LATAM
+ORD-0065326,2026-06-16 07:31:16,SKU-BEAU-0035,Old Finally 0035, beauty & health  ,Pacific Coastal Cargo,WH-WEST-02,6,74.36,0.2,Sea Freight,21,,,In Transit,610,535,Middle East
+ORD-0007317,2026-01-19 06:14:27,SKU-BEAU-0035,Old Finally 0035,  Beauty & Health ,Pacific Coastal Cargo,WH-EAST-01,7,74.36,0.25,Sea Freight,21,28.0,2026-02-16 06:14:27,Delivered,610,535,Middle East
+ORD-0027887,2026-02-04 08:10:32,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS, nordic fulfillment ab  ,WH-CENTRAL-01,11,460.0,0.2,Standard Express,10,11.0,2026-02-15 08:10:32,Delivered,486,688,North America
+ORD-0072997,2026-05-13 14:42:08,SKU-SPOR-0046,Husband Fall 0046,SPORTS & OUTDOORS,SHENZHEN GLOBAL TECH LTD,WH-EAST-01,7,247.58,,Sea Freight,18,,,In Transit,135,910,Europe
+ORD-0021369,2025-11-03 20:47:23,SKU-ELEC-0009,Knowledge Almost 0009,electronics,domestic nextday llc,WH-EAST-01,13,321.64,0.25,Overnight,3,,,In Transit,402,751,Europe
+ORD-0030504,2026-04-11 03:13:21,SKU-BEAU-0033,Capital Win 0033,BEAUTY & HEALTH,Pacific Coastal Cargo,WH-CENTRAL-01,14,307.54,0.1,Sea Freight,21,26.0,2026-05-07 03:13:21,Delivered,452,770,APAC
+ORD-0095328,2025-11-30 22:49:20,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-WEST-02,5,62.25,0.3,Road Freight,9,8.0,2025-12-08 22:49:20,Delivered,1095,1209,LATAM
+ORD-0063796,2026-09-07 06:48:41,SKU-BEAU-0033,Capital Win 0033,  Beauty & Health ,PACIFIC COASTAL CARGO,WH-EAST-01,17,307.54,0.1,Sea Freight,21,,,Cancelled,452,770,Europe
+ORD-0041648,2025-10-25 12:16:39,SKU-ELEC-0008,Begin Performance 0008, electronics  ,fasttrack freight corp,WH-CENTRAL-01,4,301.66,0.25,Air Freight,12,,,Pending,268,518,LATAM
+ORD-0018421,2026-02-04 13:59:47,SKU-APPA-0016,Offer Kind 0016,  Apparel ,pacific coastal cargo,WH-EAST-01,12,227.01,0.1,Sea Freight,21,,,Cancelled,610,1655,Middle East
+ORD-0029974,2026-07-29 19:14:21,SKU-BEAU-0040,Sea Available 0040,BEAUTY & HEALTH,NORDIC FULFILLMENT AB,WH-CENTRAL-01,4,47.74,0.1,Standard Express,10,14.0,2026-08-12 19:14:21,Returned,445,1030,North America
+ORD-0040232,2025-10-24 02:50:23,SKU-APPA-0014,Decide Sense 0014,apparel,Shenzhen Global Tech Ltd,WH-WEST-02,7,200.04,0.3,Sea Freight,18,,,In Transit,644,861,Middle East
+ORD-0070371,2026-04-12 09:22:16,SKU-ELEC-0001,Purpose Brother 0001,  Electronics ,  Apex Logistics Hub ,WH-CENTRAL-01,3,77.73,0.25,Air Freight,7,,,In Transit,240,201,LATAM
+ORD-0046584,2026-03-31 16:55:15,SKU-SPOR-0045,Trial Blood 0045,sports & outdoors,Andes Supply Chain SA,WH-WEST-02,5,39.84,,Sea Freight,16,,,Cancelled,154,366,LATAM
+ORD-0046066,2026-10-01 16:34:40,SKU-HOME-0025,Source Great 0025,Home & Kitchen,EuroDirect Distribution,WH-CENTRAL-01,12,368.97,0.2,Road Freight,9,,,Pending,899,783,LATAM
+ORD-0096591,2026-01-18 10:52:47,SKU-APPA-0019,Table True 0019,apparel,Andes Supply Chain SA,WH-CENTRAL-01,4,83.95,0.3,Sea Freight,16,6.0,2026-01-24 10:52:47,Delivered,353,530,LATAM
+ORD-0016291,2025-10-24 02:46:03,SKU-HOME-0024,Clearly Dinner 0024, home & kitchen  ,EuroDirect Distribution,WH-SOUTH-03,10,62.25,0.25,Road Freight,9,,,In Transit,1095,1209,Middle East
+ORD-0091070,2026-10-04 19:43:15,SKU-HOME-0029,Guy Pm 0029,home & kitchen,NORDIC FULFILLMENT AB,WH-EAST-01,3,89.7,0.0,Standard Express,10,,,Cancelled,385,694,APAC
+ORD-0084643,2026-10-15 19:07:32,SKU-BEAU-0032,Machine Not 0032,BEAUTY & HEALTH,andes supply chain sa,WH-WEST-02,7,22.33,0.25,Sea Freight,16,15.0,2026-10-30 19:07:32,Delivered,163,253,LATAM
+ORD-0078670,2026-07-03 10:32:20,SKU-APPA-0015,Rate Science 0015,Apparel,APEX LOGISTICS HUB,WH-SOUTH-03,4,348.12,0.0,Air Freight,7,4.0,2026-07-07 10:32:20,Delivered,676,672,LATAM
+ORD-0009159,2026-07-27 21:52:34,SKU-HOME-0029,Guy Pm 0029,home & kitchen,Nordic Fulfillment AB,WH-EAST-01,5,89.7,0.05,Standard Express,10,,,Pending,385,694,LATAM
+ORD-0095218,2026-04-05 09:19:58,SKU-ELEC-0005,Since Blue 0005,Electronics,Nordic Fulfillment AB,WH-EAST-01,6,460.0,,Standard Express,10,7.0,2026-04-12 09:19:58,Delivered,486,688,Middle East
+ORD-0078918,2026-10-19 19:02:10,SKU-HOME-0027,Husband Bill 0027,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-SOUTH-03,4,455.2,0.3,Road Freight,9,,,Cancelled,111,950,North America
+ORD-0034440,2026-07-02 19:18:44,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,Shenzhen Global Tech Ltd,WH-EAST-01,8,256.9,0.25,Sea Freight,18,,,In Transit,213,422,
+ORD-0013722,2026-01-03 14:23:08,SKU-HOME-0021,Sure Collection 0021,home & kitchen,  Andes Supply Chain SA ,WH-WEST-02,14,453.09,0.2,Sea Freight,16,,,In Transit,452,1295,Middle East
+ORD-0020128,2026-06-01 16:19:46,SKU-APPA-0013,Agreement Option 0013, apparel  ,EuroDirect Distribution,WH-CENTRAL-01,12,371.69,0.25,Road Freight,9,,,Pending,431,1063,North America
+ORD-0035499,2026-03-29 19:10:56,SKU-ELEC-0007,Wait Offer 0007,electronics,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,1,467.43,0.3,Road Freight,9,9.0,2026-04-07 19:10:56,Delivered,263,310,Europe
+ORD-0054911,2026-02-17 02:40:29,SKU-HOME-0030,Everything Surface 0030,  Home & Kitchen ,fasttrack freight corp,WH-SOUTH-03,2,335.01,,Air Freight,12,,,Cancelled,687,790,
+ORD-0091293,2026-02-11 18:20:59,SKU-APPA-0013,Agreement Option 0013,  Apparel ,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,10,371.69,0.1,Road Freight,9,9.0,2026-02-20 18:20:59,Delivered,431,1063,APAC
+ORD-0071953,2025-12-14 21:40:23,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,APEX LOGISTICS HUB,WH-EAST-01,5,19.4,0.2,Air Freight,7,,,In Transit,262,343,Middle East
+ORD-0005216,2026-08-04 01:45:31,SKU-HOME-0024,Clearly Dinner 0024,  Home & Kitchen ,eurodirect distribution,WH-WEST-02,10,62.25,0.25,Road Freight,9,,,Cancelled,1095,1209,Europe
+ORD-0032277,2026-09-12 22:34:36,SKU-ELEC-0004,Dog Chair 0004,ELECTRONICS, fasttrack freight corp  ,WH-SOUTH-03,9,418.9,0.25,Air Freight,12,15.0,2026-09-27 22:34:36,Returned,382,513,Europe
+ORD-0030831,2025-10-31 21:07:41,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,Apex Logistics Hub,WH-EAST-01,5,19.4,0.25,Air Freight,7,9.0,2025-11-09 21:07:41,Delivered,262,343,North America
+ORD-0058063,2026-09-13 11:33:34,SKU-ELEC-0005,Since Blue 0005,electronics,nordic fulfillment ab,WH-CENTRAL-01,13,460.0,0.15,Standard Express,10,11.0,2026-09-24 11:33:34,Delivered,486,688,Middle East
+ORD-0078270,2026-05-08 19:04:10,SKU-SPOR-0044,Top Early 0044,sports & outdoors, andes supply chain sa  ,WH-SOUTH-03,8,477.86,0.1,Sea Freight,16,,,Cancelled,429,1136,APAC
+ORD-0032099,2026-01-31 05:28:15,SKU-BEAU-0040,Sea Available 0040,BEAUTY & HEALTH,Nordic Fulfillment AB,WH-EAST-01,12,47.74,0.1,Standard Express,10,8.0,2026-02-08 05:28:15,Returned,445,1030,Europe
+ORD-0007337,2026-01-14 21:56:44,SKU-ELEC-0005,Since Blue 0005,Electronics,  Nordic Fulfillment AB ,WH-CENTRAL-01,10,460.0,0.0,Standard Express,10,11.0,2026-01-25 21:56:44,Delivered,486,688,Europe
+ORD-0019161,2025-10-25 14:14:42,SKU-APPA-0012,Mouth Play 0012,Apparel,  Apex Logistics Hub ,WH-WEST-02,5,228.61,0.3,Air Freight,7,,,In Transit,361,402,Europe
+ORD-0038847,2026-08-27 04:54:50,SKU-SPOR-0043,Figure Base 0043,Sports & Outdoors,fasttrack freight corp,WH-CENTRAL-01,4,195.02,0.05,Air Freight,12,10.0,2026-09-06 04:54:50,Delivered,90,165,Europe
+ORD-0051419,2025-11-07 07:47:04,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,Shenzhen Global Tech Ltd,WH-CENTRAL-01,4,256.9,0.3,Sea Freight,18,4.0,2025-11-11 07:47:04,Delivered,213,422,Europe
+ORD-0014671,2026-03-31 00:07:26,SKU-BEAU-0031,Animal Show 0031,BEAUTY & HEALTH,EURODIRECT DISTRIBUTION,WH-EAST-01,10,217.31,0.25,Road Freight,9,13.0,2026-04-13 00:07:26,Delivered,1149,1138,Europe
+ORD-0066411,2026-06-12 00:13:31,SKU-HOME-0029,Guy Pm 0029,home & kitchen,NORDIC FULFILLMENT AB,WH-WEST-02,7,89.7,0.3,Standard Express,10,15.0,2026-06-27 00:13:31,Delivered,385,694,APAC
+ORD-0058475,2026-09-01 07:13:34,SKU-APPA-0012,Mouth Play 0012,APPAREL,apex logistics hub,WH-WEST-02,5,228.61,0.2,Air Freight,7,6.0,2026-09-07 07:13:34,Delivered,361,402,APAC
+ORD-0086041,2026-06-24 10:15:37,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,  Shenzhen Global Tech Ltd ,WH-EAST-01,5,256.9,0.3,Sea Freight,18,18.0,2026-07-12 10:15:37,Delivered,213,422,Europe
+ORD-0059730,2026-09-03 03:09:41,SKU-SPOR-0046,Husband Fall 0046,  Sports & Outdoors ,  Shenzhen Global Tech Ltd ,WH-EAST-01,11,247.58,0.3,Sea Freight,18,26.0,2026-09-29 03:09:41,Delivered,135,910,APAC
+ORD-0098899,2026-10-04 09:33:20,SKU-APPA-0018,Perform Fall 0018,Apparel, fasttrack freight corp  ,WH-EAST-01,17,478.85,0.05,Air Freight,12,,,In Transit,710,971,APAC
+ORD-0069331,2026-09-19 16:40:12,SKU-APPA-0012,Mouth Play 0012,apparel,apex logistics hub,WH-CENTRAL-01,6,228.61,0.15,Air Freight,7,,,Cancelled,361,402,APAC
+ORD-0081218,2025-11-04 02:45:56,SKU-SPOR-0050,Hear Determine 0050, sports & outdoors  ,EuroDirect Distribution,WH-WEST-02,13,136.67,0.2,Road Freight,9,11.0,2025-11-15 02:45:56,Delivered,513,512,Middle East
+ORD-0075301,2026-06-29 07:26:02,SKU-APPA-0013,Agreement Option 0013, apparel  ,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,14,371.69,0.05,Road Freight,9,,,Cancelled,431,1063,LATAM
+ORD-0019307,2026-06-04 10:27:09,SKU-BEAU-0035,Old Finally 0035,  Beauty & Health ,Pacific Coastal Cargo,WH-CENTRAL-01,12,74.36,0.15,Sea Freight,21,,,In Transit,610,535,APAC
+ORD-0095623,2026-05-18 15:12:22,SKU-APPA-0019,Table True 0019,  Apparel ,Andes Supply Chain SA,WH-EAST-01,5,83.95,0.15,Sea Freight,16,18.0,2026-06-05 15:12:22,Returned,353,530,North America
+ORD-0058100,2026-02-19 08:24:54,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen,Andes Supply Chain SA,WH-SOUTH-03,11,453.09,0.05,Sea Freight,16,10.0,2026-03-01 08:24:54,Delivered,452,1295,North America
+ORD-0010763,2025-11-10 02:22:41,SKU-APPA-0015,Rate Science 0015,Apparel, apex logistics hub  ,WH-WEST-02,8,348.12,0.2,Air Freight,7,,,In Transit,676,672,Europe
+ORD-0079643,2025-11-14 05:55:41,SKU-APPA-0014,Decide Sense 0014,APPAREL,Shenzhen Global Tech Ltd,WH-WEST-02,7,200.04,0.2,Sea Freight,18,,,Pending,644,861,APAC
+ORD-0072609,2026-05-24 21:52:15,SKU-HOME-0024,Clearly Dinner 0024,  Home & Kitchen ,EURODIRECT DISTRIBUTION,WH-EAST-01,13,62.25,0.0,Road Freight,9,12.0,2026-06-05 21:52:15,Delivered,1095,1209,APAC
+ORD-0097714,2026-08-18 22:28:33,SKU-APPA-0015,Rate Science 0015,apparel,Apex Logistics Hub,WH-WEST-02,9,348.12,0.2,Air Freight,7,,,Pending,676,672,APAC
+ORD-0068822,2026-03-11 06:30:54,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,pacific coastal cargo,WH-EAST-01,8,74.36,0.2,Sea Freight,21,,,Pending,610,535,APAC
+ORD-0089445,2026-06-15 10:30:53,SKU-BEAU-0033,Capital Win 0033,Beauty & Health,Pacific Coastal Cargo,WH-SOUTH-03,9,307.54,0.3,Sea Freight,21,,,In Transit,452,770,North America
+ORD-0089001,2026-04-05 11:04:11,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,Andes Supply Chain SA,WH-CENTRAL-01,6,39.84,0.25,Sea Freight,16,15.0,2026-04-20 11:04:11,Delivered,154,366,Middle East
+ORD-0026592,2026-04-25 09:47:19,SKU-ELEC-0001,Purpose Brother 0001,electronics,Apex Logistics Hub,WH-CENTRAL-01,5,77.73,0.1,Air Freight,7,6.0,2026-05-01 09:47:19,Returned,240,201,North America
+ORD-0027482,2026-09-11 07:04:10,SKU-BEAU-0039,Participant Dark 0039,BEAUTY & HEALTH,APEX LOGISTICS HUB,WH-EAST-01,7,78.04,0.05,Air Freight,7,7.0,2026-09-18 07:04:10,Delivered,210,715,
+ORD-0056247,2025-11-17 04:01:29,SKU-HOME-0024,Clearly Dinner 0024,HOME & KITCHEN,EuroDirect Distribution,WH-CENTRAL-01,9,62.25,0.3,Road Freight,9,,,Cancelled,1095,1209,Middle East
+ORD-0007891,2026-09-15 10:30:38,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,andes supply chain sa,WH-CENTRAL-01,4,39.84,0.0,Sea Freight,16,,,In Transit,154,366,Middle East
+ORD-0096401,2026-05-05 09:58:20,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,FastTrack Freight Corp,WH-SOUTH-03,6,335.01,0.15,Air Freight,12,9.0,2026-05-14 09:58:20,Delivered,687,790,Europe
+ORD-0014010,2026-03-19 11:26:40,SKU-BEAU-0034,Human Bar 0034,  Beauty & Health ,PACIFIC COASTAL CARGO,WH-EAST-01,2,45.63,,Sea Freight,21,18.0,2026-04-06 11:26:40,Returned,383,489,North America
+ORD-0034752,2026-02-06 16:32:12,SKU-HOME-0029,Guy Pm 0029, home & kitchen  ,Nordic Fulfillment AB,WH-SOUTH-03,8,89.7,,Standard Express,10,12.0,2026-02-18 16:32:12,Returned,385,694,LATAM
+ORD-0037527,2026-08-03 08:04:25,SKU-HOME-0023,Grow Fall 0023,home & kitchen,EuroDirect Distribution,WH-CENTRAL-01,10,350.08,0.25,Road Freight,9,,,In Transit,282,528,North America
+ORD-0080398,2026-05-26 16:39:55,SKU-BEAU-0033,Capital Win 0033,BEAUTY & HEALTH,  Pacific Coastal Cargo ,WH-WEST-02,18,307.54,0.25,Sea Freight,21,22.0,2026-06-17 16:39:55,Delivered,452,770,North America
+ORD-0079217,2026-01-15 10:52:04,SKU-HOME-0027,Husband Bill 0027,home & kitchen,EuroDirect Distribution,WH-CENTRAL-01,3,455.2,0.25,Road Freight,9,,,Pending,111,950,North America
+ORD-0000279,2026-02-05 18:08:16,SKU-HOME-0023,Grow Fall 0023,  Home & Kitchen ,EuroDirect Distribution,WH-SOUTH-03,8,350.08,,Road Freight,9,4.0,2026-02-09 18:08:16,Delivered,282,528,APAC
+ORD-0049072,2026-04-23 08:18:43,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,fasttrack freight corp,WH-CENTRAL-01,7,335.01,,Air Freight,12,9.0,2026-05-02 08:18:43,Delivered,687,790,Middle East
+ORD-0034426,2026-05-27 16:22:07,SKU-APPA-0017,Discussion List 0017,APPAREL,eurodirect distribution,WH-SOUTH-03,4,135.33,0.15,Road Freight,9,9.0,2026-06-05 16:22:07,Delivered,174,509,LATAM
+ORD-0085392,2026-07-27 16:34:19,SKU-HOME-0029,Guy Pm 0029,Home & Kitchen,NORDIC FULFILLMENT AB,WH-SOUTH-03,1,89.7,0.05,Standard Express,10,9.0,2026-08-05 16:34:19,Delivered,385,694,APAC
+ORD-0016161,2026-07-02 06:47:53,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,  Pacific Coastal Cargo ,WH-CENTRAL-01,1,45.63,0.1,Sea Freight,21,29.0,2026-07-31 06:47:53,Delivered,383,489,Europe
+ORD-0094844,2025-10-30 07:40:11,SKU-BEAU-0033,Capital Win 0033,  Beauty & Health ,pacific coastal cargo,WH-SOUTH-03,17,307.54,0.15,Sea Freight,21,,,Cancelled,452,770,LATAM
+ORD-0051264,2026-07-24 09:00:15,SKU-SPOR-0050,Hear Determine 0050,SPORTS & OUTDOORS,EuroDirect Distribution,WH-WEST-02,5,136.67,0.05,Road Freight,9,,,Cancelled,513,512,Europe
+ORD-0080235,2025-11-21 15:46:43,SKU-APPA-0014,Decide Sense 0014,Apparel,SHENZHEN GLOBAL TECH LTD,WH-EAST-01,5,200.04,0.2,Sea Freight,18,18.0,2025-12-09 15:46:43,Delivered,644,861,LATAM
+ORD-0017618,2026-09-19 01:45:11,SKU-HOME-0025,Source Great 0025, home & kitchen  ,EURODIRECT DISTRIBUTION,WH-WEST-02,-1,368.97,0.15,Road Freight,9,42.0,2026-10-31 01:45:11,Returned,899,783,APAC
+ORD-0059104,2026-03-09 00:00:59,SKU-APPA-0019,Table True 0019,APPAREL, andes supply chain sa  ,WH-WEST-02,4,83.95,0.15,Sea Freight,16,,,In Transit,353,530,LATAM
+ORD-0093639,2026-05-29 21:24:03,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,  FastTrack Freight Corp ,WH-CENTRAL-01,4,335.01,,Air Freight,12,,,Pending,687,790,
+ORD-0060605,2026-02-18 19:27:47,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,pacific coastal cargo,WH-CENTRAL-01,3,45.63,0.1,Sea Freight,21,24.0,2026-03-14 19:27:47,Delivered,383,489,North America
+ORD-0049345,2026-09-22 17:08:58,SKU-BEAU-0035,Old Finally 0035,beauty & health,PACIFIC COASTAL CARGO,WH-EAST-01,5,74.36,0.25,Sea Freight,21,41.0,2026-11-02 17:08:58,Delivered,610,535,Europe
+ORD-0000150,2026-01-26 09:10:07,SKU-ELEC-0006,Require Sit 0006,  Electronics ,  Domestic NextDay LLC ,WH-SOUTH-03,7,408.7,0.2,Overnight,3,2.0,2026-01-28 09:10:07,Delivered,83,250,Europe
+ORD-0098401,2026-04-19 08:42:29,SKU-APPA-0015,Rate Science 0015, apparel  ,apex logistics hub,WH-CENTRAL-01,4,348.12,0.1,Air Freight,7,,,In Transit,676,672,LATAM
+ORD-0093093,2026-01-20 17:10:18,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen,  Andes Supply Chain SA ,WH-WEST-02,9,453.09,0.05,Sea Freight,16,19.0,2026-02-08 17:10:18,Delivered,452,1295,Middle East
+ORD-0038332,2026-10-15 04:51:31,SKU-ELEC-0009,Knowledge Almost 0009,Electronics,Domestic NextDay LLC,WH-EAST-01,14,321.64,0.15,Overnight,3,,,Pending,402,751,LATAM
+ORD-0011322,2026-09-07 08:05:16,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,apex logistics hub,WH-CENTRAL-01,4,19.4,0.0,Air Freight,7,,,In Transit,262,343,North America
+ORD-0030740,2026-08-05 13:46:38,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS,andes supply chain sa,WH-WEST-02,7,39.84,0.15,Sea Freight,16,18.0,2026-08-23 13:46:38,Delivered,154,366,Europe
+ORD-0003435,2026-07-22 06:29:35,SKU-HOME-0026,Blue Best 0026,HOME & KITCHEN,Shenzhen Global Tech Ltd,WH-WEST-02,7,182.19,0.1,Sea Freight,18,,,In Transit,521,513,Middle East
+ORD-0015138,2026-06-14 00:44:19,SKU-ELEC-0002,Ago Site 0002,Electronics,APEX LOGISTICS HUB,WH-EAST-01,10,26.43,0.2,Air Freight,7,8.0,2026-06-22 00:44:19,Delivered,242,1161,North America
+ORD-0063895,2026-02-02 09:51:49,SKU-APPA-0015,Rate Science 0015,Apparel, apex logistics hub  ,WH-EAST-01,9,348.12,0.2,Air Freight,7,,,Cancelled,676,672,LATAM
+ORD-0033281,2026-08-07 09:24:04,SKU-ELEC-0008,Begin Performance 0008,electronics,FastTrack Freight Corp,WH-CENTRAL-01,1,301.66,0.2,Air Freight,12,8.0,2026-08-15 09:24:04,Returned,268,518,Europe
+ORD-0026494,2026-04-14 09:29:54,SKU-BEAU-0031,Animal Show 0031,Beauty & Health,EURODIRECT DISTRIBUTION,WH-SOUTH-03,8,217.31,0.3,Road Freight,9,25.0,2026-05-09 09:29:54,Delivered,1149,1138,APAC
+ORD-0083616,2026-01-21 05:11:30,SKU-HOME-0024,Clearly Dinner 0024, home & kitchen  ,EURODIRECT DISTRIBUTION,WH-EAST-01,17,62.25,0.05,Road Freight,9,11.0,2026-02-01 05:11:30,Delivered,1095,1209,APAC
+ORD-0004081,2026-03-20 10:43:03,SKU-BEAU-0038,Training High 0038,beauty & health,shenzhen global tech ltd,WH-WEST-02,4,386.78,0.1,Sea Freight,18,,,Cancelled,69,515,APAC
+ORD-0075760,2025-11-29 07:39:25,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,  Shenzhen Global Tech Ltd ,WH-CENTRAL-01,4,256.9,0.05,Sea Freight,18,,,In Transit,213,422,North America
+ORD-0024685,2026-02-06 19:49:14,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors,Shenzhen Global Tech Ltd,WH-CENTRAL-01,4,256.9,,Sea Freight,18,22.0,2026-02-28 19:49:14,Delivered,213,422,APAC
+ORD-0038717,2026-06-09 01:12:35,SKU-BEAU-0035,Old Finally 0035,beauty & health,pacific coastal cargo,WH-SOUTH-03,8,74.36,0.2,Sea Freight,21,,,Cancelled,610,535,Middle East
+ORD-0036589,2025-11-07 07:23:06,SKU-HOME-0024,Clearly Dinner 0024,home & kitchen, eurodirect distribution  ,WH-EAST-01,12,62.25,0.0,Road Freight,9,12.0,2025-11-19 07:23:06,Delivered,1095,1209,LATAM
+ORD-0090871,2026-02-15 15:26:27,SKU-ELEC-0008,Begin Performance 0008,electronics,FastTrack Freight Corp,WH-EAST-01,2,301.66,0.3,Air Freight,12,15.0,2026-03-02 15:26:27,Returned,268,518,APAC
+ORD-0052846,2026-01-13 12:08:39,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,apex logistics hub,WH-WEST-02,2,19.4,0.2,Air Freight,7,6.0,2026-01-19 12:08:39,Delivered,262,343,Europe
+ORD-0000805,2026-09-17 16:10:56,SKU-SPOR-0047,Long Prove 0047, sports & outdoors  ,nordic fulfillment ab,WH-EAST-01,2,99.37,0.2,Standard Express,10,10.0,2026-09-27 16:10:56,Delivered,371,191,Middle East
+ORD-0069744,2026-09-26 17:32:39,SKU-ELEC-0008,Begin Performance 0008,Electronics,FASTTRACK FREIGHT CORP,WH-EAST-01,7,301.66,0.3,Air Freight,12,11.0,2026-10-07 17:32:39,Returned,268,518,Europe
+ORD-0082262,2026-05-29 19:53:56,SKU-BEAU-0034,Human Bar 0034,  Beauty & Health ,  Pacific Coastal Cargo ,WH-SOUTH-03,5,45.63,0.0,Sea Freight,21,19.0,2026-06-17 19:53:56,Delivered,383,489,Middle East
+ORD-0023647,2025-11-05 03:59:49,SKU-ELEC-0004,Dog Chair 0004,electronics,fasttrack freight corp,WH-WEST-02,5,418.9,0.05,Air Freight,12,,,In Transit,382,513,APAC
+ORD-0003947,2026-10-12 08:50:08,SKU-SPOR-0049,Commercial Hospital 0049,  Sports & Outdoors ,shenzhen global tech ltd,WH-SOUTH-03,9,256.9,0.05,Sea Freight,18,,,Cancelled,213,422,North America
+ORD-0073883,2026-03-25 09:07:58,SKU-ELEC-0002,Ago Site 0002,electronics,APEX LOGISTICS HUB,WH-CENTRAL-01,15,26.43,,Air Freight,7,5.0,2026-03-30 09:07:58,Returned,242,1161,LATAM
+ORD-0084569,2026-09-09 14:28:37,SKU-BEAU-0033,Capital Win 0033,Beauty & Health,Pacific Coastal Cargo,WH-SOUTH-03,8,307.54,0.2,Sea Freight,21,22.0,2026-10-01 14:28:37,Delivered,452,770,North America
+ORD-0011907,2026-09-26 05:25:37,SKU-ELEC-0005,Since Blue 0005,  Electronics ,nordic fulfillment ab,WH-EAST-01,9,460.0,0.1,Standard Express,10,15.0,2026-10-11 05:25:37,Delivered,486,688,Europe
+ORD-0082571,2026-04-30 17:37:25,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors,Shenzhen Global Tech Ltd,WH-WEST-02,5,256.9,0.15,Sea Freight,18,11.0,2026-05-11 17:37:25,Delivered,213,422,APAC
+ORD-0000929,2026-10-05 03:12:42,SKU-SPOR-0041,Answer Recently 0041,  Sports & Outdoors ,Apex Logistics Hub,WH-EAST-01,4,19.4,0.3,Air Freight,7,6.0,2026-10-11 03:12:42,Delivered,262,343,LATAM
+ORD-0023679,2025-11-10 04:10:32,SKU-HOME-0023,Grow Fall 0023,home & kitchen,  EuroDirect Distribution ,WH-CENTRAL-01,7,350.08,0.0,Road Freight,9,8.0,2025-11-18 04:10:32,Delivered,282,528,North America
+ORD-0019011,2026-05-20 12:51:50,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,SHENZHEN GLOBAL TECH LTD,WH-CENTRAL-01,2,256.9,,Sea Freight,18,,,In Transit,213,422,North America
+ORD-0055925,2026-03-13 21:22:56,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,Pacific Coastal Cargo,WH-CENTRAL-01,4,45.63,0.0,Sea Freight,21,18.0,2026-03-31 21:22:56,Returned,383,489,Middle East
+ORD-0032326,2026-05-25 03:59:55,SKU-SPOR-0047,Long Prove 0047,Sports & Outdoors, nordic fulfillment ab  ,WH-SOUTH-03,6,99.37,0.2,Standard Express,10,,,In Transit,371,191,APAC
+ORD-0004190,2026-04-16 10:36:45,SKU-BEAU-0040,Sea Available 0040,beauty & health,Nordic Fulfillment AB,WH-WEST-02,11,47.74,0.15,Standard Express,10,,,Cancelled,445,1030,LATAM
+ORD-0042464,2026-01-23 18:44:41,SKU-BEAU-0038,Training High 0038,beauty & health,shenzhen global tech ltd,WH-WEST-02,6,386.78,0.3,Sea Freight,18,,,Pending,69,515,APAC
+ORD-0084300,2025-10-22 11:14:34,SKU-HOME-0023,Grow Fall 0023, home & kitchen  ,  EuroDirect Distribution ,WH-CENTRAL-01,15,350.08,0.25,Road Freight,9,6.0,2025-10-28 11:14:34,Delivered,282,528,LATAM
+ORD-0033370,2026-05-06 09:33:56,SKU-ELEC-0001,Purpose Brother 0001,Electronics,apex logistics hub,WH-SOUTH-03,4,77.73,0.25,Air Freight,7,,,Pending,240,201,Europe
+ORD-0058320,2025-12-03 20:44:51,SKU-SPOR-0044,Top Early 0044,sports & outdoors,Andes Supply Chain SA,WH-CENTRAL-01,3,477.86,0.3,Sea Freight,16,19.0,2025-12-22 20:44:51,Delivered,429,1136,North America
+ORD-0050744,2025-10-27 10:12:08,SKU-BEAU-0036,Themselves Production 0036,beauty & health,andes supply chain sa,WH-WEST-02,10,101.52,0.2,Sea Freight,16,,,Pending,646,902,APAC
+ORD-0069125,2026-07-25 00:07:17,SKU-SPOR-0048,They His 0048,SPORTS & OUTDOORS,Apex Logistics Hub,WH-SOUTH-03,6,278.82,0.0,Air Freight,7,,,Pending,366,994,Middle East
+ORD-0087868,2026-09-05 03:11:28,SKU-BEAU-0033,Capital Win 0033,  Beauty & Health ,PACIFIC COASTAL CARGO,WH-EAST-01,11,307.54,0.25,Sea Freight,21,22.0,2026-09-27 03:11:28,Returned,452,770,LATAM
+ORD-0061424,2026-09-14 04:09:03,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS,Apex Logistics Hub,WH-EAST-01,3,19.4,0.2,Air Freight,7,9.0,2026-09-23 04:09:03,Delivered,262,343,Middle East
+ORD-0028938,2026-10-08 10:18:46,SKU-ELEC-0008,Begin Performance 0008,Electronics,fasttrack freight corp,WH-WEST-02,4,301.66,0.3,Air Freight,12,9.0,2026-10-17 10:18:46,Delivered,268,518,APAC
+ORD-0050564,2026-03-30 17:54:49,SKU-BEAU-0034,Human Bar 0034,beauty & health,Pacific Coastal Cargo,WH-CENTRAL-01,7,45.63,0.05,Sea Freight,21,22.0,2026-04-21 17:54:49,Delivered,383,489,APAC
+ORD-0021744,2026-06-17 13:42:31,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS,Domestic NextDay LLC,WH-WEST-02,4,408.7,0.25,Overnight,3,3.0,2026-06-20 13:42:31,Returned,83,250,Middle East
+ORD-0000271,2026-07-06 05:32:48,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS,ANDES SUPPLY CHAIN SA,WH-EAST-01,3,39.84,0.3,Sea Freight,16,10.0,2026-07-16 05:32:48,Delivered,154,366,APAC
+ORD-0020183,2026-07-28 01:30:55,SKU-ELEC-0007,Wait Offer 0007,electronics,EuroDirect Distribution,WH-WEST-02,4,467.43,0.25,Road Freight,9,,,Pending,263,310,North America
+ORD-0011644,2026-01-26 00:56:40,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,Apex Logistics Hub,WH-CENTRAL-01,-1,19.4,0.0,Air Freight,7,5.0,2026-01-31 00:56:40,Returned,262,343,North America
+ORD-0029339,2026-06-13 17:24:47,SKU-BEAU-0031,Animal Show 0031, beauty & health  , eurodirect distribution  ,WH-CENTRAL-01,9,217.31,0.25,Road Freight,9,8.0,2026-06-21 17:24:47,Delivered,1149,1138,Europe
+ORD-0088067,2026-07-30 13:32:17,SKU-ELEC-0005,Since Blue 0005,Electronics,NORDIC FULFILLMENT AB,WH-SOUTH-03,15,460.0,0.15,Standard Express,10,,,In Transit,486,688,Europe
+ORD-0080846,2026-03-25 15:44:36,SKU-ELEC-0005,Since Blue 0005,  Electronics ,nordic fulfillment ab,WH-CENTRAL-01,11,460.0,0.3,Standard Express,10,,,Pending,486,688,North America
+ORD-0073905,2026-10-20 11:06:51,SKU-HOME-0025,Source Great 0025,home & kitchen,eurodirect distribution,WH-WEST-02,10,368.97,0.2,Road Freight,9,,,Pending,899,783,Europe
+ORD-0053290,2026-08-09 15:54:13,SKU-ELEC-0005,Since Blue 0005,electronics,  Nordic Fulfillment AB ,WH-CENTRAL-01,8,460.0,0.25,Standard Express,10,,,In Transit,486,688,North America
+ORD-0049764,2025-11-01 02:36:20,SKU-BEAU-0039,Participant Dark 0039,beauty & health,Apex Logistics Hub,WH-SOUTH-03,3,78.04,0.0,Air Freight,7,10.0,2025-11-11 02:36:20,Delivered,210,715,APAC
+ORD-0024495,2026-09-18 14:28:04,SKU-HOME-0028,Her Throw 0028,  Home & Kitchen ,Apex Logistics Hub,WH-WEST-02,10,261.54,0.0,Air Freight,7,,,Pending,1135,1729,LATAM
+ORD-0096024,2026-10-16 02:48:43,SKU-HOME-0025,Source Great 0025,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-SOUTH-03,7,368.97,0.3,Road Freight,9,10.0,2026-10-26 02:48:43,Delivered,899,783,North America
+ORD-0032811,2026-03-29 22:35:17,SKU-APPA-0013,Agreement Option 0013,apparel,EURODIRECT DISTRIBUTION,WH-SOUTH-03,8,371.69,0.05,Road Freight,9,,,Cancelled,431,1063,North America
+ORD-0058940,2026-06-11 07:18:21,SKU-SPOR-0041,Answer Recently 0041,  Sports & Outdoors ,apex logistics hub,WH-WEST-02,2,19.4,0.25,Air Freight,7,,,In Transit,262,343,LATAM
+ORD-0007634,2026-06-24 15:39:55,SKU-ELEC-0008,Begin Performance 0008,ELECTRONICS,FastTrack Freight Corp,WH-EAST-01,6,301.66,0.0,Air Freight,12,15.0,2026-07-09 15:39:55,Delivered,268,518,APAC
+ORD-0092304,2025-12-07 21:58:50,SKU-APPA-0016,Offer Kind 0016,Apparel,PACIFIC COASTAL CARGO,WH-WEST-02,9,227.01,0.0,Sea Freight,21,,,Cancelled,610,1655,APAC
+ORD-0053205,2025-12-26 08:49:14,SKU-ELEC-0008,Begin Performance 0008,electronics,FastTrack Freight Corp,WH-EAST-01,4,301.66,0.05,Air Freight,12,10.0,2026-01-05 08:49:14,Delivered,268,518,Europe
+ORD-0079593,2026-09-28 07:15:32,SKU-APPA-0011,Discover Early 0011,  Apparel , andes supply chain sa  ,WH-SOUTH-03,9,325.81,0.2,Sea Freight,16,23.0,2026-10-21 07:15:32,Delivered,254,795,Middle East
+ORD-0017841,2025-12-26 13:21:20,SKU-APPA-0019,Table True 0019,Apparel,andes supply chain sa,WH-WEST-02,8,83.95,0.3,Sea Freight,16,20.0,2026-01-15 13:21:20,Delivered,353,530,Europe
+ORD-0080177,2026-01-28 07:57:43,SKU-BEAU-0034,Human Bar 0034,beauty & health,Pacific Coastal Cargo,WH-SOUTH-03,3,45.63,,Sea Freight,21,17.0,2026-02-14 07:57:43,Delivered,383,489,Middle East
+ORD-0058045,2026-07-17 07:35:46,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,  Andes Supply Chain SA ,WH-SOUTH-03,7,39.84,0.0,Sea Freight,16,11.0,2026-07-28 07:35:46,Returned,154,366,LATAM
+ORD-0087282,2026-02-05 22:27:59,SKU-HOME-0023,Grow Fall 0023,HOME & KITCHEN,EuroDirect Distribution,WH-SOUTH-03,10,350.08,0.15,Road Freight,9,,,Pending,282,528,Europe
+ORD-0048681,2026-05-08 06:58:13,SKU-HOME-0030,Everything Surface 0030,HOME & KITCHEN,  FastTrack Freight Corp ,WH-EAST-01,6,335.01,0.3,Air Freight,12,6.0,2026-05-14 06:58:13,Delivered,687,790,Europe
+ORD-0066540,2026-10-01 07:32:25,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,  Andes Supply Chain SA ,WH-EAST-01,4,39.84,0.3,Sea Freight,16,,,Pending,154,366,APAC
+ORD-0026084,2026-02-23 09:27:35,SKU-BEAU-0033,Capital Win 0033,BEAUTY & HEALTH,Pacific Coastal Cargo,WH-EAST-01,16,307.54,0.25,Sea Freight,21,23.0,2026-03-18 09:27:35,Returned,452,770,North America
+ORD-0069998,2026-09-22 04:16:40,SKU-ELEC-0005,Since Blue 0005, electronics  ,nordic fulfillment ab,WH-CENTRAL-01,15,460.0,0.3,Standard Express,10,9.0,2026-10-01 04:16:40,Returned,486,688,LATAM
+ORD-0004185,2026-01-04 14:59:01,SKU-ELEC-0006,Require Sit 0006,  Electronics ,DOMESTIC NEXTDAY LLC,WH-WEST-02,4,408.7,0.15,Overnight,3,,,Pending,83,250,Middle East
+ORD-0023026,2026-01-29 23:21:23,SKU-HOME-0021,Sure Collection 0021, home & kitchen  ,Andes Supply Chain SA,WH-SOUTH-03,10,453.09,0.05,Sea Freight,16,,,In Transit,452,1295,Middle East
+ORD-0043608,2025-11-24 00:34:50,SKU-HOME-0025,Source Great 0025, home & kitchen  ,EuroDirect Distribution,WH-CENTRAL-01,9,368.97,0.3,Road Freight,9,,,Cancelled,899,783,North America
+ORD-0046640,2026-01-29 07:53:15,SKU-APPA-0013,Agreement Option 0013,Apparel,EURODIRECT DISTRIBUTION,WH-EAST-01,16,371.69,0.2,Road Freight,9,,,Pending,431,1063,Middle East
+ORD-0036939,2025-12-23 00:58:23,SKU-BEAU-0040,Sea Available 0040,Beauty & Health,nordic fulfillment ab,WH-SOUTH-03,5,47.74,0.0,Standard Express,10,9.0,2026-01-01 00:58:23,Delivered,445,1030,LATAM
+ORD-0094283,2026-09-08 06:36:29,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen,ANDES SUPPLY CHAIN SA,WH-SOUTH-03,8,453.09,0.15,Sea Freight,16,17.0,2026-09-25 06:36:29,Delivered,452,1295,LATAM
+ORD-0042604,2026-08-28 16:10:37,SKU-HOME-0025,Source Great 0025, home & kitchen  ,  EuroDirect Distribution ,WH-WEST-02,9,368.97,0.05,Road Freight,9,,,Cancelled,899,783,Europe
+ORD-0073189,2025-12-11 21:50:06,SKU-HOME-0024,Clearly Dinner 0024,  Home & Kitchen ,eurodirect distribution,WH-WEST-02,14,62.25,0.0,Road Freight,9,8.0,2025-12-19 21:50:06,Returned,1095,1209,LATAM
+ORD-0060477,2026-04-30 06:31:38,SKU-ELEC-0005,Since Blue 0005,  Electronics ,  Nordic Fulfillment AB ,WH-WEST-02,12,460.0,,Standard Express,10,,,Cancelled,486,688,Middle East
+ORD-0039625,2026-04-27 16:33:25,SKU-BEAU-0032,Machine Not 0032,BEAUTY & HEALTH,Andes Supply Chain SA,WH-WEST-02,3,22.33,0.05,Sea Freight,16,,,Cancelled,163,253,Middle East
+ORD-0093923,2026-06-24 18:25:54,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,Pacific Coastal Cargo,WH-EAST-01,8,74.36,0.25,Sea Freight,21,,,In Transit,610,535,North America
+ORD-0000857,2026-01-26 09:47:28,SKU-HOME-0025,Source Great 0025,  Home & Kitchen ,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,10,368.97,0.1,Road Freight,9,,,Pending,899,783,Middle East
+ORD-0028899,2026-04-17 10:10:44,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,Apex Logistics Hub,WH-SOUTH-03,4,19.4,0.25,Air Freight,7,7.0,2026-04-24 10:10:44,Delivered,262,343,APAC
+ORD-0079164,2026-06-14 14:04:59,SKU-HOME-0025,Source Great 0025,home & kitchen,  EuroDirect Distribution ,WH-WEST-02,10,368.97,0.15,Road Freight,9,,,Pending,899,783,Middle East
+ORD-0097773,2026-02-21 20:15:31,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,andes supply chain sa,WH-SOUTH-03,6,39.84,0.0,Sea Freight,16,13.0,2026-03-06 20:15:31,Delivered,154,366,APAC
+ORD-0031698,2026-07-03 06:20:13,SKU-APPA-0014,Decide Sense 0014,APPAREL,Shenzhen Global Tech Ltd,WH-CENTRAL-01,4,200.04,0.2,Sea Freight,18,13.0,2026-07-16 06:20:13,Delivered,644,861,Europe
+ORD-0087713,2026-05-01 09:51:43,SKU-ELEC-0002,Ago Site 0002,electronics,Apex Logistics Hub,WH-EAST-01,12,26.43,0.05,Air Freight,7,,,In Transit,242,1161,Middle East
+ORD-0087092,2025-12-10 17:27:04,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,APEX LOGISTICS HUB,WH-SOUTH-03,5,19.4,0.1,Air Freight,7,6.0,2025-12-16 17:27:04,Returned,262,343,Europe
+ORD-0081241,2026-02-14 18:19:11,SKU-ELEC-0005,Since Blue 0005,electronics,  Nordic Fulfillment AB ,WH-WEST-02,13,460.0,0.1,Standard Express,10,9.0,2026-02-23 18:19:11,Returned,486,688,North America
+ORD-0089172,2026-07-16 03:39:37,SKU-ELEC-0005,Since Blue 0005,electronics,NORDIC FULFILLMENT AB,WH-CENTRAL-01,13,460.0,0.1,Standard Express,10,14.0,2026-07-30 03:39:37,Delivered,486,688,
+ORD-0052038,2026-07-01 14:14:58,SKU-APPA-0013,Agreement Option 0013,APPAREL,EuroDirect Distribution,WH-CENTRAL-01,10,371.69,0.2,Road Freight,9,9.0,2026-07-10 14:14:58,Delivered,431,1063,Europe
+ORD-0096944,2026-02-15 07:29:05,SKU-ELEC-0005,Since Blue 0005,electronics,nordic fulfillment ab,WH-WEST-02,9,460.0,0.2,Standard Express,10,,,In Transit,486,688,Middle East
+ORD-0006742,2025-10-28 20:01:23,SKU-ELEC-0001,Purpose Brother 0001,Electronics,APEX LOGISTICS HUB,WH-EAST-01,4,77.73,0.3,Air Freight,7,5.0,2025-11-02 20:01:23,Returned,240,201,Europe
+ORD-0050293,2026-06-05 00:53:00,SKU-BEAU-0040,Sea Available 0040,Beauty & Health,Nordic Fulfillment AB,WH-CENTRAL-01,9,47.74,0.25,Standard Express,10,,,Cancelled,445,1030,Europe
+ORD-0050621,2026-05-05 15:30:20,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,APEX LOGISTICS HUB,WH-SOUTH-03,4,19.4,0.3,Air Freight,7,2.0,2026-05-07 15:30:20,Returned,262,343,Europe
+ORD-0042283,2026-06-18 08:03:33,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,apex logistics hub,WH-WEST-02,4,19.4,0.2,Air Freight,7,9.0,2026-06-27 08:03:33,Delivered,262,343,Middle East
+ORD-0044129,2025-11-18 20:59:17,SKU-HOME-0024,Clearly Dinner 0024,  Home & Kitchen ,  EuroDirect Distribution ,WH-SOUTH-03,10,62.25,0.3,Road Freight,9,,,In Transit,1095,1209,APAC
+ORD-0094549,2026-05-10 11:03:02,SKU-HOME-0021,Sure Collection 0021,home & kitchen,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,6,453.09,0.15,Sea Freight,16,20.0,2026-05-30 11:03:02,Returned,452,1295,North America
+ORD-0020493,2026-10-02 10:47:35,SKU-BEAU-0036,Themselves Production 0036, beauty & health  ,ANDES SUPPLY CHAIN SA,WH-EAST-01,4,101.52,0.1,Sea Freight,16,7.0,2026-10-09 10:47:35,Delivered,646,902,APAC
+ORD-0053971,2026-08-20 20:35:54,SKU-APPA-0018,Perform Fall 0018,  Apparel ,fasttrack freight corp,WH-SOUTH-03,8,478.85,0.1,Air Freight,12,13.0,2026-09-02 20:35:54,Delivered,710,971,LATAM
+ORD-0026971,2026-09-12 20:16:07,SKU-HOME-0027,Husband Bill 0027,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,6,455.2,0.2,Road Freight,9,8.0,2026-09-20 20:16:07,Delivered,111,950,North America
+ORD-0096676,2026-01-09 09:16:53,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS,APEX LOGISTICS HUB,WH-EAST-01,3,19.4,0.3,Air Freight,7,,,In Transit,262,343,Europe
+ORD-0058396,2025-11-03 02:29:45,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,apex logistics hub,WH-WEST-02,4,19.4,0.15,Air Freight,7,6.0,2025-11-09 02:29:45,Delivered,262,343,Middle East
+ORD-0036543,2026-06-01 21:35:18,SKU-HOME-0029,Guy Pm 0029,HOME & KITCHEN,  Nordic Fulfillment AB ,WH-WEST-02,3,89.7,0.1,Standard Express,10,16.0,2026-06-17 21:35:18,Returned,385,694,APAC
+ORD-0068981,2026-03-19 11:19:44,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,Andes Supply Chain SA,WH-WEST-02,5,39.84,,Sea Freight,16,,,Cancelled,154,366,Middle East
+ORD-0066101,2026-05-13 09:04:40,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,fasttrack freight corp,WH-WEST-02,7,335.01,0.15,Air Freight,12,9.0,2026-05-22 09:04:40,Delivered,687,790,Middle East
+ORD-0049376,2026-05-01 05:59:03,SKU-APPA-0012,Mouth Play 0012,  Apparel ,APEX LOGISTICS HUB,WH-SOUTH-03,3,228.61,0.25,Air Freight,7,5.0,2026-05-06 05:59:03,Delivered,361,402,Middle East
+ORD-0055546,2026-09-02 19:36:38,SKU-SPOR-0048,They His 0048,sports & outdoors,Apex Logistics Hub,WH-CENTRAL-01,7,278.82,0.15,Air Freight,7,8.0,2026-09-10 19:36:38,Returned,366,994,APAC
+ORD-0096296,2026-05-27 05:27:05,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,FastTrack Freight Corp,WH-WEST-02,6,335.01,0.05,Air Freight,12,6.0,2026-06-02 05:27:05,Delivered,687,790,APAC
+ORD-0008115,2026-04-24 08:47:44,SKU-ELEC-0006,Require Sit 0006,Electronics,Domestic NextDay LLC,WH-EAST-01,2,408.7,0.2,Overnight,3,2.0,2026-04-26 08:47:44,Delivered,83,250,LATAM
+ORD-0018030,2025-11-17 03:40:02,SKU-BEAU-0038,Training High 0038,beauty & health,  Shenzhen Global Tech Ltd ,WH-EAST-01,5,386.78,0.3,Sea Freight,18,15.0,2025-12-02 03:40:02,Delivered,69,515,LATAM
+ORD-0023542,2026-09-07 17:18:46,SKU-HOME-0028,Her Throw 0028,  Home & Kitchen ,apex logistics hub,WH-WEST-02,4,261.54,0.1,Air Freight,7,5.0,2026-09-12 17:18:46,Delivered,1135,1729,Middle East
+ORD-0006371,2026-01-12 15:35:07,SKU-ELEC-0001,Purpose Brother 0001,electronics,APEX LOGISTICS HUB,WH-SOUTH-03,6,77.73,0.1,Air Freight,7,,,Cancelled,240,201,APAC
+ORD-0016409,2026-03-04 02:14:07,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,apex logistics hub,WH-CENTRAL-01,5,19.4,0.0,Air Freight,7,8.0,2026-03-12 02:14:07,Returned,262,343,APAC
+ORD-0037315,2026-03-06 18:23:22,SKU-APPA-0012,Mouth Play 0012,apparel, apex logistics hub  ,WH-EAST-01,6,228.61,0.3,Air Freight,7,,,In Transit,361,402,North America
+ORD-0016654,2026-07-05 06:41:20,SKU-HOME-0029,Guy Pm 0029,home & kitchen, nordic fulfillment ab  ,WH-EAST-01,5,89.7,0.15,Standard Express,10,9.0,2026-07-14 06:41:20,Delivered,385,694,APAC
+ORD-0081614,2025-11-08 18:12:31,SKU-APPA-0012,Mouth Play 0012,Apparel,Apex Logistics Hub,WH-EAST-01,8,228.61,0.0,Air Freight,7,5.0,2025-11-13 18:12:31,Delivered,361,402,APAC
+ORD-0058095,2026-10-07 17:53:01,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS, andes supply chain sa  ,WH-CENTRAL-01,7,39.84,0.2,Sea Freight,16,12.0,2026-10-19 17:53:01,Delivered,154,366,Europe
+ORD-0033532,2026-07-15 00:57:07,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,  Pacific Coastal Cargo ,WH-SOUTH-03,9,74.36,0.05,Sea Freight,21,,,Cancelled,610,535,Europe
+ORD-0068321,2026-09-29 11:02:39,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,Pacific Coastal Cargo,WH-EAST-01,4,45.63,0.1,Sea Freight,21,12.0,2026-10-11 11:02:39,Delivered,383,489,
+ORD-0095667,2026-06-12 02:19:27,SKU-APPA-0016,Offer Kind 0016,  Apparel ,pacific coastal cargo,WH-SOUTH-03,11,227.01,0.2,Sea Freight,21,,,In Transit,610,1655,Europe
+ORD-0051104,2026-04-04 18:06:31,SKU-BEAU-0033,Capital Win 0033,BEAUTY & HEALTH,pacific coastal cargo,WH-WEST-02,22,307.54,0.05,Sea Freight,21,,,Cancelled,452,770,North America
+ORD-0033310,2026-02-23 08:07:04,SKU-SPOR-0046,Husband Fall 0046,SPORTS & OUTDOORS, shenzhen global tech ltd  ,WH-SOUTH-03,11,247.58,0.05,Sea Freight,18,12.0,2026-03-07 08:07:04,Delivered,135,910,Europe
+ORD-0056560,2026-01-10 18:46:39,SKU-ELEC-0006,Require Sit 0006,electronics,domestic nextday llc,WH-EAST-01,3,408.7,0.25,Overnight,3,2.0,2026-01-12 18:46:39,Delivered,83,250,Middle East
+ORD-0092487,2026-04-27 21:18:58,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,andes supply chain sa,WH-CENTRAL-01,4,39.84,0.1,Sea Freight,16,,,Cancelled,154,366,North America
+ORD-0065820,2026-05-25 10:02:42,SKU-ELEC-0005,Since Blue 0005,Electronics,nordic fulfillment ab,WH-EAST-01,13,460.0,0.0,Standard Express,10,13.0,2026-06-07 10:02:42,Delivered,486,688,Europe
+ORD-0007210,2026-04-02 20:42:05,SKU-HOME-0026,Blue Best 0026,home & kitchen,Shenzhen Global Tech Ltd,WH-WEST-02,11,182.19,0.2,Sea Freight,18,,,Cancelled,521,513,LATAM
+ORD-0018955,2026-05-23 17:39:02,SKU-ELEC-0008,Begin Performance 0008,electronics,fasttrack freight corp,WH-WEST-02,4,301.66,0.25,Air Freight,12,20.0,2026-06-12 17:39:02,Returned,268,518,Europe
+ORD-0007778,2025-12-13 04:56:06,SKU-ELEC-0006,Require Sit 0006,Electronics,  Domestic NextDay LLC ,WH-WEST-02,6,408.7,0.3,Overnight,3,4.0,2025-12-17 04:56:06,Returned,83,250,LATAM
+ORD-0088116,2026-10-15 12:44:22,SKU-SPOR-0050,Hear Determine 0050,  Sports & Outdoors ,EuroDirect Distribution,WH-WEST-02,2,136.67,0.3,Road Freight,9,,,Pending,513,512,LATAM
+ORD-0085478,2026-03-27 16:48:13,SKU-HOME-0024,Clearly Dinner 0024,  Home & Kitchen ,  EuroDirect Distribution ,WH-SOUTH-03,8,62.25,0.2,Road Freight,9,,,Pending,1095,1209,Europe
+ORD-0015520,2026-07-28 09:11:29,SKU-SPOR-0049,Commercial Hospital 0049,SPORTS & OUTDOORS,SHENZHEN GLOBAL TECH LTD,WH-WEST-02,7,256.9,0.2,Sea Freight,18,,,In Transit,213,422,APAC
+ORD-0094220,2026-02-03 18:39:41,SKU-SPOR-0045,Trial Blood 0045,sports & outdoors, andes supply chain sa  ,WH-WEST-02,7,39.84,0.0,Sea Freight,16,21.0,2026-02-24 18:39:41,Delivered,154,366,LATAM
+ORD-0007424,2026-05-26 02:28:43,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,Apex Logistics Hub,WH-EAST-01,-3,19.4,0.1,Air Freight,7,9.0,2026-06-04 02:28:43,Returned,262,343,APAC
+ORD-0030554,2026-03-29 18:35:23,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS,Domestic NextDay LLC,WH-EAST-01,6,408.7,,Overnight,3,,,Pending,83,250,
+ORD-0018923,2026-10-03 10:48:03,SKU-HOME-0021,Sure Collection 0021,HOME & KITCHEN,Andes Supply Chain SA,WH-CENTRAL-01,4,453.09,0.05,Sea Freight,16,21.0,2026-10-24 10:48:03,Delivered,452,1295,Middle East
+ORD-0006560,2026-03-15 09:37:30,SKU-APPA-0013,Agreement Option 0013,APPAREL,eurodirect distribution,WH-WEST-02,13,371.69,0.3,Road Freight,9,,,In Transit,431,1063,Middle East
+ORD-0030530,2026-01-06 10:19:04,SKU-BEAU-0035,Old Finally 0035,BEAUTY & HEALTH,pacific coastal cargo,WH-WEST-02,7,74.36,0.3,Sea Freight,21,,,Cancelled,610,535,North America
+ORD-0072629,2026-03-07 21:19:59,SKU-HOME-0028,Her Throw 0028,  Home & Kitchen ,Apex Logistics Hub,WH-EAST-01,17,261.54,0.0,Air Freight,7,,,Pending,1135,1729,APAC
+ORD-0000576,2026-01-19 07:28:00,SKU-BEAU-0040,Sea Available 0040,Beauty & Health,nordic fulfillment ab,WH-SOUTH-03,6,47.74,0.05,Standard Express,10,11.0,2026-01-30 07:28:00,Delivered,445,1030,LATAM
+ORD-0084618,2026-05-10 17:12:58,SKU-SPOR-0042,Drive Spring 0042,Sports & Outdoors,apex logistics hub,WH-SOUTH-03,9,112.43,0.05,Air Freight,7,7.0,2026-05-17 17:12:58,Returned,191,680,Europe
+ORD-0000981,2026-02-01 09:14:13,SKU-HOME-0028,Her Throw 0028,  Home & Kitchen ,apex logistics hub,WH-CENTRAL-01,14,261.54,0.15,Air Freight,7,,,Pending,1135,1729,Europe
+ORD-0028728,2026-02-15 21:06:43,SKU-APPA-0013,Agreement Option 0013,  Apparel ,eurodirect distribution,WH-WEST-02,10,371.69,0.3,Road Freight,9,11.0,2026-02-26 21:06:43,Delivered,431,1063,North America
+ORD-0054306,2025-12-21 13:16:05,SKU-ELEC-0001,Purpose Brother 0001,  Electronics ,apex logistics hub,WH-CENTRAL-01,2,77.73,0.15,Air Freight,7,,,In Transit,240,201,APAC
+ORD-0034984,2026-10-08 19:22:32,SKU-HOME-0029,Guy Pm 0029,home & kitchen,Nordic Fulfillment AB,WH-CENTRAL-01,5,89.7,0.0,Standard Express,10,9.0,2026-10-17 19:22:32,Returned,385,694,Europe
+ORD-0008312,2026-07-28 09:27:50,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS, domestic nextday llc  ,WH-EAST-01,3,408.7,0.0,Overnight,3,3.0,2026-07-31 09:27:50,Delivered,83,250,North America
+ORD-0029587,2026-07-31 22:14:34,SKU-BEAU-0033,Capital Win 0033, beauty & health  ,PACIFIC COASTAL CARGO,WH-CENTRAL-01,14,307.54,,Sea Freight,21,16.0,2026-08-16 22:14:34,Delivered,452,770,Middle East
+ORD-0082899,2026-07-28 07:02:57,SKU-HOME-0026,Blue Best 0026,HOME & KITCHEN,shenzhen global tech ltd,WH-SOUTH-03,6,182.19,0.15,Sea Freight,18,20.0,2026-08-17 07:02:57,Returned,521,513,Europe
+ORD-0020363,2026-10-04 17:48:39,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,Apex Logistics Hub,WH-SOUTH-03,3,19.4,0.25,Air Freight,7,8.0,2026-10-12 17:48:39,Delivered,262,343,Middle East
+ORD-0087976,2026-05-15 05:58:41,SKU-ELEC-0005,Since Blue 0005,  Electronics ,nordic fulfillment ab,WH-WEST-02,10,460.0,0.3,Standard Express,10,,,Pending,486,688,North America
+ORD-0076634,2026-09-21 16:02:29,SKU-ELEC-0009,Knowledge Almost 0009,ELECTRONICS,DOMESTIC NEXTDAY LLC,WH-CENTRAL-01,11,321.64,0.05,Overnight,3,4.0,2026-09-25 16:02:29,Delivered,402,751,North America
+ORD-0072420,2025-12-19 18:51:50,SKU-ELEC-0008,Begin Performance 0008, electronics  ,fasttrack freight corp,WH-SOUTH-03,5,301.66,0.3,Air Freight,12,,,Cancelled,268,518,APAC
+ORD-0076656,2026-01-11 22:57:32,SKU-APPA-0019,Table True 0019,Apparel,ANDES SUPPLY CHAIN SA,WH-EAST-01,4,83.95,0.1,Sea Freight,16,,,In Transit,353,530,LATAM
+ORD-0043768,2026-09-17 17:59:03,SKU-ELEC-0007,Wait Offer 0007,  Electronics ,EuroDirect Distribution,WH-SOUTH-03,3,467.43,0.15,Road Freight,9,11.0,2026-09-28 17:59:03,Delivered,263,310,North America
+ORD-0078643,2026-10-18 11:21:08,SKU-ELEC-0007,Wait Offer 0007,Electronics,EuroDirect Distribution,WH-CENTRAL-01,3,467.43,0.0,Road Freight,9,11.0,2026-10-29 11:21:08,Returned,263,310,North America
+ORD-0003897,2026-06-07 07:34:58,SKU-ELEC-0004,Dog Chair 0004,Electronics,FASTTRACK FREIGHT CORP,WH-SOUTH-03,5,418.9,0.25,Air Freight,12,,,In Transit,382,513,LATAM
+ORD-0030923,2026-07-28 18:54:42,SKU-HOME-0023,Grow Fall 0023, home & kitchen  , eurodirect distribution  ,WH-SOUTH-03,14,350.08,0.0,Road Freight,9,6.0,2026-08-03 18:54:42,Delivered,282,528,Europe
+ORD-0051516,2026-03-20 16:55:11,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,  Pacific Coastal Cargo ,WH-SOUTH-03,6,74.36,0.15,Sea Freight,21,21.0,2026-04-10 16:55:11,Returned,610,535,Europe
+ORD-0030471,2026-01-16 20:20:23,SKU-SPOR-0048,They His 0048,SPORTS & OUTDOORS,apex logistics hub,WH-EAST-01,8,278.82,0.15,Air Freight,7,7.0,2026-01-23 20:20:23,Delivered,366,994,LATAM
+ORD-0078274,2026-02-06 16:10:35,SKU-ELEC-0009,Knowledge Almost 0009,  Electronics ,domestic nextday llc,WH-EAST-01,17,321.64,0.1,Overnight,3,4.0,2026-02-10 16:10:35,Delivered,402,751,North America
+ORD-0045841,2026-07-24 07:07:14,SKU-ELEC-0005,Since Blue 0005, electronics  ,nordic fulfillment ab,WH-CENTRAL-01,6,460.0,0.05,Standard Express,10,,,Cancelled,486,688,North America
+ORD-0095816,2026-04-29 17:50:29,SKU-HOME-0027,Husband Bill 0027,  Home & Kitchen ,  EuroDirect Distribution ,WH-WEST-02,5,455.2,0.1,Road Freight,9,9.0,2026-05-08 17:50:29,Delivered,111,950,APAC
+ORD-0065054,2026-04-14 14:37:50,SKU-HOME-0028,Her Throw 0028,  Home & Kitchen ,APEX LOGISTICS HUB,WH-WEST-02,11,261.54,0.1,Air Freight,7,2.0,2026-04-16 14:37:50,Returned,1135,1729,Middle East
+ORD-0011847,2025-12-31 23:02:25,SKU-SPOR-0045,Trial Blood 0045, sports & outdoors  ,  Andes Supply Chain SA ,WH-CENTRAL-01,3,39.84,0.3,Sea Freight,16,20.0,2026-01-20 23:02:25,Returned,154,366,Middle East
+ORD-0065044,2026-03-16 06:51:01,SKU-ELEC-0008,Begin Performance 0008,Electronics,fasttrack freight corp,WH-EAST-01,5,301.66,0.15,Air Freight,12,,,Cancelled,268,518,APAC
+ORD-0000822,2026-02-03 10:34:57,SKU-ELEC-0008,Begin Performance 0008,electronics,fasttrack freight corp,WH-SOUTH-03,3,301.66,0.1,Air Freight,12,,,Cancelled,268,518,LATAM
+ORD-0045993,2026-03-09 15:52:32,SKU-HOME-0023,Grow Fall 0023,  Home & Kitchen ,EuroDirect Distribution,WH-WEST-02,4,350.08,0.1,Road Freight,9,10.0,2026-03-19 15:52:32,Delivered,282,528,North America
+ORD-0051392,2026-01-27 18:30:06,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,Pacific Coastal Cargo,WH-EAST-01,16,74.36,0.05,Sea Freight,21,,,Pending,610,535,North America
+ORD-0061154,2026-04-18 10:13:55,SKU-SPOR-0045,Trial Blood 0045,sports & outdoors, andes supply chain sa  ,WH-WEST-02,7,39.84,0.05,Sea Freight,16,12.0,2026-04-30 10:13:55,Delivered,154,366,APAC
+ORD-0046873,2025-11-09 20:48:06,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS, domestic nextday llc  ,WH-WEST-02,5,408.7,0.15,Overnight,3,,,Pending,83,250,Europe
+ORD-0030759,2025-12-12 18:44:09,SKU-APPA-0018,Perform Fall 0018,Apparel,fasttrack freight corp,WH-SOUTH-03,9,478.85,0.25,Air Freight,12,,,In Transit,710,971,APAC
+ORD-0016911,2026-09-09 06:36:41,SKU-ELEC-0001,Purpose Brother 0001,ELECTRONICS,Apex Logistics Hub,WH-SOUTH-03,2,77.73,0.1,Air Freight,7,7.0,2026-09-16 06:36:41,Delivered,240,201,Europe
+ORD-0095388,2026-02-26 18:52:30,SKU-SPOR-0044,Top Early 0044,Sports & Outdoors,andes supply chain sa,WH-CENTRAL-01,3,477.86,0.25,Sea Freight,16,10.0,2026-03-08 18:52:30,Delivered,429,1136,Europe
+ORD-0018374,2026-01-17 17:38:40,SKU-ELEC-0008,Begin Performance 0008,  Electronics ,  FastTrack Freight Corp ,WH-SOUTH-03,2,301.66,0.1,Air Freight,12,,,In Transit,268,518,Middle East
+ORD-0015970,2026-09-20 15:20:46,SKU-APPA-0013,Agreement Option 0013, apparel  ,EuroDirect Distribution,WH-WEST-02,9,371.69,0.1,Road Freight,9,,,Cancelled,431,1063,Europe
+ORD-0012187,2026-01-17 17:47:28,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen,Andes Supply Chain SA,WH-SOUTH-03,18,453.09,0.15,Sea Freight,16,15.0,2026-02-01 17:47:28,Delivered,452,1295,LATAM
+ORD-0003183,2025-11-08 20:27:18,SKU-ELEC-0004,Dog Chair 0004,Electronics,fasttrack freight corp,WH-CENTRAL-01,5,418.9,0.05,Air Freight,12,4.0,2025-11-12 20:27:18,Delivered,382,513,Middle East
+ORD-0076891,2026-07-31 15:13:20,SKU-SPOR-0046,Husband Fall 0046,sports & outdoors, shenzhen global tech ltd  ,WH-CENTRAL-01,5,247.58,0.15,Sea Freight,18,,,Cancelled,135,910,Europe
+ORD-0099239,2025-12-20 21:00:37,SKU-SPOR-0048,They His 0048,  Sports & Outdoors ,apex logistics hub,WH-WEST-02,7,278.82,0.1,Air Freight,7,8.0,2025-12-28 21:00:37,Delivered,366,994,North America
+ORD-0027219,2026-04-22 03:40:53,SKU-HOME-0029,Guy Pm 0029,home & kitchen,NORDIC FULFILLMENT AB,WH-CENTRAL-01,4,89.7,0.1,Standard Express,10,4.0,2026-04-26 03:40:53,Delivered,385,694,Europe
+ORD-0020377,2026-09-02 21:07:02,SKU-APPA-0012,Mouth Play 0012,APPAREL,Apex Logistics Hub,WH-EAST-01,6,228.61,0.2,Air Freight,7,,,In Transit,361,402,
+ORD-0080661,2026-01-13 14:24:41,SKU-HOME-0022,Save Knowledge 0022,home & kitchen,APEX LOGISTICS HUB,WH-WEST-02,22,171.53,0.0,Air Freight,7,7.0,2026-01-20 14:24:41,Delivered,1135,1598,APAC
+ORD-0009102,2025-12-05 16:28:19,SKU-ELEC-0001,Purpose Brother 0001,ELECTRONICS,Apex Logistics Hub,WH-CENTRAL-01,5,77.73,0.3,Air Freight,7,,,In Transit,240,201,North America
+ORD-0010539,2026-05-22 21:03:13,SKU-SPOR-0042,Drive Spring 0042,Sports & Outdoors,apex logistics hub,WH-WEST-02,2,112.43,0.3,Air Freight,7,6.0,2026-05-28 21:03:13,Delivered,191,680,LATAM
+ORD-0015698,2026-03-10 04:21:28,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-CENTRAL-01,6,460.0,0.1,Standard Express,10,,,In Transit,486,688,LATAM
+ORD-0079394,2025-11-21 22:17:12,SKU-HOME-0029,Guy Pm 0029, home & kitchen  ,Nordic Fulfillment AB,WH-SOUTH-03,3,89.7,0.05,Standard Express,10,13.0,2025-12-04 22:17:12,Delivered,385,694,Middle East
+ORD-0086697,2025-11-04 07:31:32,SKU-BEAU-0033,Capital Win 0033,  Beauty & Health ,PACIFIC COASTAL CARGO,WH-CENTRAL-01,12,307.54,0.25,Sea Freight,21,,,In Transit,452,770,APAC
+ORD-0004194,2026-03-03 22:24:11,SKU-HOME-0025,Source Great 0025,Home & Kitchen,eurodirect distribution,WH-CENTRAL-01,10,368.97,0.2,Road Freight,9,,,In Transit,899,783,Middle East
+ORD-0078369,2026-04-20 00:22:26,SKU-ELEC-0009,Knowledge Almost 0009,electronics,Domestic NextDay LLC,WH-EAST-01,12,321.64,0.15,Overnight,3,4.0,2026-04-24 00:22:26,Returned,402,751,LATAM
+ORD-0048032,2025-11-07 07:50:01,SKU-APPA-0013,Agreement Option 0013,Apparel,EURODIRECT DISTRIBUTION,WH-SOUTH-03,9,371.69,0.1,Road Freight,9,,,Pending,431,1063,APAC
+ORD-0010065,2026-09-29 19:56:04,SKU-HOME-0023,Grow Fall 0023,Home & Kitchen, eurodirect distribution  ,WH-WEST-02,8,350.08,0.0,Road Freight,9,9.0,2026-10-08 19:56:04,Delivered,282,528,Europe
+ORD-0001571,2026-06-08 07:05:38,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS,APEX LOGISTICS HUB,WH-SOUTH-03,1,19.4,0.15,Air Freight,7,,,Pending,262,343,Middle East
+ORD-0004644,2026-08-13 20:36:26,SKU-ELEC-0001,Purpose Brother 0001,Electronics,  Apex Logistics Hub ,WH-WEST-02,5,77.73,0.05,Air Freight,7,8.0,2026-08-21 20:36:26,Delivered,240,201,North America
+ORD-0097479,2026-03-31 00:20:25,SKU-ELEC-0005,Since Blue 0005,Electronics,nordic fulfillment ab,WH-CENTRAL-01,13,460.0,0.05,Standard Express,10,8.0,2026-04-08 00:20:25,Delivered,486,688,North America
+ORD-0088013,2026-04-22 17:18:02,SKU-APPA-0016,Offer Kind 0016,APPAREL,pacific coastal cargo,WH-SOUTH-03,-3,227.01,0.25,Sea Freight,21,36.0,2026-05-28 17:18:02,Returned,610,1655,North America
+ORD-0088248,2026-04-25 04:35:18,SKU-SPOR-0050,Hear Determine 0050, sports & outdoors  , eurodirect distribution  ,WH-CENTRAL-01,11,136.67,0.15,Road Freight,9,8.0,2026-05-03 04:35:18,Delivered,513,512,Middle East
+ORD-0006092,2026-09-14 18:12:50,SKU-ELEC-0005,Since Blue 0005, electronics  ,NORDIC FULFILLMENT AB,WH-SOUTH-03,9,460.0,0.0,Standard Express,10,7.0,2026-09-21 18:12:50,Delivered,486,688,APAC
+ORD-0048588,2025-12-25 01:19:34,SKU-BEAU-0040,Sea Available 0040,beauty & health,  Nordic Fulfillment AB ,WH-WEST-02,5,47.74,,Standard Express,10,7.0,2026-01-01 01:19:34,Returned,445,1030,APAC
+ORD-0026318,2026-01-14 07:49:42,SKU-HOME-0022,Save Knowledge 0022,home & kitchen,Apex Logistics Hub,WH-CENTRAL-01,15,171.53,0.2,Air Freight,7,25.0,2026-02-08 07:49:42,Delivered,1135,1598,APAC
+ORD-0048210,2026-08-20 21:41:37,SKU-APPA-0013,Agreement Option 0013,  Apparel ,EuroDirect Distribution,WH-EAST-01,12,371.69,0.05,Road Freight,9,,,In Transit,431,1063,Middle East
+ORD-0035620,2025-11-22 06:54:08,SKU-HOME-0030,Everything Surface 0030,home & kitchen,FastTrack Freight Corp,WH-SOUTH-03,5,335.01,0.3,Air Freight,12,17.0,2025-12-09 06:54:08,Delivered,687,790,North America
+ORD-0027160,2026-05-24 21:07:11,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors,SHENZHEN GLOBAL TECH LTD,WH-WEST-02,5,256.9,0.1,Sea Freight,18,11.0,2026-06-04 21:07:11,Delivered,213,422,Middle East
+ORD-0080028,2026-07-24 00:40:02,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-CENTRAL-01,6,460.0,0.05,Standard Express,10,15.0,2026-08-08 00:40:02,Delivered,486,688,North America
+ORD-0076166,2025-10-31 04:13:51,SKU-ELEC-0009,Knowledge Almost 0009,electronics,domestic nextday llc,WH-CENTRAL-01,10,321.64,,Overnight,3,3.0,2025-11-03 04:13:51,Delivered,402,751,Europe
+ORD-0071268,2026-02-21 03:32:53,SKU-APPA-0013,Agreement Option 0013,apparel,EuroDirect Distribution,WH-WEST-02,13,371.69,0.2,Road Freight,9,28.0,2026-03-21 03:32:53,Delivered,431,1063,North America
+ORD-0024930,2026-03-25 11:14:28,SKU-HOME-0029,Guy Pm 0029,HOME & KITCHEN,NORDIC FULFILLMENT AB,WH-SOUTH-03,6,89.7,,Standard Express,10,,,Cancelled,385,694,Europe
+ORD-0055822,2026-06-12 16:36:14,SKU-APPA-0012,Mouth Play 0012,apparel,apex logistics hub,WH-SOUTH-03,5,228.61,0.0,Air Freight,7,16.0,2026-06-28 16:36:14,Returned,361,402,LATAM
+ORD-0091169,2026-01-05 11:01:02,SKU-ELEC-0008,Begin Performance 0008,Electronics,  FastTrack Freight Corp ,WH-EAST-01,4,301.66,0.1,Air Freight,12,,,In Transit,268,518,Middle East
+ORD-0065946,2026-06-03 19:42:47,SKU-APPA-0017,Discussion List 0017,apparel,eurodirect distribution,WH-CENTRAL-01,5,135.33,0.25,Road Freight,9,6.0,2026-06-09 19:42:47,Delivered,174,509,
+ORD-0058753,2026-08-31 20:38:07,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,apex logistics hub,WH-EAST-01,5,19.4,0.2,Air Freight,7,4.0,2026-09-04 20:38:07,Delivered,262,343,APAC
+ORD-0041481,2026-07-12 17:42:41,SKU-SPOR-0041,Answer Recently 0041,  Sports & Outdoors ,apex logistics hub,WH-EAST-01,1,19.4,0.05,Air Freight,7,,,Pending,262,343,North America
+ORD-0007985,2026-02-08 01:58:42,SKU-ELEC-0009,Knowledge Almost 0009, electronics  ,domestic nextday llc,WH-SOUTH-03,9,321.64,0.2,Overnight,3,3.0,2026-02-11 01:58:42,Delivered,402,751,LATAM
+ORD-0030047,2026-09-22 01:50:27,SKU-HOME-0025,Source Great 0025,HOME & KITCHEN,EuroDirect Distribution,WH-EAST-01,12,368.97,,Road Freight,9,9.0,2026-10-01 01:50:27,Delivered,899,783,Middle East
+ORD-0009754,2025-11-21 23:54:24,SKU-HOME-0023,Grow Fall 0023,  Home & Kitchen ,EuroDirect Distribution,WH-SOUTH-03,11,350.08,0.2,Road Freight,9,9.0,2025-11-30 23:54:24,Delivered,282,528,LATAM
+ORD-0090980,2026-08-14 08:24:51,SKU-ELEC-0003,Face Election 0003,electronics,  Pacific Coastal Cargo ,WH-WEST-02,3,105.46,0.05,Sea Freight,21,,,In Transit,421,347,North America
+ORD-0009556,2026-02-13 02:59:53,SKU-BEAU-0036,Themselves Production 0036,BEAUTY & HEALTH,ANDES SUPPLY CHAIN SA,WH-WEST-02,-1,101.52,0.2,Sea Freight,16,20.0,2026-03-05 02:59:53,Returned,646,902,
+ORD-0098409,2026-07-12 03:46:27,SKU-APPA-0019,Table True 0019,Apparel,andes supply chain sa,WH-EAST-01,4,83.95,0.15,Sea Freight,16,16.0,2026-07-28 03:46:27,Delivered,353,530,North America
+ORD-0001349,2026-01-06 18:34:17,SKU-BEAU-0034,Human Bar 0034,beauty & health,PACIFIC COASTAL CARGO,WH-SOUTH-03,3,45.63,0.2,Sea Freight,21,,,In Transit,383,489,North America
+ORD-0036394,2026-01-03 05:11:10,SKU-APPA-0017,Discussion List 0017,APPAREL,eurodirect distribution,WH-WEST-02,2,135.33,0.0,Road Freight,9,,,Pending,174,509,Middle East
+ORD-0035053,2026-01-24 09:39:22,SKU-SPOR-0043,Figure Base 0043,Sports & Outdoors,  FastTrack Freight Corp ,WH-CENTRAL-01,1,195.02,0.1,Air Freight,12,12.0,2026-02-05 09:39:22,Delivered,90,165,Middle East
+ORD-0001575,2026-06-12 03:11:06,SKU-HOME-0026,Blue Best 0026,  Home & Kitchen ,shenzhen global tech ltd,WH-WEST-02,6,182.19,,Sea Freight,18,,,In Transit,521,513,LATAM
+ORD-0026636,2026-02-06 05:17:11,SKU-APPA-0014,Decide Sense 0014,APPAREL,Shenzhen Global Tech Ltd,WH-WEST-02,8,200.04,0.15,Sea Freight,18,12.0,2026-02-18 05:17:11,Delivered,644,861,APAC
+ORD-0064301,2026-03-21 02:43:24,SKU-BEAU-0035,Old Finally 0035,beauty & health,pacific coastal cargo,WH-EAST-01,8,74.36,0.1,Sea Freight,21,15.0,2026-04-05 02:43:24,Returned,610,535,North America
+ORD-0040920,2025-11-24 13:16:50,SKU-ELEC-0005,Since Blue 0005,  Electronics ,NORDIC FULFILLMENT AB,WH-WEST-02,11,460.0,0.15,Standard Express,10,,,Cancelled,486,688,Middle East
+ORD-0035637,2026-06-29 03:55:18,SKU-APPA-0014,Decide Sense 0014,APPAREL,SHENZHEN GLOBAL TECH LTD,WH-SOUTH-03,10,200.04,,Sea Freight,18,24.0,2026-07-23 03:55:18,Delivered,644,861,LATAM
+ORD-0094461,2025-11-22 23:09:32,SKU-BEAU-0034,Human Bar 0034,  Beauty & Health ,  Pacific Coastal Cargo ,WH-SOUTH-03,3,45.63,0.15,Sea Freight,21,,,Pending,383,489,North America
+ORD-0077482,2026-06-28 17:17:37,SKU-BEAU-0031,Animal Show 0031,beauty & health,eurodirect distribution,WH-CENTRAL-01,14,217.31,0.0,Road Freight,9,9.0,2026-07-07 17:17:37,Delivered,1149,1138,Middle East
+ORD-0019746,2026-04-24 15:16:18,SKU-SPOR-0047,Long Prove 0047,Sports & Outdoors,nordic fulfillment ab,WH-EAST-01,2,99.37,0.1,Standard Express,10,6.0,2026-04-30 15:16:18,Delivered,371,191,LATAM
+ORD-0090473,2026-08-30 05:46:12,SKU-SPOR-0044,Top Early 0044,Sports & Outdoors,  Andes Supply Chain SA ,WH-CENTRAL-01,10,477.86,0.25,Sea Freight,16,,,Cancelled,429,1136,North America
+ORD-0061166,2026-01-27 07:56:04,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS,apex logistics hub,WH-CENTRAL-01,4,19.4,0.0,Air Freight,7,5.0,2026-02-01 07:56:04,Delivered,262,343,LATAM
+ORD-0040741,2025-11-13 01:38:16,SKU-APPA-0015,Rate Science 0015,apparel,apex logistics hub,WH-EAST-01,4,348.12,0.05,Air Freight,7,6.0,2025-11-19 01:38:16,Delivered,676,672,LATAM
+ORD-0088694,2026-10-02 18:44:02,SKU-APPA-0014,Decide Sense 0014,  Apparel ,shenzhen global tech ltd,WH-EAST-01,8,200.04,0.15,Sea Freight,18,,,Cancelled,644,861,Europe
+ORD-0094053,2026-02-09 15:30:17,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,apex logistics hub,WH-SOUTH-03,3,19.4,0.1,Air Freight,7,8.0,2026-02-17 15:30:17,Returned,262,343,LATAM
+ORD-0033705,2025-12-14 00:22:37,SKU-HOME-0030,Everything Surface 0030,  Home & Kitchen ,FASTTRACK FREIGHT CORP,WH-SOUTH-03,8,335.01,0.0,Air Freight,12,13.0,2025-12-27 00:22:37,Delivered,687,790,LATAM
+ORD-0088972,2026-03-21 14:50:56,SKU-BEAU-0040,Sea Available 0040,Beauty & Health,Nordic Fulfillment AB,WH-EAST-01,5,47.74,0.1,Standard Express,10,,,Pending,445,1030,LATAM
+ORD-0014020,2026-09-05 04:21:06,SKU-HOME-0024,Clearly Dinner 0024,HOME & KITCHEN,  EuroDirect Distribution ,WH-WEST-02,11,62.25,0.2,Road Freight,9,,,Cancelled,1095,1209,LATAM
+ORD-0004051,2026-01-01 21:30:02,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen, andes supply chain sa  ,WH-CENTRAL-01,15,453.09,,Sea Freight,16,12.0,2026-01-13 21:30:02,Returned,452,1295,Europe
+ORD-0005439,2026-06-21 21:21:04,SKU-HOME-0021,Sure Collection 0021,HOME & KITCHEN,  Andes Supply Chain SA ,WH-SOUTH-03,10,453.09,0.0,Sea Freight,16,22.0,2026-07-13 21:21:04,Delivered,452,1295,North America
+ORD-0088826,2026-07-13 03:00:18,SKU-BEAU-0033,Capital Win 0033,Beauty & Health,pacific coastal cargo,WH-CENTRAL-01,14,307.54,0.05,Sea Freight,21,17.0,2026-07-30 03:00:18,Returned,452,770,LATAM
+ORD-0027959,2025-11-07 10:39:14,SKU-SPOR-0042,Drive Spring 0042, sports & outdoors  ,Apex Logistics Hub,WH-SOUTH-03,8,112.43,0.3,Air Freight,7,7.0,2025-11-14 10:39:14,Delivered,191,680,North America
+ORD-0085882,2025-12-15 05:35:11,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,andes supply chain sa,WH-SOUTH-03,6,39.84,,Sea Freight,16,19.0,2026-01-03 05:35:11,Delivered,154,366,LATAM
+ORD-0000574,2025-11-11 22:41:44,SKU-HOME-0030,Everything Surface 0030,home & kitchen,FastTrack Freight Corp,WH-WEST-02,9,335.01,0.1,Air Freight,12,6.0,2025-11-17 22:41:44,Delivered,687,790,LATAM
+ORD-0035207,2026-03-08 06:19:54,SKU-ELEC-0002,Ago Site 0002,electronics,Apex Logistics Hub,WH-EAST-01,17,26.43,0.1,Air Freight,7,7.0,2026-03-15 06:19:54,Delivered,242,1161,Europe
+ORD-0066960,2026-09-12 06:09:51,SKU-SPOR-0044,Top Early 0044,sports & outdoors, andes supply chain sa  ,WH-CENTRAL-01,11,477.86,0.2,Sea Freight,16,,,Pending,429,1136,LATAM
+ORD-0077358,2026-02-05 09:05:40,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,SHENZHEN GLOBAL TECH LTD,WH-WEST-02,3,256.9,0.05,Sea Freight,18,,,Cancelled,213,422,Europe
+ORD-0060845,2025-12-13 08:48:18,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS,andes supply chain sa,WH-WEST-02,4,39.84,0.3,Sea Freight,16,,,Cancelled,154,366,LATAM
+ORD-0025522,2025-11-10 19:37:48,SKU-HOME-0029,Guy Pm 0029,home & kitchen,NORDIC FULFILLMENT AB,WH-WEST-02,8,89.7,0.05,Standard Express,10,13.0,2025-11-23 19:37:48,Delivered,385,694,North America
+ORD-0098224,2025-11-07 23:56:28,SKU-HOME-0026,Blue Best 0026,  Home & Kitchen ,shenzhen global tech ltd,WH-EAST-01,9,182.19,0.05,Sea Freight,18,30.0,2025-12-07 23:56:28,Delivered,521,513,North America
+ORD-0052982,2026-01-31 00:22:44,SKU-APPA-0015,Rate Science 0015,APPAREL,APEX LOGISTICS HUB,WH-SOUTH-03,7,348.12,0.15,Air Freight,7,,,Pending,676,672,Europe
+ORD-0030636,2026-10-19 18:26:15,SKU-SPOR-0042,Drive Spring 0042,SPORTS & OUTDOORS,Apex Logistics Hub,WH-CENTRAL-01,6,112.43,0.1,Air Freight,7,6.0,2026-10-25 18:26:15,Delivered,191,680,Middle East
+ORD-0015611,2026-10-10 22:38:05,SKU-ELEC-0005,Since Blue 0005,electronics,nordic fulfillment ab,WH-EAST-01,10,460.0,0.05,Standard Express,10,,,In Transit,486,688,North America
+ORD-0056518,2026-10-06 09:24:57,SKU-HOME-0025,Source Great 0025,  Home & Kitchen ,EURODIRECT DISTRIBUTION,WH-WEST-02,12,368.97,0.3,Road Freight,9,,,Pending,899,783,Europe
+ORD-0024813,2026-08-23 12:48:14,SKU-HOME-0029,Guy Pm 0029,HOME & KITCHEN,Nordic Fulfillment AB,WH-CENTRAL-01,7,89.7,0.05,Standard Express,10,,,Cancelled,385,694,APAC
+ORD-0009802,2026-02-20 11:36:02,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-WEST-02,11,62.25,0.05,Road Freight,9,,,Pending,1095,1209,Europe
+ORD-0038529,2026-06-22 16:37:49,SKU-ELEC-0005,Since Blue 0005,  Electronics ,Nordic Fulfillment AB,WH-SOUTH-03,10,460.0,0.0,Standard Express,10,,,In Transit,486,688,Europe
+ORD-0001967,2026-02-14 12:36:40,SKU-BEAU-0040,Sea Available 0040,beauty & health,  Nordic Fulfillment AB ,WH-SOUTH-03,6,47.74,0.3,Standard Express,10,,,Pending,445,1030,LATAM
+ORD-0093378,2026-07-30 08:12:09,SKU-HOME-0025,Source Great 0025,HOME & KITCHEN,EuroDirect Distribution,WH-SOUTH-03,11,368.97,0.05,Road Freight,9,,,In Transit,899,783,LATAM
+ORD-0036515,2026-10-15 05:11:13,SKU-ELEC-0007,Wait Offer 0007,ELECTRONICS,EURODIRECT DISTRIBUTION,WH-EAST-01,3,467.43,0.2,Road Freight,9,14.0,2026-10-29 05:11:13,Returned,263,310,Middle East
+ORD-0035757,2026-03-29 17:52:57,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS, apex logistics hub  ,WH-CENTRAL-01,3,19.4,0.05,Air Freight,7,,,Cancelled,262,343,APAC
+ORD-0027796,2026-09-10 22:45:24,SKU-HOME-0029,Guy Pm 0029,home & kitchen, nordic fulfillment ab  ,WH-WEST-02,4,89.7,0.0,Standard Express,10,,,Cancelled,385,694,North America
+ORD-0095588,2026-08-11 23:58:13,SKU-APPA-0016,Offer Kind 0016,Apparel,pacific coastal cargo,WH-SOUTH-03,15,227.01,0.05,Sea Freight,21,30.0,2026-09-10 23:58:13,Returned,610,1655,Middle East
+ORD-0031168,2026-07-02 01:32:32,SKU-APPA-0018,Perform Fall 0018,  Apparel ,fasttrack freight corp,WH-WEST-02,4,478.85,0.2,Air Freight,12,,,In Transit,710,971,LATAM
+ORD-0056184,2026-02-01 01:25:33,SKU-APPA-0013,Agreement Option 0013,apparel,EURODIRECT DISTRIBUTION,WH-EAST-01,16,371.69,0.2,Road Freight,9,13.0,2026-02-14 01:25:33,Delivered,431,1063,Europe
+ORD-0043205,2026-06-16 22:11:53,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,nordic fulfillment ab,WH-CENTRAL-01,9,460.0,,Standard Express,10,,,Pending,486,688,APAC
+ORD-0057696,2026-04-06 06:44:12,SKU-HOME-0025,Source Great 0025,HOME & KITCHEN, eurodirect distribution  ,WH-CENTRAL-01,13,368.97,0.3,Road Freight,9,,,Cancelled,899,783,Middle East
+ORD-0088114,2026-09-28 12:45:04,SKU-ELEC-0008,Begin Performance 0008,  Electronics ,FastTrack Freight Corp,WH-SOUTH-03,3,301.66,0.25,Air Freight,12,16.0,2026-10-14 12:45:04,Returned,268,518,APAC
+ORD-0043508,2026-10-12 17:08:19,SKU-HOME-0030,Everything Surface 0030,home & kitchen,fasttrack freight corp,WH-WEST-02,6,335.01,0.25,Air Freight,12,,,Cancelled,687,790,LATAM
+ORD-0002437,2026-01-07 00:33:13,SKU-ELEC-0004,Dog Chair 0004,Electronics,  FastTrack Freight Corp ,WH-CENTRAL-01,6,418.9,0.2,Air Freight,12,6.0,2026-01-13 00:33:13,Delivered,382,513,LATAM
+ORD-0090294,2026-09-10 06:21:57,SKU-BEAU-0039,Participant Dark 0039,beauty & health,Apex Logistics Hub,WH-EAST-01,5,78.04,0.0,Air Freight,7,6.0,2026-09-16 06:21:57,Delivered,210,715,APAC
+ORD-0012601,2026-08-27 02:49:58,SKU-HOME-0029,Guy Pm 0029,home & kitchen,  Nordic Fulfillment AB ,WH-SOUTH-03,4,89.7,0.05,Standard Express,10,,,Pending,385,694,Middle East
+ORD-0087996,2026-09-22 21:31:03,SKU-BEAU-0033,Capital Win 0033,beauty & health, pacific coastal cargo  ,WH-WEST-02,11,307.54,0.25,Sea Freight,21,,,Pending,452,770,Middle East
+ORD-0067792,2026-05-08 19:40:19,SKU-BEAU-0033,Capital Win 0033,Beauty & Health,  Pacific Coastal Cargo ,WH-EAST-01,16,307.54,0.15,Sea Freight,21,30.0,2026-06-07 19:40:19,Delivered,452,770,North America
+ORD-0049047,2026-03-30 08:51:15,SKU-ELEC-0006,Require Sit 0006, electronics  ,  Domestic NextDay LLC ,WH-SOUTH-03,1,408.7,0.05,Overnight,3,,,In Transit,83,250,North America
+ORD-0068768,2026-04-26 05:21:20,SKU-SPOR-0044,Top Early 0044,  Sports & Outdoors ,ANDES SUPPLY CHAIN SA,WH-SOUTH-03,6,477.86,0.1,Sea Freight,16,,,Pending,429,1136,North America
+ORD-0089139,2026-10-20 02:16:09,SKU-ELEC-0008,Begin Performance 0008,electronics,FastTrack Freight Corp,WH-SOUTH-03,3,301.66,,Air Freight,12,11.0,2026-10-31 02:16:09,Delivered,268,518,LATAM
+ORD-0053437,2026-04-12 14:22:26,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen,ANDES SUPPLY CHAIN SA,WH-SOUTH-03,8,453.09,0.2,Sea Freight,16,,,Pending,452,1295,Europe
+ORD-0092121,2026-02-02 06:09:06,SKU-BEAU-0034,Human Bar 0034,beauty & health,Pacific Coastal Cargo,WH-EAST-01,8,45.63,0.1,Sea Freight,21,,,Cancelled,383,489,Middle East
+ORD-0071450,2026-01-12 13:53:30,SKU-SPOR-0046,Husband Fall 0046, sports & outdoors  ,  Shenzhen Global Tech Ltd ,WH-EAST-01,7,247.58,0.05,Sea Freight,18,,,Cancelled,135,910,Europe
+ORD-0020413,2026-06-25 01:13:49,SKU-ELEC-0006,Require Sit 0006,  Electronics ,Domestic NextDay LLC,WH-CENTRAL-01,4,408.7,0.0,Overnight,3,1.0,2026-06-26 01:13:49,Returned,83,250,North America
+ORD-0051326,2026-03-02 20:21:42,SKU-ELEC-0001,Purpose Brother 0001,Electronics,Apex Logistics Hub,WH-CENTRAL-01,2,77.73,0.3,Air Freight,7,9.0,2026-03-11 20:21:42,Delivered,240,201,North America
+ORD-0068209,2026-10-12 18:44:57,SKU-BEAU-0038,Training High 0038,Beauty & Health,Shenzhen Global Tech Ltd,WH-WEST-02,4,386.78,0.15,Sea Freight,18,,,Cancelled,69,515,North America
+ORD-0037774,2026-09-24 05:41:08,SKU-APPA-0016,Offer Kind 0016,Apparel,Pacific Coastal Cargo,WH-SOUTH-03,9,227.01,0.05,Sea Freight,21,,,In Transit,610,1655,APAC
+ORD-0041316,2025-10-29 20:13:44,SKU-APPA-0011,Discover Early 0011,  Apparel ,Andes Supply Chain SA,WH-CENTRAL-01,12,325.81,0.2,Sea Freight,16,,,In Transit,254,795,APAC
+ORD-0000652,2026-02-26 20:17:20,SKU-ELEC-0002,Ago Site 0002,electronics,apex logistics hub,WH-CENTRAL-01,3,26.43,0.25,Air Freight,7,,,Cancelled,242,1161,Europe
+ORD-0015819,2026-07-31 22:57:23,SKU-APPA-0016,Offer Kind 0016,apparel,Pacific Coastal Cargo,WH-EAST-01,14,227.01,0.1,Sea Freight,21,21.0,2026-08-21 22:57:23,Delivered,610,1655,LATAM
+ORD-0079734,2026-07-06 22:29:42,SKU-BEAU-0033,Capital Win 0033,beauty & health,PACIFIC COASTAL CARGO,WH-WEST-02,6,307.54,0.25,Sea Freight,21,25.0,2026-07-31 22:29:42,Delivered,452,770,North America
+ORD-0030970,2026-08-28 08:40:12,SKU-ELEC-0006,Require Sit 0006,  Electronics ,DOMESTIC NEXTDAY LLC,WH-WEST-02,5,408.7,0.15,Overnight,3,4.0,2026-09-01 08:40:12,Returned,83,250,LATAM
+ORD-0039950,2026-03-03 08:05:27,SKU-ELEC-0001,Purpose Brother 0001,Electronics,APEX LOGISTICS HUB,WH-CENTRAL-01,2,77.73,0.25,Air Freight,7,7.0,2026-03-10 08:05:27,Returned,240,201,LATAM
+ORD-0006319,2026-08-28 00:53:43,SKU-SPOR-0046,Husband Fall 0046, sports & outdoors  , shenzhen global tech ltd  ,WH-EAST-01,3,247.58,0.25,Sea Freight,18,,,Cancelled,135,910,Middle East
+ORD-0015218,2026-02-27 11:59:26,SKU-ELEC-0004,Dog Chair 0004,Electronics,FastTrack Freight Corp,WH-CENTRAL-01,11,418.9,0.05,Air Freight,12,12.0,2026-03-11 11:59:26,Delivered,382,513,APAC
+ORD-0038426,2026-01-16 20:58:02,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS,domestic nextday llc,WH-CENTRAL-01,2,408.7,0.25,Overnight,3,2.0,2026-01-18 20:58:02,Delivered,83,250,Europe
+ORD-0000834,2025-12-26 05:29:16,SKU-ELEC-0006,Require Sit 0006,electronics,Domestic NextDay LLC,WH-EAST-01,2,408.7,0.2,Overnight,3,2.0,2025-12-28 05:29:16,Delivered,83,250,North America
+ORD-0002175,2026-09-30 09:10:37,SKU-APPA-0017,Discussion List 0017, apparel  ,eurodirect distribution,WH-CENTRAL-01,5,135.33,0.1,Road Freight,9,15.0,2026-10-15 09:10:37,Returned,174,509,Middle East
+ORD-0067494,2026-04-01 16:58:12,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,apex logistics hub,WH-CENTRAL-01,4,19.4,0.2,Air Freight,7,7.0,2026-04-08 16:58:12,Delivered,262,343,Middle East
+ORD-0097950,2026-10-13 18:05:55,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS, domestic nextday llc  ,WH-WEST-02,5,408.7,0.2,Overnight,3,,,Cancelled,83,250,Middle East
+ORD-0029890,2026-02-01 23:00:24,SKU-SPOR-0048,They His 0048,sports & outdoors,APEX LOGISTICS HUB,WH-SOUTH-03,8,278.82,0.15,Air Freight,7,,,In Transit,366,994,Middle East
+ORD-0047361,2026-05-21 06:27:45,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,Nordic Fulfillment AB,WH-WEST-02,6,460.0,0.3,Standard Express,10,,,Cancelled,486,688,APAC
+ORD-0084547,2026-03-11 17:27:54,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,APEX LOGISTICS HUB,WH-EAST-01,4,19.4,0.05,Air Freight,7,7.0,2026-03-18 17:27:54,Delivered,262,343,Middle East
+ORD-0023390,2025-11-11 06:22:03,SKU-BEAU-0039,Participant Dark 0039,beauty & health,APEX LOGISTICS HUB,WH-EAST-01,-4,78.04,0.15,Air Freight,7,10.0,2025-11-21 06:22:03,Returned,210,715,APAC
+ORD-0041830,2026-06-10 23:02:06,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,Pacific Coastal Cargo,WH-SOUTH-03,8,74.36,0.2,Sea Freight,21,50.0,2026-07-30 23:02:06,Delivered,610,535,Middle East
+ORD-0043056,2026-09-15 23:10:54,SKU-ELEC-0008,Begin Performance 0008,  Electronics ,fasttrack freight corp,WH-EAST-01,4,301.66,0.15,Air Freight,12,11.0,2026-09-26 23:10:54,Returned,268,518,LATAM
+ORD-0021440,2026-08-24 08:33:12,SKU-HOME-0030,Everything Surface 0030, home & kitchen  ,FASTTRACK FREIGHT CORP,WH-EAST-01,5,335.01,0.0,Air Freight,12,15.0,2026-09-08 08:33:12,Delivered,687,790,APAC
+ORD-0085774,2026-04-26 18:18:55,SKU-ELEC-0005,Since Blue 0005,Electronics,Nordic Fulfillment AB,WH-SOUTH-03,15,460.0,0.0,Standard Express,10,,,In Transit,486,688,APAC
+ORD-0013825,2026-02-10 03:56:32,SKU-BEAU-0040,Sea Available 0040,beauty & health,Nordic Fulfillment AB,WH-WEST-02,6,47.74,0.25,Standard Express,10,,,Cancelled,445,1030,Europe
+ORD-0053428,2026-04-08 08:24:25,SKU-ELEC-0004,Dog Chair 0004,  Electronics ,fasttrack freight corp,WH-CENTRAL-01,4,418.9,0.0,Air Freight,12,22.0,2026-04-30 08:24:25,Delivered,382,513,North America
+ORD-0034722,2025-12-19 12:27:08,SKU-ELEC-0006,Require Sit 0006,Electronics,DOMESTIC NEXTDAY LLC,WH-WEST-02,2,408.7,,Overnight,3,3.0,2025-12-22 12:27:08,Returned,83,250,APAC
+ORD-0043393,2026-09-04 12:22:01,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,Apex Logistics Hub,WH-SOUTH-03,6,19.4,0.0,Air Freight,7,,,In Transit,262,343,APAC
+ORD-0068598,2026-04-07 20:23:10,SKU-SPOR-0049,Commercial Hospital 0049,  Sports & Outdoors ,shenzhen global tech ltd,WH-EAST-01,5,256.9,0.0,Sea Freight,18,,,In Transit,213,422,North America
+ORD-0054860,2026-05-12 09:46:16,SKU-ELEC-0009,Knowledge Almost 0009,ELECTRONICS,Domestic NextDay LLC,WH-WEST-02,13,321.64,0.0,Overnight,3,5.0,2026-05-17 09:46:16,Returned,402,751,APAC
+ORD-0026722,2025-11-16 12:50:05,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS, apex logistics hub  ,WH-EAST-01,6,19.4,0.15,Air Freight,7,,,Cancelled,262,343,LATAM
+ORD-0090248,2026-09-18 07:09:18,SKU-APPA-0014,Decide Sense 0014,apparel,  Shenzhen Global Tech Ltd ,WH-SOUTH-03,8,200.04,0.15,Sea Freight,18,32.0,2026-10-20 07:09:18,Delivered,644,861,North America
+ORD-0063704,2026-03-28 21:57:46,SKU-ELEC-0005,Since Blue 0005,electronics,nordic fulfillment ab,WH-CENTRAL-01,12,460.0,0.05,Standard Express,10,,,Cancelled,486,688,LATAM
+ORD-0017816,2026-08-31 15:00:32,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen, andes supply chain sa  ,WH-CENTRAL-01,9,453.09,0.05,Sea Freight,16,,,Cancelled,452,1295,North America
+ORD-0085967,2025-12-06 19:19:32,SKU-SPOR-0049,Commercial Hospital 0049,  Sports & Outdoors ,Shenzhen Global Tech Ltd,WH-WEST-02,2,256.9,0.05,Sea Freight,18,20.0,2025-12-26 19:19:32,Delivered,213,422,Europe
+ORD-0029800,2025-12-30 08:45:36,SKU-BEAU-0035,Old Finally 0035, beauty & health  ,  Pacific Coastal Cargo ,WH-CENTRAL-01,8,74.36,0.25,Sea Freight,21,16.0,2026-01-15 08:45:36,Returned,610,535,APAC
+ORD-0018653,2025-11-11 04:00:50,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS,Apex Logistics Hub,WH-WEST-02,6,19.4,0.15,Air Freight,7,5.0,2025-11-16 04:00:50,Delivered,262,343,APAC
+ORD-0076800,2025-12-17 11:19:48,SKU-BEAU-0038,Training High 0038,Beauty & Health,  Shenzhen Global Tech Ltd ,WH-SOUTH-03,5,386.78,0.3,Sea Freight,18,,,In Transit,69,515,North America
+ORD-0071771,2026-05-25 08:19:25,SKU-HOME-0027,Husband Bill 0027, home & kitchen  ,eurodirect distribution,WH-CENTRAL-01,10,455.2,0.1,Road Freight,9,,,Pending,111,950,APAC
+ORD-0075850,2026-06-03 15:50:05,SKU-APPA-0013,Agreement Option 0013,apparel,  EuroDirect Distribution ,WH-CENTRAL-01,14,371.69,0.25,Road Freight,9,6.0,2026-06-09 15:50:05,Returned,431,1063,North America
+ORD-0060830,2026-08-25 14:01:19,SKU-APPA-0016,Offer Kind 0016,Apparel,PACIFIC COASTAL CARGO,WH-EAST-01,8,227.01,0.0,Sea Freight,21,29.0,2026-09-23 14:01:19,Delivered,610,1655,LATAM
+ORD-0004892,2026-04-08 00:15:00,SKU-SPOR-0044,Top Early 0044,sports & outdoors,Andes Supply Chain SA,WH-WEST-02,7,477.86,0.25,Sea Freight,16,,,Cancelled,429,1136,Middle East
+ORD-0068078,2026-07-09 07:44:02,SKU-SPOR-0042,Drive Spring 0042,  Sports & Outdoors ,APEX LOGISTICS HUB,WH-SOUTH-03,5,112.43,0.1,Air Freight,7,6.0,2026-07-15 07:44:02,Delivered,191,680,Europe
+ORD-0080656,2026-07-19 08:40:15,SKU-SPOR-0046,Husband Fall 0046,Sports & Outdoors, shenzhen global tech ltd  ,WH-EAST-01,14,247.58,0.05,Sea Freight,18,10.0,2026-07-29 08:40:15,Delivered,135,910,Europe
+ORD-0064694,2026-08-14 08:15:01,SKU-SPOR-0044,Top Early 0044,sports & outdoors, andes supply chain sa  ,WH-WEST-02,-1,477.86,0.3,Sea Freight,16,14.0,2026-08-28 08:15:01,Returned,429,1136,Middle East
+ORD-0070944,2026-02-06 17:46:52,SKU-APPA-0019,Table True 0019,APPAREL,andes supply chain sa,WH-EAST-01,3,83.95,0.3,Sea Freight,16,,,In Transit,353,530,Europe
+ORD-0094047,2026-09-27 13:51:55,SKU-BEAU-0034,Human Bar 0034,beauty & health,PACIFIC COASTAL CARGO,WH-EAST-01,3,45.63,0.3,Sea Freight,21,,,In Transit,383,489,Europe
+ORD-0026261,2026-02-10 19:02:13,SKU-ELEC-0008,Begin Performance 0008,electronics,  FastTrack Freight Corp ,WH-WEST-02,3,301.66,0.2,Air Freight,12,,,Cancelled,268,518,LATAM
+ORD-0029269,2026-09-14 17:57:47,SKU-BEAU-0037,Present Value 0037,BEAUTY & HEALTH,  Apex Logistics Hub ,WH-EAST-01,9,416.34,0.2,Air Freight,7,7.0,2026-09-21 17:57:47,Delivered,501,956,North America
+ORD-0019967,2025-12-29 04:28:29,SKU-HOME-0023,Grow Fall 0023,Home & Kitchen,eurodirect distribution,WH-EAST-01,8,350.08,0.0,Road Freight,9,6.0,2026-01-04 04:28:29,Delivered,282,528,North America
+ORD-0045795,2026-06-04 18:22:32,SKU-HOME-0021,Sure Collection 0021,home & kitchen,andes supply chain sa,WH-SOUTH-03,10,453.09,0.1,Sea Freight,16,,,Cancelled,452,1295,APAC
+ORD-0058700,2025-12-08 12:31:10,SKU-BEAU-0034,Human Bar 0034,BEAUTY & HEALTH,Pacific Coastal Cargo,WH-CENTRAL-01,7,45.63,,Sea Freight,21,,,Cancelled,383,489,North America
+ORD-0002531,2026-03-26 17:41:29,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,Pacific Coastal Cargo,WH-CENTRAL-01,2,45.63,0.05,Sea Freight,21,,,In Transit,383,489,LATAM
+ORD-0089122,2026-07-10 19:32:25,SKU-HOME-0030,Everything Surface 0030,  Home & Kitchen , fasttrack freight corp  ,WH-EAST-01,13,335.01,0.0,Air Freight,12,14.0,2026-07-24 19:32:25,Returned,687,790,Middle East
+ORD-0022089,2026-08-04 23:18:01,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-WEST-02,9,460.0,0.25,Standard Express,10,,,In Transit,486,688,APAC
+ORD-0075259,2026-06-15 13:47:14,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,apex logistics hub,WH-CENTRAL-01,4,19.4,0.2,Air Freight,7,,,Pending,262,343,Europe
+ORD-0001551,2026-09-25 03:57:14,SKU-HOME-0027,Husband Bill 0027,  Home & Kitchen ,EURODIRECT DISTRIBUTION,WH-EAST-01,7,455.2,0.0,Road Freight,9,6.0,2026-10-01 03:57:14,Returned,111,950,LATAM
+ORD-0096347,2025-10-23 22:14:59,SKU-HOME-0023,Grow Fall 0023,home & kitchen,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,13,350.08,0.3,Road Freight,9,8.0,2025-10-31 22:14:59,Returned,282,528,Middle East
+ORD-0000884,2026-07-21 06:15:59,SKU-SPOR-0045,Trial Blood 0045,sports & outdoors,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,7,39.84,0.3,Sea Freight,16,,,Pending,154,366,Europe
+ORD-0028495,2026-09-20 04:38:02,SKU-BEAU-0040,Sea Available 0040,  Beauty & Health ,NORDIC FULFILLMENT AB,WH-CENTRAL-01,7,47.74,0.1,Standard Express,10,11.0,2026-10-01 04:38:02,Delivered,445,1030,APAC
+ORD-0042882,2026-06-24 09:23:58,SKU-HOME-0021,Sure Collection 0021,  Home & Kitchen ,Andes Supply Chain SA,WH-WEST-02,10,453.09,0.0,Sea Freight,16,,,Pending,452,1295,LATAM
+ORD-0047986,2026-03-18 14:52:05,SKU-APPA-0017,Discussion List 0017,Apparel,EuroDirect Distribution,WH-EAST-01,4,135.33,0.05,Road Freight,9,6.0,2026-03-24 14:52:05,Delivered,174,509,APAC
+ORD-0027773,2026-09-30 09:35:36,SKU-APPA-0014,Decide Sense 0014,Apparel,SHENZHEN GLOBAL TECH LTD,WH-EAST-01,6,200.04,0.15,Sea Freight,18,19.0,2026-10-19 09:35:36,Delivered,644,861,North America
+ORD-0050895,2026-08-31 16:01:16,SKU-HOME-0029,Guy Pm 0029,HOME & KITCHEN,nordic fulfillment ab,WH-EAST-01,6,89.7,0.25,Standard Express,10,8.0,2026-09-08 16:01:16,Returned,385,694,LATAM
+ORD-0051707,2026-08-07 08:39:37,SKU-HOME-0021,Sure Collection 0021,home & kitchen,Andes Supply Chain SA,WH-CENTRAL-01,15,453.09,0.25,Sea Freight,16,12.0,2026-08-19 08:39:37,Returned,452,1295,North America
+ORD-0035507,2026-06-05 15:39:42,SKU-ELEC-0001,Purpose Brother 0001,ELECTRONICS,Apex Logistics Hub,WH-CENTRAL-01,2,77.73,0.3,Air Freight,7,7.0,2026-06-12 15:39:42,Delivered,240,201,LATAM
+ORD-0033919,2026-07-25 00:14:58,SKU-HOME-0021,Sure Collection 0021,home & kitchen,Andes Supply Chain SA,WH-SOUTH-03,15,453.09,0.3,Sea Freight,16,12.0,2026-08-06 00:14:58,Delivered,452,1295,North America
+ORD-0040587,2026-01-24 10:44:08,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,eurodirect distribution,WH-EAST-01,14,62.25,0.1,Road Freight,9,14.0,2026-02-07 10:44:08,Returned,1095,1209,North America
+ORD-0093203,2026-10-10 23:31:59,SKU-APPA-0013,Agreement Option 0013,Apparel,EuroDirect Distribution,WH-SOUTH-03,13,371.69,0.1,Road Freight,9,12.0,2026-10-22 23:31:59,Delivered,431,1063,Europe
+ORD-0096448,2025-10-22 03:35:22,SKU-SPOR-0042,Drive Spring 0042,SPORTS & OUTDOORS,apex logistics hub,WH-WEST-02,8,112.43,0.3,Air Freight,7,,,Pending,191,680,Middle East
+ORD-0007145,2026-03-04 00:53:56,SKU-ELEC-0003,Face Election 0003,ELECTRONICS,PACIFIC COASTAL CARGO,WH-WEST-02,4,105.46,0.1,Sea Freight,21,24.0,2026-03-28 00:53:56,Delivered,421,347,North America
+ORD-0099649,2025-11-25 20:08:54,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors,  Shenzhen Global Tech Ltd ,WH-SOUTH-03,5,256.9,0.0,Sea Freight,18,,,Cancelled,213,422,Europe
+ORD-0039208,2025-12-02 22:20:40,SKU-HOME-0027,Husband Bill 0027,Home & Kitchen,  EuroDirect Distribution ,WH-SOUTH-03,6,455.2,0.2,Road Freight,9,11.0,2025-12-13 22:20:40,Delivered,111,950,North America
+ORD-0075972,2026-05-17 19:03:59,SKU-ELEC-0002,Ago Site 0002,electronics,apex logistics hub,WH-EAST-01,12,26.43,0.1,Air Freight,7,9.0,2026-05-26 19:03:59,Delivered,242,1161,LATAM
+ORD-0029384,2026-02-22 18:14:38,SKU-APPA-0013,Agreement Option 0013,Apparel,EURODIRECT DISTRIBUTION,WH-EAST-01,11,371.69,0.1,Road Freight,9,,,Pending,431,1063,North America
+ORD-0016277,2025-10-27 01:05:20,SKU-ELEC-0001,Purpose Brother 0001,ELECTRONICS,apex logistics hub,WH-SOUTH-03,5,77.73,0.2,Air Freight,7,,,In Transit,240,201,Europe
+ORD-0053246,2026-03-08 00:52:37,SKU-ELEC-0009,Knowledge Almost 0009,ELECTRONICS,Domestic NextDay LLC,WH-SOUTH-03,9,321.64,0.25,Overnight,3,5.0,2026-03-13 00:52:37,Returned,402,751,LATAM
+ORD-0044287,2026-05-17 09:45:15,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,andes supply chain sa,WH-CENTRAL-01,5,39.84,0.3,Sea Freight,16,,,Pending,154,366,Middle East
+ORD-0043609,2026-06-15 14:41:00,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-SOUTH-03,9,460.0,0.25,Standard Express,10,,,In Transit,486,688,
+ORD-0054965,2026-10-18 08:58:28,SKU-SPOR-0047,Long Prove 0047,Sports & Outdoors,nordic fulfillment ab,WH-SOUTH-03,4,99.37,0.3,Standard Express,10,5.0,2026-10-23 08:58:28,Returned,371,191,Middle East
+ORD-0010406,2026-06-30 00:43:07,SKU-BEAU-0039,Participant Dark 0039,beauty & health,APEX LOGISTICS HUB,WH-WEST-02,12,78.04,0.3,Air Freight,7,5.0,2026-07-05 00:43:07,Returned,210,715,LATAM
+ORD-0013191,2026-09-22 08:05:05,SKU-SPOR-0042,Drive Spring 0042,SPORTS & OUTDOORS,apex logistics hub,WH-WEST-02,-4,112.43,,Air Freight,7,7.0,2026-09-29 08:05:05,Returned,191,680,Middle East
+ORD-0082274,2026-04-03 04:52:14,SKU-ELEC-0006,Require Sit 0006,ELECTRONICS,domestic nextday llc,WH-CENTRAL-01,7,408.7,0.25,Overnight,3,3.0,2026-04-06 04:52:14,Returned,83,250,Europe
+ORD-0025141,2026-06-17 13:18:51,SKU-BEAU-0035,Old Finally 0035,beauty & health,PACIFIC COASTAL CARGO,WH-EAST-01,10,74.36,0.1,Sea Freight,21,17.0,2026-07-04 13:18:51,Returned,610,535,North America
+ORD-0081801,2026-08-03 04:51:48,SKU-ELEC-0005,Since Blue 0005,  Electronics ,nordic fulfillment ab,WH-SOUTH-03,12,460.0,0.2,Standard Express,10,5.0,2026-08-08 04:51:48,Delivered,486,688,Middle East
+ORD-0025744,2026-06-14 17:45:48,SKU-HOME-0029,Guy Pm 0029,home & kitchen,Nordic Fulfillment AB,WH-EAST-01,2,89.7,0.25,Standard Express,10,12.0,2026-06-26 17:45:48,Delivered,385,694,Europe
+ORD-0059565,2026-07-18 13:12:04,SKU-ELEC-0008,Begin Performance 0008,ELECTRONICS,fasttrack freight corp,WH-WEST-02,5,301.66,0.05,Air Freight,12,5.0,2026-07-23 13:12:04,Returned,268,518,LATAM
+ORD-0024627,2025-12-31 01:09:26,SKU-BEAU-0034,Human Bar 0034,BEAUTY & HEALTH,Pacific Coastal Cargo,WH-CENTRAL-01,8,45.63,0.1,Sea Freight,21,,,In Transit,383,489,Europe
+ORD-0095582,2026-09-17 04:47:08,SKU-ELEC-0005,Since Blue 0005,electronics,NORDIC FULFILLMENT AB,WH-EAST-01,12,460.0,0.05,Standard Express,10,13.0,2026-09-30 04:47:08,Delivered,486,688,APAC
+ORD-0050024,2026-04-10 12:09:10,SKU-ELEC-0009,Knowledge Almost 0009,  Electronics ,  Domestic NextDay LLC ,WH-WEST-02,9,321.64,0.3,Overnight,3,3.0,2026-04-13 12:09:10,Delivered,402,751,Middle East
+ORD-0052549,2026-07-29 19:08:52,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EuroDirect Distribution,WH-EAST-01,14,62.25,0.3,Road Freight,9,,,Cancelled,1095,1209,Middle East
+ORD-0086341,2026-02-23 10:37:15,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-WEST-02,11,62.25,0.2,Road Freight,9,8.0,2026-03-03 10:37:15,Delivered,1095,1209,LATAM
+ORD-0071413,2026-08-30 20:14:50,SKU-ELEC-0005,Since Blue 0005,  Electronics ,NORDIC FULFILLMENT AB,WH-SOUTH-03,11,460.0,0.2,Standard Express,10,7.0,2026-09-06 20:14:50,Delivered,486,688,APAC
+ORD-0086542,2025-12-05 15:01:26,SKU-ELEC-0001,Purpose Brother 0001,electronics,  Apex Logistics Hub ,WH-EAST-01,7,77.73,0.3,Air Freight,7,,,In Transit,240,201,North America
+ORD-0088700,2026-02-26 14:10:54,SKU-BEAU-0040,Sea Available 0040,beauty & health,Nordic Fulfillment AB,WH-SOUTH-03,5,47.74,0.2,Standard Express,10,17.0,2026-03-15 14:10:54,Delivered,445,1030,Middle East
+ORD-0054544,2026-06-23 13:59:45,SKU-APPA-0013,Agreement Option 0013,Apparel,EuroDirect Distribution,WH-EAST-01,16,371.69,0.25,Road Freight,9,5.0,2026-06-28 13:59:45,Returned,431,1063,
+ORD-0042665,2026-04-09 19:57:33,SKU-BEAU-0037,Present Value 0037,  Beauty & Health ,Apex Logistics Hub,WH-CENTRAL-01,11,416.34,0.05,Air Freight,7,7.0,2026-04-16 19:57:33,Returned,501,956,North America
+ORD-0092183,2026-01-31 13:28:41,SKU-HOME-0024,Clearly Dinner 0024,home & kitchen,eurodirect distribution,WH-CENTRAL-01,10,62.25,0.2,Road Freight,9,7.0,2026-02-07 13:28:41,Delivered,1095,1209,LATAM
+ORD-0054997,2026-05-08 17:58:44,SKU-APPA-0014,Decide Sense 0014,Apparel,Shenzhen Global Tech Ltd,WH-CENTRAL-01,8,200.04,0.15,Sea Freight,18,,,In Transit,644,861,LATAM
+ORD-0084287,2026-02-06 22:42:35,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-SOUTH-03,9,62.25,0.0,Road Freight,9,,,Cancelled,1095,1209,Europe
+ORD-0057049,2026-08-05 10:05:34,SKU-BEAU-0034,Human Bar 0034,beauty & health,pacific coastal cargo,WH-WEST-02,5,45.63,0.15,Sea Freight,21,,,In Transit,383,489,Europe
+ORD-0051072,2026-04-18 17:33:36,SKU-APPA-0013,Agreement Option 0013,Apparel,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,13,371.69,0.25,Road Freight,9,6.0,2026-04-24 17:33:36,Returned,431,1063,Europe
+ORD-0090171,2026-04-10 03:01:27,SKU-BEAU-0034,Human Bar 0034, beauty & health  ,PACIFIC COASTAL CARGO,WH-WEST-02,7,45.63,0.1,Sea Freight,21,25.0,2026-05-05 03:01:27,Delivered,383,489,Middle East
+ORD-0091213,2026-10-02 10:25:35,SKU-ELEC-0002,Ago Site 0002,electronics,apex logistics hub,WH-WEST-02,11,26.43,0.05,Air Freight,7,9.0,2026-10-11 10:25:35,Delivered,242,1161,Middle East
+ORD-0075281,2026-05-30 13:35:17,SKU-SPOR-0047,Long Prove 0047,sports & outdoors,nordic fulfillment ab,WH-EAST-01,4,99.37,0.15,Standard Express,10,9.0,2026-06-08 13:35:17,Delivered,371,191,LATAM
+ORD-0021975,2026-04-23 12:35:25,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,2,39.84,0.05,Sea Freight,16,,,Cancelled,154,366,Middle East
+ORD-0002496,2026-06-21 16:28:54,SKU-BEAU-0036,Themselves Production 0036,BEAUTY & HEALTH,andes supply chain sa,WH-SOUTH-03,7,101.52,0.0,Sea Freight,16,,,Pending,646,902,LATAM
+ORD-0064853,2026-03-09 06:59:56,SKU-ELEC-0002,Ago Site 0002,ELECTRONICS,apex logistics hub,WH-CENTRAL-01,10,26.43,,Air Freight,7,9.0,2026-03-18 06:59:56,Delivered,242,1161,APAC
+ORD-0049925,2026-01-04 10:04:03,SKU-HOME-0030,Everything Surface 0030, home & kitchen  ,FASTTRACK FREIGHT CORP,WH-WEST-02,6,335.01,0.3,Air Freight,12,10.0,2026-01-14 10:04:03,Delivered,687,790,Europe
+ORD-0038946,2025-12-11 10:35:21,SKU-ELEC-0006,Require Sit 0006,electronics,DOMESTIC NEXTDAY LLC,WH-SOUTH-03,5,408.7,0.25,Overnight,3,,,In Transit,83,250,North America
+ORD-0033426,2026-02-03 09:06:14,SKU-HOME-0026,Blue Best 0026,  Home & Kitchen ,  Shenzhen Global Tech Ltd ,WH-SOUTH-03,15,182.19,0.2,Sea Freight,18,19.0,2026-02-22 09:06:14,Delivered,521,513,Europe
+ORD-0041630,2026-01-16 10:02:40,SKU-SPOR-0041,Answer Recently 0041,  Sports & Outdoors ,APEX LOGISTICS HUB,WH-SOUTH-03,7,19.4,0.2,Air Freight,7,10.0,2026-01-26 10:02:40,Delivered,262,343,Middle East
+ORD-0039898,2026-09-22 20:04:36,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS,Andes Supply Chain SA,WH-CENTRAL-01,5,39.84,0.1,Sea Freight,16,,,In Transit,154,366,APAC
+ORD-0014108,2025-12-09 13:33:58,SKU-BEAU-0036,Themselves Production 0036,BEAUTY & HEALTH,Andes Supply Chain SA,WH-WEST-02,2,101.52,0.1,Sea Freight,16,,,In Transit,646,902,Middle East
+ORD-0056896,2025-12-16 12:19:35,SKU-ELEC-0009,Knowledge Almost 0009,ELECTRONICS,domestic nextday llc,WH-WEST-02,8,321.64,0.2,Overnight,3,,,In Transit,402,751,North America
+ORD-0027791,2026-03-14 02:48:48,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS,Andes Supply Chain SA,WH-CENTRAL-01,4,39.84,0.2,Sea Freight,16,,,In Transit,154,366,APAC
+ORD-0023725,2026-02-07 03:00:08,SKU-BEAU-0035,Old Finally 0035,Beauty & Health,PACIFIC COASTAL CARGO,WH-CENTRAL-01,5,74.36,0.1,Sea Freight,21,30.0,2026-03-09 03:00:08,Delivered,610,535,APAC
+ORD-0071925,2026-09-13 01:00:07,SKU-APPA-0014,Decide Sense 0014,apparel,  Shenzhen Global Tech Ltd ,WH-CENTRAL-01,5,200.04,,Sea Freight,18,,,Pending,644,861,APAC
+ORD-0004233,2026-01-29 08:53:25,SKU-APPA-0019,Table True 0019, apparel  ,Andes Supply Chain SA,WH-SOUTH-03,4,83.95,0.15,Sea Freight,16,,,In Transit,353,530,Middle East
+ORD-0043918,2026-06-10 20:51:41,SKU-SPOR-0042,Drive Spring 0042,Sports & Outdoors,apex logistics hub,WH-SOUTH-03,9,112.43,0.05,Air Freight,7,7.0,2026-06-17 20:51:41,Returned,191,680,Middle East
+ORD-0096630,2026-07-08 03:33:05,SKU-ELEC-0006,Require Sit 0006,Electronics, domestic nextday llc  ,WH-WEST-02,7,408.7,0.15,Overnight,3,2.0,2026-07-10 03:33:05,Delivered,83,250,APAC
+ORD-0089977,2026-02-27 04:00:42,SKU-HOME-0024,Clearly Dinner 0024,  Home & Kitchen ,eurodirect distribution,WH-CENTRAL-01,11,62.25,0.05,Road Freight,9,9.0,2026-03-08 04:00:42,Returned,1095,1209,Europe
+ORD-0020935,2026-06-15 07:54:12,SKU-BEAU-0040,Sea Available 0040,Beauty & Health,NORDIC FULFILLMENT AB,WH-SOUTH-03,9,47.74,0.3,Standard Express,10,64.0,2026-08-18 07:54:12,Returned,445,1030,Europe
+ORD-0073116,2026-06-19 15:14:53,SKU-HOME-0023,Grow Fall 0023,Home & Kitchen,  EuroDirect Distribution ,WH-WEST-02,5,350.08,0.15,Road Freight,9,11.0,2026-06-30 15:14:53,Delivered,282,528,North America
+ORD-0054884,2026-03-21 07:22:53,SKU-BEAU-0039,Participant Dark 0039,beauty & health,  Apex Logistics Hub ,WH-CENTRAL-01,6,78.04,0.05,Air Freight,7,,,In Transit,210,715,North America
+ORD-0095117,2026-07-08 19:40:24,SKU-BEAU-0038,Training High 0038,Beauty & Health,shenzhen global tech ltd,WH-SOUTH-03,3,386.78,0.15,Sea Freight,18,,,In Transit,69,515,APAC
+ORD-0073582,2026-01-10 00:17:59,SKU-SPOR-0046,Husband Fall 0046,Sports & Outdoors,Shenzhen Global Tech Ltd,WH-WEST-02,11,247.58,0.05,Sea Freight,18,10.0,2026-01-20 00:17:59,Returned,135,910,
+ORD-0044301,2026-05-21 09:56:54,SKU-SPOR-0042,Drive Spring 0042,sports & outdoors,apex logistics hub,WH-WEST-02,7,112.43,0.05,Air Freight,7,7.0,2026-05-28 09:56:54,Delivered,191,680,Europe
+ORD-0013733,2026-06-08 01:40:53,SKU-ELEC-0006,Require Sit 0006,  Electronics ,Domestic NextDay LLC,WH-SOUTH-03,4,408.7,0.05,Overnight,3,4.0,2026-06-12 01:40:53,Delivered,83,250,LATAM
+ORD-0045002,2026-09-03 02:42:48,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,ANDES SUPPLY CHAIN SA,WH-WEST-02,3,39.84,0.3,Sea Freight,16,17.0,2026-09-20 02:42:48,Delivered,154,366,North America
+ORD-0061575,2025-12-18 01:24:15,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-SOUTH-03,9,460.0,0.05,Standard Express,10,,,In Transit,486,688,North America
+ORD-0053889,2026-05-12 08:43:24,SKU-BEAU-0034,Human Bar 0034,beauty & health,Pacific Coastal Cargo,WH-SOUTH-03,1,45.63,,Sea Freight,21,21.0,2026-06-02 08:43:24,Delivered,383,489,Europe
+ORD-0087242,2025-11-08 21:37:23,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,andes supply chain sa,WH-SOUTH-03,3,39.84,0.15,Sea Freight,16,,,Pending,154,366,APAC
+ORD-0039345,2025-11-15 17:46:36,SKU-APPA-0013,Agreement Option 0013,  Apparel , eurodirect distribution  ,WH-SOUTH-03,13,371.69,0.15,Road Freight,9,,,In Transit,431,1063,LATAM
+ORD-0016184,2025-12-01 07:36:43,SKU-APPA-0012,Mouth Play 0012, apparel  ,Apex Logistics Hub,WH-CENTRAL-01,3,228.61,0.2,Air Freight,7,8.0,2025-12-09 07:36:43,Delivered,361,402,Europe
+ORD-0049036,2026-05-28 02:59:46,SKU-HOME-0027,Husband Bill 0027,  Home & Kitchen ,eurodirect distribution,WH-WEST-02,2,455.2,0.05,Road Freight,9,13.0,2026-06-10 02:59:46,Delivered,111,950,Middle East
+ORD-0054173,2026-05-23 08:45:18,SKU-APPA-0013,Agreement Option 0013,APPAREL, eurodirect distribution  ,WH-EAST-01,15,371.69,0.0,Road Freight,9,6.0,2026-05-29 08:45:18,Delivered,431,1063,APAC
+ORD-0033022,2026-04-21 14:06:27,SKU-APPA-0012,Mouth Play 0012,  Apparel ,Apex Logistics Hub,WH-WEST-02,5,228.61,0.2,Air Freight,7,8.0,2026-04-29 14:06:27,Delivered,361,402,North America
+ORD-0000036,2026-05-31 06:30:20,SKU-ELEC-0003,Face Election 0003,ELECTRONICS,PACIFIC COASTAL CARGO,WH-CENTRAL-01,6,105.46,0.15,Sea Freight,21,,,In Transit,421,347,Europe
+ORD-0050502,2026-09-03 16:55:47,SKU-APPA-0014,Decide Sense 0014,apparel, shenzhen global tech ltd  ,WH-CENTRAL-01,4,200.04,0.1,Sea Freight,18,,,In Transit,644,861,Middle East
+ORD-0019311,2026-05-29 00:42:20,SKU-ELEC-0006,Require Sit 0006, electronics  ,Domestic NextDay LLC,WH-EAST-01,3,408.7,0.2,Overnight,3,,,Cancelled,83,250,Europe
+ORD-0065590,2026-09-29 17:29:33,SKU-SPOR-0050,Hear Determine 0050,  Sports & Outdoors ,eurodirect distribution,WH-EAST-01,4,136.67,0.05,Road Freight,9,9.0,2026-10-08 17:29:33,Delivered,513,512,APAC
+ORD-0058729,2026-09-06 18:15:24,SKU-SPOR-0045,Trial Blood 0045,sports & outdoors, andes supply chain sa  ,WH-EAST-01,8,39.84,0.1,Sea Freight,16,17.0,2026-09-23 18:15:24,Delivered,154,366,Middle East
+ORD-0075758,2026-05-05 18:06:34,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,eurodirect distribution,WH-EAST-01,15,62.25,0.2,Road Freight,9,6.0,2026-05-11 18:06:34,Returned,1095,1209,APAC
+ORD-0053516,2026-03-08 04:59:03,SKU-BEAU-0038,Training High 0038,Beauty & Health,shenzhen global tech ltd,WH-CENTRAL-01,5,386.78,0.3,Sea Freight,18,16.0,2026-03-24 04:59:03,Returned,69,515,Europe
+ORD-0000579,2026-08-13 06:00:01,SKU-HOME-0023,Grow Fall 0023,  Home & Kitchen ,  EuroDirect Distribution ,WH-WEST-02,8,350.08,0.3,Road Freight,9,11.0,2026-08-24 06:00:01,Delivered,282,528,Europe
+ORD-0098189,2026-02-04 21:01:02,SKU-ELEC-0005,Since Blue 0005,electronics,  Nordic Fulfillment AB ,WH-CENTRAL-01,8,460.0,0.1,Standard Express,10,,,Pending,486,688,LATAM
+ORD-0097147,2026-06-01 10:08:56,SKU-SPOR-0046,Husband Fall 0046,sports & outdoors, shenzhen global tech ltd  ,WH-EAST-01,6,247.58,0.0,Sea Freight,18,13.0,2026-06-14 10:08:56,Delivered,135,910,North America
+ORD-0013798,2026-03-06 13:21:18,SKU-SPOR-0043,Figure Base 0043,sports & outdoors,fasttrack freight corp,WH-WEST-02,4,195.02,0.3,Air Freight,12,11.0,2026-03-17 13:21:18,Delivered,90,165,Europe
+ORD-0040638,2025-12-18 00:44:59,SKU-ELEC-0006,Require Sit 0006,  Electronics ,  Domestic NextDay LLC ,WH-CENTRAL-01,4,408.7,0.2,Overnight,3,4.0,2025-12-22 00:44:59,Delivered,83,250,North America
+ORD-0008170,2025-12-06 06:54:00,SKU-SPOR-0045,Trial Blood 0045,  Sports & Outdoors ,  Andes Supply Chain SA ,WH-SOUTH-03,3,39.84,,Sea Freight,16,7.0,2025-12-13 06:54:00,Returned,154,366,LATAM
+ORD-0021291,2026-09-02 02:16:00,SKU-HOME-0029,Guy Pm 0029,Home & Kitchen,Nordic Fulfillment AB,WH-CENTRAL-01,7,89.7,0.15,Standard Express,10,13.0,2026-09-15 02:16:00,Returned,385,694,APAC
+ORD-0064898,2025-11-20 12:18:12,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,  Apex Logistics Hub ,WH-CENTRAL-01,7,19.4,0.05,Air Freight,7,10.0,2025-11-30 12:18:12,Delivered,262,343,Middle East
+ORD-0017912,2026-04-18 17:40:15,SKU-BEAU-0035,Old Finally 0035,BEAUTY & HEALTH,Pacific Coastal Cargo,WH-CENTRAL-01,6,74.36,0.15,Sea Freight,21,22.0,2026-05-10 17:40:15,Delivered,610,535,Middle East
+ORD-0086641,2025-10-27 15:02:16,SKU-SPOR-0045,Trial Blood 0045, sports & outdoors  ,andes supply chain sa,WH-SOUTH-03,4,39.84,0.3,Sea Freight,16,,,Cancelled,154,366,APAC
+ORD-0080117,2025-11-04 18:53:39,SKU-SPOR-0044,Top Early 0044,  Sports & Outdoors ,Andes Supply Chain SA,WH-CENTRAL-01,5,477.86,0.3,Sea Freight,16,16.0,2025-11-20 18:53:39,Returned,429,1136,APAC
+ORD-0072615,2026-01-06 00:55:31,SKU-APPA-0012,Mouth Play 0012,  Apparel ,apex logistics hub,WH-CENTRAL-01,-4,228.61,0.1,Air Freight,7,9.0,2026-01-15 00:55:31,Returned,361,402,APAC
+ORD-0009831,2026-01-27 16:56:30,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,Pacific Coastal Cargo,WH-EAST-01,3,45.63,0.1,Sea Freight,21,12.0,2026-02-08 16:56:30,Delivered,383,489,Middle East
+ORD-0018169,2026-08-30 09:42:45,SKU-APPA-0013,Agreement Option 0013,Apparel,EURODIRECT DISTRIBUTION,WH-WEST-02,11,371.69,0.1,Road Freight,9,,,In Transit,431,1063,Europe
+ORD-0025265,2026-08-03 04:29:38,SKU-SPOR-0044,Top Early 0044,Sports & Outdoors,andes supply chain sa,WH-EAST-01,10,477.86,0.25,Sea Freight,16,18.0,2026-08-21 04:29:38,Returned,429,1136,North America
+ORD-0092108,2025-11-14 16:45:44,SKU-APPA-0016,Offer Kind 0016,Apparel,pacific coastal cargo,WH-CENTRAL-01,15,227.01,0.3,Sea Freight,21,30.0,2025-12-14 16:45:44,Returned,610,1655,APAC
+ORD-0058079,2025-10-28 16:22:18,SKU-SPOR-0050,Hear Determine 0050,sports & outdoors,eurodirect distribution,WH-SOUTH-03,12,136.67,0.1,Road Freight,9,9.0,2025-11-06 16:22:18,Delivered,513,512,APAC
+ORD-0012163,2026-01-20 09:55:05,SKU-HOME-0021,Sure Collection 0021,  Home & Kitchen ,  Andes Supply Chain SA ,WH-SOUTH-03,13,453.09,0.2,Sea Freight,16,,,Cancelled,452,1295,Europe
+ORD-0050304,2026-02-15 21:39:28,SKU-HOME-0023,Grow Fall 0023,HOME & KITCHEN,eurodirect distribution,WH-WEST-02,8,350.08,0.25,Road Freight,9,6.0,2026-02-21 21:39:28,Returned,282,528,LATAM
+ORD-0034064,2026-06-14 03:56:28,SKU-BEAU-0035,Old Finally 0035,beauty & health,Pacific Coastal Cargo,WH-WEST-02,5,74.36,0.25,Sea Freight,21,17.0,2026-07-01 03:56:28,Returned,610,535,Middle East
+ORD-0057131,2026-06-13 00:47:36,SKU-HOME-0027,Husband Bill 0027,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-EAST-01,8,455.2,0.0,Road Freight,9,,,Pending,111,950,APAC
+ORD-0058136,2026-06-13 15:49:12,SKU-APPA-0016,Offer Kind 0016,Apparel,pacific coastal cargo,WH-EAST-01,12,227.01,0.3,Sea Freight,21,31.0,2026-07-14 15:49:12,Delivered,610,1655,Europe
+ORD-0045758,2025-10-23 11:19:56,SKU-HOME-0029,Guy Pm 0029,home & kitchen,Nordic Fulfillment AB,WH-SOUTH-03,4,89.7,0.0,Standard Express,10,9.0,2025-11-01 11:19:56,Returned,385,694,APAC
+ORD-0091990,2026-02-08 12:34:07,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,nordic fulfillment ab,WH-WEST-02,9,460.0,0.05,Standard Express,10,,,In Transit,486,688,Europe
+ORD-0011896,2026-01-17 19:16:35,SKU-HOME-0024,Clearly Dinner 0024,HOME & KITCHEN,  EuroDirect Distribution ,WH-EAST-01,14,62.25,0.05,Road Freight,9,,,Pending,1095,1209,LATAM
+ORD-0081998,2026-03-03 16:35:23,SKU-BEAU-0040,Sea Available 0040,  Beauty & Health , nordic fulfillment ab  ,WH-EAST-01,6,47.74,0.15,Standard Express,10,16.0,2026-03-19 16:35:23,Delivered,445,1030,Europe
+ORD-0026042,2026-02-15 08:57:01,SKU-ELEC-0008,Begin Performance 0008,ELECTRONICS,FASTTRACK FREIGHT CORP,WH-EAST-01,4,301.66,0.3,Air Freight,12,,,In Transit,268,518,LATAM
+ORD-0031371,2026-06-14 19:02:11,SKU-BEAU-0038,Training High 0038,  Beauty & Health ,Shenzhen Global Tech Ltd,WH-CENTRAL-01,3,386.78,0.05,Sea Freight,18,,,Pending,69,515,Middle East
+ORD-0000867,2025-11-11 11:51:21,SKU-BEAU-0032,Machine Not 0032,Beauty & Health,andes supply chain sa,WH-CENTRAL-01,6,22.33,0.25,Sea Freight,16,,,Cancelled,163,253,LATAM
+ORD-0071263,2026-03-14 11:56:07,SKU-APPA-0013,Agreement Option 0013,  Apparel ,  EuroDirect Distribution ,WH-EAST-01,9,371.69,0.0,Road Freight,9,5.0,2026-03-19 11:56:07,Returned,431,1063,Europe
+ORD-0094423,2026-07-07 03:37:39,SKU-BEAU-0036,Themselves Production 0036,beauty & health,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,3,101.52,0.25,Sea Freight,16,17.0,2026-07-24 03:37:39,Delivered,646,902,LATAM
+ORD-0008992,2026-09-04 04:48:29,SKU-ELEC-0006,Require Sit 0006,  Electronics ,  Domestic NextDay LLC ,WH-WEST-02,7,408.7,0.25,Overnight,3,,,Cancelled,83,250,North America
+ORD-0054808,2025-12-18 23:09:29,SKU-APPA-0013,Agreement Option 0013,APPAREL,EuroDirect Distribution,WH-WEST-02,10,371.69,0.05,Road Freight,9,10.0,2025-12-28 23:09:29,Delivered,431,1063,North America
+ORD-0039922,2026-05-05 03:38:01,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,fasttrack freight corp,WH-SOUTH-03,5,335.01,0.05,Air Freight,12,8.0,2026-05-13 03:38:01,Delivered,687,790,Middle East
+ORD-0005289,2026-03-20 20:08:54,SKU-SPOR-0048,They His 0048,SPORTS & OUTDOORS,apex logistics hub,WH-SOUTH-03,7,278.82,0.2,Air Freight,7,6.0,2026-03-26 20:08:54,Delivered,366,994,North America
+ORD-0008602,2026-07-31 10:23:39,SKU-SPOR-0045,Trial Blood 0045,Sports & Outdoors,Andes Supply Chain SA,WH-EAST-01,4,39.84,0.3,Sea Freight,16,19.0,2026-08-19 10:23:39,Delivered,154,366,North America
+ORD-0064482,2025-11-06 18:49:28,SKU-SPOR-0049,Commercial Hospital 0049,sports & outdoors,Shenzhen Global Tech Ltd,WH-SOUTH-03,3,256.9,0.3,Sea Freight,18,28.0,2025-12-04 18:49:28,Delivered,213,422,Middle East
+ORD-0066571,2026-08-20 07:46:14,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,apex logistics hub,WH-WEST-02,1,19.4,,Air Freight,7,,,Cancelled,262,343,North America
+ORD-0039263,2026-06-09 06:34:48,SKU-BEAU-0034,Human Bar 0034,beauty & health,pacific coastal cargo,WH-EAST-01,7,45.63,0.2,Sea Freight,21,26.0,2026-07-05 06:34:48,Delivered,383,489,North America
+ORD-0097307,2026-04-13 10:32:37,SKU-SPOR-0048,They His 0048,Sports & Outdoors,Apex Logistics Hub,WH-CENTRAL-01,10,278.82,0.15,Air Freight,7,,,In Transit,366,994,Middle East
+ORD-0043301,2025-11-02 07:54:18,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS,Apex Logistics Hub,WH-CENTRAL-01,3,19.4,0.25,Air Freight,7,6.0,2025-11-08 07:54:18,Delivered,262,343,Middle East
+ORD-0076653,2026-04-28 02:29:47,SKU-ELEC-0005,Since Blue 0005,electronics, nordic fulfillment ab  ,WH-CENTRAL-01,10,460.0,0.0,Standard Express,10,9.0,2026-05-07 02:29:47,Returned,486,688,Middle East
+ORD-0021457,2026-07-22 11:03:24,SKU-SPOR-0044,Top Early 0044,Sports & Outdoors,  Andes Supply Chain SA ,WH-CENTRAL-01,3,477.86,0.15,Sea Freight,16,16.0,2026-08-07 11:03:24,Delivered,429,1136,APAC
+ORD-0015889,2026-04-04 08:31:13,SKU-ELEC-0001,Purpose Brother 0001,electronics,APEX LOGISTICS HUB,WH-EAST-01,8,77.73,0.3,Air Freight,7,,,Pending,240,201,LATAM
+ORD-0007302,2026-04-28 01:17:53,SKU-HOME-0026,Blue Best 0026,Home & Kitchen,  Shenzhen Global Tech Ltd ,WH-WEST-02,11,182.19,0.05,Sea Freight,18,18.0,2026-05-16 01:17:53,Returned,521,513,North America
+ORD-0014763,2026-10-01 06:38:23,SKU-BEAU-0033,Capital Win 0033,Beauty & Health, pacific coastal cargo  ,WH-WEST-02,9,307.54,0.0,Sea Freight,21,,,Pending,452,770,APAC
+ORD-0090814,2026-06-07 10:29:40,SKU-APPA-0016,Offer Kind 0016,Apparel,pacific coastal cargo,WH-EAST-01,9,227.01,0.05,Sea Freight,21,24.0,2026-07-01 10:29:40,Returned,610,1655,Middle East
+ORD-0010444,2026-04-07 07:29:04,SKU-ELEC-0005,Since Blue 0005,electronics,Nordic Fulfillment AB,WH-WEST-02,12,460.0,0.25,Standard Express,10,,,Pending,486,688,North America
+ORD-0057331,2026-08-29 10:39:27,SKU-APPA-0019,Table True 0019,  Apparel ,Andes Supply Chain SA,WH-EAST-01,3,83.95,,Sea Freight,16,13.0,2026-09-11 10:39:27,Delivered,353,530,LATAM
+ORD-0080249,2026-07-26 03:56:30,SKU-SPOR-0050,Hear Determine 0050,sports & outdoors,  EuroDirect Distribution ,WH-SOUTH-03,7,136.67,0.0,Road Freight,9,9.0,2026-08-04 03:56:30,Returned,513,512,Europe
+ORD-0072121,2026-05-12 11:36:59,SKU-APPA-0020,According Song 0020,APPAREL, nordic fulfillment ab  ,WH-EAST-01,5,291.08,0.25,Standard Express,10,9.0,2026-05-21 11:36:59,Returned,772,929,Europe
+ORD-0037876,2026-02-11 08:11:29,SKU-HOME-0024,Clearly Dinner 0024,home & kitchen,EuroDirect Distribution,WH-WEST-02,9,62.25,0.25,Road Freight,9,,,In Transit,1095,1209,North America
+ORD-0023078,2026-04-01 17:03:34,SKU-BEAU-0039,Participant Dark 0039,Beauty & Health,  Apex Logistics Hub ,WH-EAST-01,4,78.04,0.3,Air Freight,7,9.0,2026-04-10 17:03:34,Delivered,210,715,Middle East
+ORD-0051506,2026-05-15 04:07:33,SKU-ELEC-0006,Require Sit 0006,Electronics,DOMESTIC NEXTDAY LLC,WH-EAST-01,-2,408.7,0.05,Overnight,3,4.0,2026-05-19 04:07:33,Returned,83,250,Middle East
+ORD-0071035,2026-06-20 00:31:52,SKU-HOME-0025,Source Great 0025,Home & Kitchen,  EuroDirect Distribution ,WH-SOUTH-03,6,368.97,0.0,Road Freight,9,7.0,2026-06-27 00:31:52,Delivered,899,783,Europe
+ORD-0076319,2026-01-22 05:58:01,SKU-ELEC-0009,Knowledge Almost 0009,electronics, domestic nextday llc  ,WH-WEST-02,10,321.64,0.25,Overnight,3,3.0,2026-01-25 05:58:01,Delivered,402,751,Europe
+ORD-0080717,2026-01-17 09:19:47,SKU-APPA-0013,Agreement Option 0013,apparel, eurodirect distribution  ,WH-CENTRAL-01,14,371.69,,Road Freight,9,8.0,2026-01-25 09:19:47,Delivered,431,1063,Europe
+ORD-0000227,2026-04-19 09:46:43,SKU-ELEC-0005,Since Blue 0005,Electronics,Nordic Fulfillment AB,WH-SOUTH-03,11,460.0,0.05,Standard Express,10,,,In Transit,486,688,North America
+ORD-0060442,2026-02-15 11:52:23,SKU-HOME-0023,Grow Fall 0023,Home & Kitchen,eurodirect distribution,WH-SOUTH-03,12,350.08,0.0,Road Freight,9,,,Cancelled,282,528,Middle East
+ORD-0013675,2026-03-21 04:40:30,SKU-ELEC-0005,Since Blue 0005,Electronics,nordic fulfillment ab,WH-EAST-01,4,460.0,0.3,Standard Express,10,11.0,2026-04-01 04:40:30,Delivered,486,688,Middle East
+ORD-0045659,2026-04-30 03:10:00,SKU-BEAU-0032,Machine Not 0032,Beauty & Health,  Andes Supply Chain SA ,WH-EAST-01,5,22.33,0.3,Sea Freight,16,,,Cancelled,163,253,LATAM
+ORD-0033246,2026-07-11 04:58:22,SKU-BEAU-0032,Machine Not 0032,Beauty & Health,Andes Supply Chain SA,WH-WEST-02,5,22.33,0.25,Sea Freight,16,,,Cancelled,163,253,Middle East
+ORD-0052591,2026-04-25 10:25:53,SKU-HOME-0024,Clearly Dinner 0024,Home & Kitchen,EURODIRECT DISTRIBUTION,WH-EAST-01,11,62.25,0.25,Road Freight,9,12.0,2026-05-07 10:25:53,Delivered,1095,1209,North America
+ORD-0097754,2026-05-17 08:42:41,SKU-HOME-0024,Clearly Dinner 0024,home & kitchen,EuroDirect Distribution,WH-EAST-01,6,62.25,0.05,Road Freight,9,31.0,2026-06-17 08:42:41,Delivered,1095,1209,LATAM
+ORD-0009431,2026-09-04 12:37:31,SKU-HOME-0025,Source Great 0025,HOME & KITCHEN,EuroDirect Distribution,WH-EAST-01,11,368.97,0.3,Road Freight,9,7.0,2026-09-11 12:37:31,Returned,899,783,LATAM
+ORD-0096168,2026-07-15 23:31:16,SKU-HOME-0021,Sure Collection 0021,home & kitchen,  Andes Supply Chain SA ,WH-WEST-02,14,453.09,0.3,Sea Freight,16,16.0,2026-07-31 23:31:16,Delivered,452,1295,Middle East
+ORD-0059703,2026-07-20 16:04:36,SKU-ELEC-0004,Dog Chair 0004,  Electronics , fasttrack freight corp  ,WH-EAST-01,8,418.9,0.0,Air Freight,12,10.0,2026-07-30 16:04:36,Returned,382,513,Europe
+ORD-0082327,2025-11-26 13:16:28,SKU-BEAU-0039,Participant Dark 0039,  Beauty & Health ,APEX LOGISTICS HUB,WH-SOUTH-03,8,78.04,0.2,Air Freight,7,,,Pending,210,715,LATAM
+ORD-0030757,2026-05-23 21:05:38,SKU-ELEC-0006,Require Sit 0006,Electronics,Domestic NextDay LLC,WH-SOUTH-03,7,408.7,0.15,Overnight,3,4.0,2026-05-27 21:05:38,Delivered,83,250,APAC
+ORD-0075652,2026-04-14 13:47:03,SKU-ELEC-0008,Begin Performance 0008,Electronics,  FastTrack Freight Corp ,WH-CENTRAL-01,7,301.66,0.2,Air Freight,12,,,In Transit,268,518,Europe
+ORD-0073095,2026-05-28 00:49:57,SKU-APPA-0015,Rate Science 0015, apparel  , apex logistics hub  ,WH-EAST-01,6,348.12,0.1,Air Freight,7,3.0,2026-05-31 00:49:57,Delivered,676,672,Middle East
+ORD-0061055,2026-01-15 22:37:33,SKU-SPOR-0045,Trial Blood 0045, sports & outdoors  ,ANDES SUPPLY CHAIN SA,WH-EAST-01,5,39.84,0.0,Sea Freight,16,,,In Transit,154,366,North America
+ORD-0068947,2026-09-04 03:11:55,SKU-ELEC-0008,Begin Performance 0008,Electronics,FASTTRACK FREIGHT CORP,WH-WEST-02,3,301.66,0.05,Air Freight,12,9.0,2026-09-13 03:11:55,Delivered,268,518,Middle East
+ORD-0041407,2026-07-20 15:28:30,SKU-BEAU-0032,Machine Not 0032,  Beauty & Health ,andes supply chain sa,WH-SOUTH-03,2,22.33,0.2,Sea Freight,16,17.0,2026-08-06 15:28:30,Returned,163,253,Middle East
+ORD-0099753,2026-10-04 14:23:14,SKU-SPOR-0044,Top Early 0044,Sports & Outdoors,Andes Supply Chain SA,WH-WEST-02,7,477.86,0.2,Sea Freight,16,14.0,2026-10-18 14:23:14,Delivered,429,1136,LATAM
+ORD-0088384,2026-09-30 21:39:59,SKU-ELEC-0003,Face Election 0003,electronics,pacific coastal cargo,WH-WEST-02,9,105.46,0.15,Sea Freight,21,17.0,2026-10-17 21:39:59,Delivered,421,347,LATAM
+ORD-0095934,2025-12-14 06:22:36,SKU-HOME-0022,Save Knowledge 0022,HOME & KITCHEN,Apex Logistics Hub,WH-WEST-02,17,171.53,0.15,Air Freight,7,,,Pending,1135,1598,APAC
+ORD-0070003,2025-12-17 22:04:08,SKU-BEAU-0034,Human Bar 0034,Beauty & Health,Pacific Coastal Cargo,WH-SOUTH-03,3,45.63,0.25,Sea Freight,21,24.0,2026-01-10 22:04:08,Delivered,383,489,Europe
+ORD-0010464,2026-06-14 06:35:50,SKU-SPOR-0049,Commercial Hospital 0049,Sports & Outdoors,SHENZHEN GLOBAL TECH LTD,WH-CENTRAL-01,1,256.9,0.0,Sea Freight,18,19.0,2026-07-03 06:35:50,Delivered,213,422,North America
+ORD-0016673,2026-06-02 12:49:10,SKU-BEAU-0031,Animal Show 0031,  Beauty & Health ,EURODIRECT DISTRIBUTION,WH-EAST-01,8,217.31,0.2,Road Freight,9,,,In Transit,1149,1138,North America
+ORD-0061664,2026-02-17 00:51:51,SKU-HOME-0027,Husband Bill 0027, home & kitchen  ,eurodirect distribution,WH-SOUTH-03,4,455.2,0.3,Road Freight,9,,,In Transit,111,950,LATAM
+ORD-0027020,2026-05-02 21:51:16,SKU-SPOR-0042,Drive Spring 0042,SPORTS & OUTDOORS,apex logistics hub,WH-EAST-01,4,112.43,0.15,Air Freight,7,,,Pending,191,680,LATAM
+ORD-0000088,2026-04-06 23:39:51,SKU-BEAU-0034,Human Bar 0034,BEAUTY & HEALTH,PACIFIC COASTAL CARGO,WH-CENTRAL-01,1,45.63,0.3,Sea Freight,21,16.0,2026-04-22 23:39:51,Delivered,383,489,North America
+ORD-0065249,2026-02-07 23:08:09,SKU-ELEC-0008,Begin Performance 0008,ELECTRONICS,FASTTRACK FREIGHT CORP,WH-EAST-01,4,301.66,0.0,Air Freight,12,,,Cancelled,268,518,APAC
+ORD-0042372,2026-06-25 23:29:21,SKU-SPOR-0041,Answer Recently 0041,  Sports & Outdoors ,apex logistics hub,WH-SOUTH-03,7,19.4,0.1,Air Freight,7,,,Pending,262,343,Europe
+ORD-0056613,2026-04-22 09:34:50,SKU-ELEC-0005,Since Blue 0005,electronics, nordic fulfillment ab  ,WH-WEST-02,10,460.0,0.3,Standard Express,10,,,Cancelled,486,688,North America
+ORD-0087516,2026-06-30 13:15:56,SKU-APPA-0013,Agreement Option 0013,APPAREL,eurodirect distribution,WH-EAST-01,11,371.69,0.3,Road Freight,9,,,Cancelled,431,1063,Europe
+ORD-0019292,2026-03-05 21:08:49,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,APEX LOGISTICS HUB,WH-WEST-02,3,19.4,0.05,Air Freight,7,,,In Transit,262,343,LATAM
+ORD-0073217,2026-10-07 07:47:50,SKU-HOME-0025,Source Great 0025,Home & Kitchen, eurodirect distribution  ,WH-EAST-01,10,368.97,0.0,Road Freight,9,23.0,2026-10-30 07:47:50,Returned,899,783,Europe
+ORD-0008236,2026-01-31 01:17:08,SKU-HOME-0025,Source Great 0025,Home & Kitchen,EuroDirect Distribution,WH-CENTRAL-01,10,368.97,0.3,Road Freight,9,,,Cancelled,899,783,
+ORD-0031671,2026-10-15 03:49:33,SKU-ELEC-0008,Begin Performance 0008,  Electronics ,FastTrack Freight Corp,WH-SOUTH-03,4,301.66,0.2,Air Freight,12,,,In Transit,268,518,Europe
+ORD-0022365,2025-10-24 20:17:55,SKU-HOME-0023,Grow Fall 0023,  Home & Kitchen ,eurodirect distribution,WH-SOUTH-03,5,350.08,0.15,Road Freight,9,10.0,2025-11-03 20:17:55,Returned,282,528,Europe
+ORD-0061080,2025-11-26 14:15:30,SKU-BEAU-0035,Old Finally 0035,BEAUTY & HEALTH, pacific coastal cargo  ,WH-WEST-02,5,74.36,,Sea Freight,21,10.0,2025-12-06 14:15:30,Delivered,610,535,Europe
+ORD-0088102,2026-03-30 09:56:50,SKU-HOME-0030,Everything Surface 0030,home & kitchen,fasttrack freight corp,WH-WEST-02,9,335.01,0.05,Air Freight,12,,,Cancelled,687,790,LATAM
+ORD-0098589,2026-04-29 22:13:50,SKU-HOME-0021,Sure Collection 0021,home & kitchen,Andes Supply Chain SA,WH-EAST-01,11,453.09,0.2,Sea Freight,16,21.0,2026-05-20 22:13:50,Delivered,452,1295,Middle East
+ORD-0033553,2025-12-05 18:24:35,SKU-APPA-0019,Table True 0019,apparel,Andes Supply Chain SA,WH-EAST-01,5,83.95,0.2,Sea Freight,16,17.0,2025-12-22 18:24:35,Delivered,353,530,APAC
+ORD-0001323,2026-09-22 09:17:59,SKU-ELEC-0002,Ago Site 0002,electronics,  Apex Logistics Hub ,WH-SOUTH-03,9,26.43,,Air Freight,7,,,Cancelled,242,1161,Middle East
+ORD-0037713,2026-05-13 10:54:42,SKU-ELEC-0008,Begin Performance 0008,electronics,FastTrack Freight Corp,WH-EAST-01,4,301.66,0.1,Air Freight,12,31.0,2026-06-13 10:54:42,Delivered,268,518,Middle East
+ORD-0034039,2026-01-27 17:29:57,SKU-ELEC-0008,Begin Performance 0008,Electronics,FastTrack Freight Corp,WH-CENTRAL-01,4,301.66,0.2,Air Freight,12,,,Cancelled,268,518,Europe
+ORD-0025818,2026-01-23 08:44:31,SKU-APPA-0012,Mouth Play 0012,apparel,APEX LOGISTICS HUB,WH-SOUTH-03,7,228.61,0.0,Air Freight,7,5.0,2026-01-28 08:44:31,Delivered,361,402,APAC
+ORD-0000691,2025-12-27 15:48:41,SKU-BEAU-0033,Capital Win 0033,BEAUTY & HEALTH,Pacific Coastal Cargo,WH-CENTRAL-01,9,307.54,0.3,Sea Freight,21,,,In Transit,452,770,LATAM
+ORD-0005277,2026-08-29 11:55:59,SKU-SPOR-0044,Top Early 0044,  Sports & Outdoors ,andes supply chain sa,WH-CENTRAL-01,10,477.86,,Sea Freight,16,9.0,2026-09-07 11:55:59,Delivered,429,1136,North America
+ORD-0029869,2026-08-26 06:28:14,SKU-HOME-0021,Sure Collection 0021,home & kitchen,Andes Supply Chain SA,WH-EAST-01,10,453.09,0.15,Sea Freight,16,17.0,2026-09-12 06:28:14,Returned,452,1295,Middle East
+ORD-0035148,2026-08-17 12:48:21,SKU-SPOR-0047,Long Prove 0047,SPORTS & OUTDOORS,nordic fulfillment ab,WH-CENTRAL-01,5,99.37,0.15,Standard Express,10,8.0,2026-08-25 12:48:21,Delivered,371,191,Europe
+ORD-0091325,2026-06-11 22:42:41,SKU-APPA-0013,Agreement Option 0013,apparel, eurodirect distribution  ,WH-SOUTH-03,13,371.69,0.05,Road Freight,9,35.0,2026-07-16 22:42:41,Delivered,431,1063,Europe
+ORD-0023891,2026-10-15 14:29:22,SKU-SPOR-0045,Trial Blood 0045,sports & outdoors,ANDES SUPPLY CHAIN SA,WH-CENTRAL-01,6,39.84,0.05,Sea Freight,16,19.0,2026-11-03 14:29:22,Returned,154,366,Middle East
+ORD-0030045,2025-10-31 18:41:12,SKU-APPA-0012,Mouth Play 0012,Apparel,Apex Logistics Hub,WH-EAST-01,4,228.61,0.2,Air Freight,7,,,Pending,361,402,LATAM
+ORD-0058552,2026-10-06 23:15:55,SKU-BEAU-0037,Present Value 0037,beauty & health,  Apex Logistics Hub ,WH-CENTRAL-01,13,416.34,0.2,Air Freight,7,11.0,2026-10-17 23:15:55,Delivered,501,956,APAC
+ORD-0094736,2025-12-27 12:18:26,SKU-APPA-0016,Offer Kind 0016,APPAREL,pacific coastal cargo,WH-CENTRAL-01,9,227.01,0.1,Sea Freight,21,24.0,2026-01-20 12:18:26,Returned,610,1655,North America
+ORD-0094702,2026-10-09 23:50:20,SKU-ELEC-0005,Since Blue 0005,ELECTRONICS,NORDIC FULFILLMENT AB,WH-SOUTH-03,12,460.0,0.2,Standard Express,10,,,Cancelled,486,688,APAC
+ORD-0043766,2026-09-23 12:00:50,SKU-BEAU-0035,Old Finally 0035,  Beauty & Health ,  Pacific Coastal Cargo ,WH-SOUTH-03,7,74.36,0.1,Sea Freight,21,25.0,2026-10-18 12:00:50,Delivered,610,535,Middle East
+ORD-0098949,2026-09-18 09:00:23,SKU-ELEC-0006,Require Sit 0006,electronics,Domestic NextDay LLC,WH-EAST-01,5,408.7,,Overnight,3,4.0,2026-09-22 09:00:23,Delivered,83,250,LATAM
+ORD-0049183,2026-09-08 14:16:55,SKU-SPOR-0041,Answer Recently 0041, sports & outdoors  ,apex logistics hub,WH-EAST-01,7,19.4,0.15,Air Freight,7,,,Pending,262,343,LATAM
+ORD-0046583,2026-05-23 06:10:02,SKU-BEAU-0034,Human Bar 0034,BEAUTY & HEALTH,PACIFIC COASTAL CARGO,WH-CENTRAL-01,7,45.63,0.0,Sea Freight,21,,,In Transit,383,489,LATAM
+ORD-0093736,2026-01-24 23:12:26,SKU-SPOR-0041,Answer Recently 0041,Sports & Outdoors,  Apex Logistics Hub ,WH-CENTRAL-01,2,19.4,0.2,Air Freight,7,,,Pending,262,343,LATAM
+ORD-0089581,2026-03-07 15:34:06,SKU-HOME-0023,Grow Fall 0023,home & kitchen,EURODIRECT DISTRIBUTION,WH-CENTRAL-01,9,350.08,0.05,Road Freight,9,,,In Transit,282,528,Middle East
+ORD-0007292,2026-07-25 21:13:01,SKU-APPA-0019,Table True 0019,Apparel,andes supply chain sa,WH-SOUTH-03,6,83.95,0.25,Sea Freight,16,14.0,2026-08-08 21:13:01,Delivered,353,530,North America
+ORD-0064441,2026-08-17 16:14:32,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,  FastTrack Freight Corp ,WH-CENTRAL-01,5,335.01,0.2,Air Freight,12,16.0,2026-09-02 16:14:32,Delivered,687,790,APAC
+ORD-0007096,2026-08-26 20:12:54,SKU-HOME-0021,Sure Collection 0021,home & kitchen, andes supply chain sa  ,WH-WEST-02,-3,453.09,0.25,Sea Freight,16,10.0,2026-09-05 20:12:54,Returned,452,1295,North America
+ORD-0060903,2026-02-25 09:22:49,SKU-SPOR-0045,Trial Blood 0045,sports & outdoors,Andes Supply Chain SA,WH-EAST-01,5,39.84,0.05,Sea Freight,16,25.0,2026-03-22 09:22:49,Delivered,154,366,APAC
+ORD-0045455,2026-08-14 21:46:04,SKU-ELEC-0004,Dog Chair 0004,Electronics, fasttrack freight corp  ,WH-SOUTH-03,5,418.9,0.15,Air Freight,12,,,Pending,382,513,North America
+ORD-0052748,2026-04-19 07:24:07,SKU-SPOR-0041,Answer Recently 0041,sports & outdoors,apex logistics hub,WH-CENTRAL-01,5,19.4,0.05,Air Freight,7,6.0,2026-04-25 07:24:07,Delivered,262,343,APAC
+ORD-0033733,2026-03-16 11:01:14,SKU-HOME-0021,Sure Collection 0021,Home & Kitchen,andes supply chain sa,WH-EAST-01,7,453.09,0.3,Sea Freight,16,16.0,2026-04-01 11:01:14,Delivered,452,1295,Middle East
+ORD-0038041,2026-05-09 13:49:12,SKU-BEAU-0032,Machine Not 0032,  Beauty & Health ,ANDES SUPPLY CHAIN SA,WH-WEST-02,4,22.33,0.0,Sea Freight,16,15.0,2026-05-24 13:49:12,Delivered,163,253,Middle East
+ORD-0001863,2026-03-28 15:09:42,SKU-SPOR-0046,Husband Fall 0046,sports & outdoors,Shenzhen Global Tech Ltd,WH-WEST-02,9,247.58,0.0,Sea Freight,18,,,Pending,135,910,LATAM
+ORD-0097237,2026-09-06 10:25:53,SKU-BEAU-0040,Sea Available 0040, beauty & health  ,  Nordic Fulfillment AB ,WH-CENTRAL-01,11,47.74,0.3,Standard Express,10,6.0,2026-09-12 10:25:53,Delivered,445,1030,Middle East
+ORD-0071339,2026-07-31 06:51:41,SKU-BEAU-0034,Human Bar 0034,beauty & health,pacific coastal cargo,WH-WEST-02,2,45.63,0.15,Sea Freight,21,30.0,2026-08-30 06:51:41,Returned,383,489,North America
+ORD-0030964,2026-02-14 14:21:59,SKU-HOME-0029,Guy Pm 0029, home & kitchen  ,  Nordic Fulfillment AB ,WH-SOUTH-03,2,89.7,0.15,Standard Express,10,,,Pending,385,694,APAC
+ORD-0056561,2026-06-04 23:30:36,SKU-APPA-0013,Agreement Option 0013, apparel  ,EURODIRECT DISTRIBUTION,WH-SOUTH-03,15,371.69,0.2,Road Freight,9,7.0,2026-06-11 23:30:36,Delivered,431,1063,Middle East
+ORD-0069242,2026-03-16 13:25:23,SKU-APPA-0013,Agreement Option 0013,  Apparel ,EuroDirect Distribution,WH-SOUTH-03,10,371.69,0.2,Road Freight,9,,,Cancelled,431,1063,North America
+ORD-0006302,2026-04-20 23:08:01,SKU-ELEC-0009,Knowledge Almost 0009,Electronics,Domestic NextDay LLC,WH-CENTRAL-01,8,321.64,0.25,Overnight,3,3.0,2026-04-23 23:08:01,Returned,402,751,North America
+ORD-0087851,2026-09-20 04:50:18,SKU-SPOR-0041,Answer Recently 0041,SPORTS & OUTDOORS,  Apex Logistics Hub ,WH-SOUTH-03,5,19.4,0.15,Air Freight,7,,,In Transit,262,343,LATAM
+ORD-0041738,2026-02-01 12:42:10,SKU-SPOR-0045,Trial Blood 0045,SPORTS & OUTDOORS,Andes Supply Chain SA,WH-WEST-02,8,39.84,0.3,Sea Freight,16,23.0,2026-02-24 12:42:10,Delivered,154,366,Middle East
+ORD-0018440,2026-01-25 18:49:04,SKU-HOME-0027,Husband Bill 0027,home & kitchen,EURODIRECT DISTRIBUTION,WH-SOUTH-03,8,455.2,0.05,Road Freight,9,8.0,2026-02-02 18:49:04,Delivered,111,950,Middle East
+ORD-0043183,2026-07-18 23:50:02,SKU-HOME-0030,Everything Surface 0030,Home & Kitchen,FASTTRACK FREIGHT CORP,WH-EAST-01,11,335.01,0.25,Air Freight,12,6.0,2026-07-24 23:50:02,Returned,687,790,LATAM
+ORD-0067197,2026-01-15 16:41:37,SKU-BEAU-0032,Machine Not 0032, beauty & health  ,andes supply chain sa,WH-WEST-02,7,22.33,0.1,Sea Freight,16,18.0,2026-02-02 16:41:37,Delivered,163,253,APAC

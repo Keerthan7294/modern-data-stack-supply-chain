@@ -1,0 +1,30 @@
+name: 'supply_chain_analytics'
+version: '1.0.0'
+config-version: 2
+
+# Profile defined in profiles.yml
+profile: 'supply_chain_analytics'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+# Materialization strategy across three data layers
+models:
+  supply_chain_analytics:
+    src:
+      +materialized: view
+      +schema: raw_models
+    stg:
+      +materialized: view
+      +schema: staging
+    marts:
+      +materialized: table
+      +schema: analytics

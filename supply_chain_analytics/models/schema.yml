@@ -1,0 +1,67 @@
+version: 2
+
+models:
+  - name: src_supply_chain_orders
+    description: "Raw staging layer model representing normalized ingestion records."
+    columns:
+      - name: order_id
+        description: "Order primary identifier."
+        tests:
+          - not_null
+      - name: sku_id
+        description: "SKU identifier."
+        tests:
+          - not_null
+
+  - name: stg_inventory_orders
+    description: "Cleaned and deduplicated orders model with handled nulls and standardized casing."
+    columns:
+      - name: order_id
+        description: "Deduplicated order primary key."
+        tests:
+          - unique
+          - not_null
+      - name: sku_id
+        description: "Product Stock Keeping Unit identifier."
+        tests:
+          - not_null
+      - name: order_timestamp
+        description: "Timestamp of order placement."
+        tests:
+          - not_null
+      - name: units_ordered
+        description: "Units ordered count."
+        tests:
+          - not_null
+      - name: unit_price
+        description: "Price per unit."
+        tests:
+          - not_null
+
+  - name: fct_inventory_metrics
+    description: "Aggregated SKU inventory mart with demand distribution, lead time variance, and safety stock metrics."
+    columns:
+      - name: sku_id
+        description: "Primary key for SKU grain."
+        tests:
+          - unique
+          - not_null
+      - name: current_stock_level
+        description: "On-hand inventory level snapshot."
+        tests:
+          - not_null
+      - name: safety_stock_units
+        description: "Statistical safety stock threshold for 95% service level."
+        tests:
+          - not_null
+      - name: reorder_point_units
+        description: "Statistical reorder point threshold."
+        tests:
+          - not_null
+      - name: stockout_risk_status
+        description: "Inventory health categorization based on current stock versus safety buffer."
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['CRITICAL', 'HIGH RISK', 'HEALTHY', 'OVERSTOCKED']

@@ -1,0 +1,11 @@
+# Modern Data Stack Supply Chain Analytics Requirements
+pandas>=2.0.0
+numpy>=1.24.0
+Faker>=20.0.0
+SQLAlchemy>=2.0.0
+psycopg2-binary>=2.9.9
+dbt-core>=1.8.0
+dbt-postgres>=1.8.0
+streamlit>=1.30.0
+plotly>=5.18.0
+pyarrow>=14.0.0

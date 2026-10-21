@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: supply_chain_raw
+    database: "{{ env_var('DB_NAME', 'supply_chain_db') }}"
+    schema: raw
+    description: "Raw ingested e-commerce supply chain and inventory logs from upstream transactional systems."
+    tables:
+      - name: supply_chain_orders
+        description: "100k+ transaction records of daily orders, lead times, delivery outcomes, and inventory states."
+        columns:
+          - name: order_id
+            description: "Primary transactional identifier for each order line."
+          - name: order_date
+            description: "Timestamp when the order was placed."
+          - name: sku_id
+            description: "Stock Keeping Unit identifier."
+          - name: category
+            description: "Raw product category with casing inconsistencies."
+          - name: actual_lead_time_days
+            description: "Recorded lead time days from order placement to final delivery."
+          - name: current_stock_level
+            description: "Current on-hand physical inventory at the designated warehouse."

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# dbt artifacts
+supply_chain_analytics/target/
+supply_chain_analytics/dbt_packages/
+supply_chain_analytics/logs/
+supply_chain_analytics/.user.yml
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Docker / Postgres volumes (if mounted locally)
+postgres_data/

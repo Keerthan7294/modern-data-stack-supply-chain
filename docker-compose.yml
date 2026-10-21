@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: supply_chain_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: supply_chain_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      PGDATA: /var/lib/postgresql/data/pgdata
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init_db:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d supply_chain_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    networks:
+      - supply_chain_net
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  supply_chain_net:
+    driver: bridge
